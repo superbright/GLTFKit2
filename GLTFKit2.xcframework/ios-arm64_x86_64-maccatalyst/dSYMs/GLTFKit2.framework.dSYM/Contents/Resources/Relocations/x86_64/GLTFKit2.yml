@@ -1,0 +1,826 @@
+---
+triple:          'x86_64-apple-darwin'
+binary-path:     '/Users/ferhatabdullahoglu/Library/Developer/Xcode/DerivedData/GLTFKit2-fpsgqwkgrginvycadrxldpejlrrq/Build/Intermediates.noindex/ArchiveIntermediates/GLTFKit2/InstallationBuildProductsLocation/Library/Frameworks/GLTFKit2.framework/Versions/A/GLTFKit2'
+relocations:
+  - { offsetInCU: 0x34, offset: 0x1B84D5, size: 0x8, addend: 0x0, symName: _GLTFKit2VersionString, symObjAddr: 0x0, symBinAddr: 0x1B9B50, symSize: 0x0 }
+  - { offsetInCU: 0x69, offset: 0x1B850A, size: 0x8, addend: 0x0, symName: _GLTFKit2VersionNumber, symObjAddr: 0x30, symBinAddr: 0x1B9B80, symSize: 0x0 }
+  - { offsetInCU: 0x27, offset: 0x1B8547, size: 0x8, addend: 0x0, symName: _GLTFCreateTextureFromKTX2Data, symObjAddr: 0x0, symBinAddr: 0x8000, symSize: 0x582 }
+  - { offsetInCU: 0x41, offset: 0x1B8561, size: 0x8, addend: 0x0, symName: _GLTFMediaTypeKTX2, symObjAddr: 0xD10, symBinAddr: 0x2544F0, symSize: 0x0 }
+  - { offsetInCU: 0xC12, offset: 0x1B9132, size: 0x8, addend: 0x0, symName: _GLTFCreateTextureFromKTX2Data, symObjAddr: 0x0, symBinAddr: 0x8000, symSize: 0x582 }
+  - { offsetInCU: 0x16B0, offset: 0x1B9BD0, size: 0x8, addend: 0x0, symName: _GLTFMetalPixelFormatForVkFormat, symObjAddr: 0x582, symBinAddr: 0x8582, symSize: 0x73A }
+  - { offsetInCU: 0x27, offset: 0x1B9C57, size: 0x8, addend: 0x0, symName: '-[GLTFSCNAnimation name]', symObjAddr: 0x0, symBinAddr: 0x8CBC, symSize: 0xA }
+  - { offsetInCU: 0x41, offset: 0x1B9C71, size: 0x8, addend: 0x0, symName: _GLTFAssetPropertyKeyCopyright, symObjAddr: 0xB818, symBinAddr: 0x2544F8, symSize: 0x0 }
+  - { offsetInCU: 0x8F, offset: 0x1B9CBF, size: 0x8, addend: 0x0, symName: _GLTFAssetPropertyKeyGenerator, symObjAddr: 0xB820, symBinAddr: 0x254500, symSize: 0x0 }
+  - { offsetInCU: 0xA5, offset: 0x1B9CD5, size: 0x8, addend: 0x0, symName: _GLTFAssetPropertyKeyVersion, symObjAddr: 0xB828, symBinAddr: 0x254508, symSize: 0x0 }
+  - { offsetInCU: 0xBB, offset: 0x1B9CEB, size: 0x8, addend: 0x0, symName: _GLTFAssetPropertyKeyMinVersion, symObjAddr: 0xB830, symBinAddr: 0x254510, symSize: 0x0 }
+  - { offsetInCU: 0xD1, offset: 0x1B9D01, size: 0x8, addend: 0x0, symName: _GLTFAssetPropertyKeyExtensionsUsed, symObjAddr: 0xB838, symBinAddr: 0x254518, symSize: 0x0 }
+  - { offsetInCU: 0xE7, offset: 0x1B9D17, size: 0x8, addend: 0x0, symName: _GLTFAssetPropertyKeyExtensionsRequired, symObjAddr: 0xB840, symBinAddr: 0x254520, symSize: 0x0 }
+  - { offsetInCU: 0x10B, offset: 0x1B9D3B, size: 0x8, addend: 0x0, symName: '-[GLTFSCNSceneSource convertAsset]', symObjAddr: 0x4C5, symBinAddr: 0x9181, symSize: 0x8B5B }
+  - { offsetInCU: 0x133, offset: 0x1B9D63, size: 0x8, addend: 0x0, symName: _convertAsset.warnOnce, symObjAddr: 0x28860, symBinAddr: 0x263B00, symSize: 0x0 }
+  - { offsetInCU: 0x694A, offset: 0x1C057A, size: 0x8, addend: 0x0, symName: _GLTFConfigureSCNMaterialProperty, symObjAddr: 0x9020, symBinAddr: 0x11CDC, symSize: 0x3DD }
+  - { offsetInCU: 0x696E, offset: 0x1C059E, size: 0x8, addend: 0x0, symName: _GLTFConfigureSCNMaterialProperty.defaultSampler, symObjAddr: 0x28868, symBinAddr: 0x263B08, symSize: 0x0 }
+  - { offsetInCU: 0x73F6, offset: 0x1C1026, size: 0x8, addend: 0x0, symName: '-[GLTFSCNAnimation name]', symObjAddr: 0x0, symBinAddr: 0x8CBC, symSize: 0xA }
+  - { offsetInCU: 0x742B, offset: 0x1C105B, size: 0x8, addend: 0x0, symName: '-[GLTFSCNAnimation setName:]', symObjAddr: 0xA, symBinAddr: 0x8CC6, symSize: 0xF }
+  - { offsetInCU: 0x746A, offset: 0x1C109A, size: 0x8, addend: 0x0, symName: '-[GLTFSCNAnimation animationPlayer]', symObjAddr: 0x19, symBinAddr: 0x8CD5, symSize: 0xA }
+  - { offsetInCU: 0x749F, offset: 0x1C10CF, size: 0x8, addend: 0x0, symName: '-[GLTFSCNAnimation setAnimationPlayer:]', symObjAddr: 0x23, symBinAddr: 0x8CDF, symSize: 0xF }
+  - { offsetInCU: 0x74DE, offset: 0x1C110E, size: 0x8, addend: 0x0, symName: '-[GLTFSCNAnimation .cxx_destruct]', symObjAddr: 0x32, symBinAddr: 0x8CEE, symSize: 0x28 }
+  - { offsetInCU: 0x7512, offset: 0x1C1142, size: 0x8, addend: 0x0, symName: '+[SCNScene(GLTFSceneKit) sceneWithGLTFAsset:]', symObjAddr: 0x5A, symBinAddr: 0x8D16, symSize: 0x7B }
+  - { offsetInCU: 0x75C5, offset: 0x1C11F5, size: 0x8, addend: 0x0, symName: '+[SCNScene(GLTFSceneKit) sceneWithGLTFAsset:applyingMaterialVariant:]', symObjAddr: 0xD5, symBinAddr: 0x8D91, symSize: 0x9D }
+  - { offsetInCU: 0x76B8, offset: 0x1C12E8, size: 0x8, addend: 0x0, symName: '-[GLTFSCNSceneSource initWithAsset:]', symObjAddr: 0x172, symBinAddr: 0x8E2E, symSize: 0x7B }
+  - { offsetInCU: 0x773E, offset: 0x1C136E, size: 0x8, addend: 0x0, symName: '-[GLTFSCNSceneSource initWithAsset:applyingMaterialVariant:]', symObjAddr: 0x1ED, symBinAddr: 0x8EA9, symSize: 0xAA }
+  - { offsetInCU: 0x77FD, offset: 0x1C142D, size: 0x8, addend: 0x0, symName: '-[GLTFSCNSceneSource propertyForKey:]', symObjAddr: 0x297, symBinAddr: 0x8F53, symSize: 0x16 }
+  - { offsetInCU: 0x7859, offset: 0x1C1489, size: 0x8, addend: 0x0, symName: '-[GLTFSCNSceneSource materialPropertyContentsForTexture:]', symObjAddr: 0x2AD, symBinAddr: 0x8F69, symSize: 0x218 }
+  - { offsetInCU: 0x887D, offset: 0x1C24AD, size: 0x8, addend: 0x0, symName: _GLTFSCNGeometrySourceForAccessor, symObjAddr: 0x93FD, symBinAddr: 0x120B9, symSize: 0x6FB }
+  - { offsetInCU: 0x8F24, offset: 0x1C2B54, size: 0x8, addend: 0x0, symName: '-[GLTFSCNSceneSource convertAsset].cold.5', symObjAddr: 0xABE0, symBinAddr: 0x1B8364, symSize: 0x23 }
+  - { offsetInCU: 0x8F3C, offset: 0x1C2B6C, size: 0x8, addend: 0x0, symName: '-[GLTFSCNSceneSource convertAsset].cold.4', symObjAddr: 0xABBD, symBinAddr: 0x1B8341, symSize: 0x23 }
+  - { offsetInCU: 0x8F54, offset: 0x1C2B84, size: 0x8, addend: 0x0, symName: _GLTFSCNPackedDataForAccessor, symObjAddr: 0x9F7F, symBinAddr: 0x12C3B, symSize: 0x7F4 }
+  - { offsetInCU: 0x975D, offset: 0x1C338D, size: 0x8, addend: 0x0, symName: _GLTFSCNTransformPackedDataToFloat, symObjAddr: 0xA773, symBinAddr: 0x1342F, symSize: 0x3E1 }
+  - { offsetInCU: 0x9B64, offset: 0x1C3794, size: 0x8, addend: 0x0, symName: _GLTFSCNVector3ArrayForAccessor, symObjAddr: 0x9B0C, symBinAddr: 0x127C8, symSize: 0x15A }
+  - { offsetInCU: 0x9D37, offset: 0x1C3967, size: 0x8, addend: 0x0, symName: '-[GLTFSCNSceneSource convertAsset].cold.1', symObjAddr: 0xAB54, symBinAddr: 0x1B82D8, symSize: 0x23 }
+  - { offsetInCU: 0x9D4F, offset: 0x1C397F, size: 0x8, addend: 0x0, symName: '-[GLTFSCNSceneSource convertAsset].cold.3', symObjAddr: 0xAB9A, symBinAddr: 0x1B831E, symSize: 0x23 }
+  - { offsetInCU: 0x9D7E, offset: 0x1C39AE, size: 0x8, addend: 0x0, symName: '-[GLTFSCNSceneSource convertAsset].cold.2', symObjAddr: 0xAB77, symBinAddr: 0x1B82FB, symSize: 0x23 }
+  - { offsetInCU: 0x9E7B, offset: 0x1C3AAB, size: 0x8, addend: 0x0, symName: _GLTFSCNGeometrySourceForAccessor.cold.1, symObjAddr: 0xAC03, symBinAddr: 0x1B8387, symSize: 0x23 }
+  - { offsetInCU: 0x9E93, offset: 0x1C3AC3, size: 0x8, addend: 0x0, symName: '___34-[GLTFSCNSceneSource convertAsset]_block_invoke', symObjAddr: 0x9AF8, symBinAddr: 0x127B4, symSize: 0x14 }
+  - { offsetInCU: 0x9EBC, offset: 0x1C3AEC, size: 0x8, addend: 0x0, symName: ___Block_byref_object_copy_, symObjAddr: 0x9C66, symBinAddr: 0x12922, symSize: 0x16 }
+  - { offsetInCU: 0x9EE1, offset: 0x1C3B11, size: 0x8, addend: 0x0, symName: ___Block_byref_object_dispose_, symObjAddr: 0x9C7C, symBinAddr: 0x12938, symSize: 0xF }
+  - { offsetInCU: 0x9F0C, offset: 0x1C3B3C, size: 0x8, addend: 0x0, symName: '___34-[GLTFSCNSceneSource convertAsset]_block_invoke.473', symObjAddr: 0x9C8B, symBinAddr: 0x12947, symSize: 0xA6 }
+  - { offsetInCU: 0x9FDA, offset: 0x1C3C0A, size: 0x8, addend: 0x0, symName: ___copy_helper_block_e8_32s40r, symObjAddr: 0x9D31, symBinAddr: 0x129ED, symSize: 0x30 }
+  - { offsetInCU: 0xA00F, offset: 0x1C3C3F, size: 0x8, addend: 0x0, symName: ___destroy_helper_block_e8_32s40r, symObjAddr: 0x9D61, symBinAddr: 0x12A1D, symSize: 0x27 }
+  - { offsetInCU: 0xA03A, offset: 0x1C3C6A, size: 0x8, addend: 0x0, symName: '-[GLTFSCNSceneSource defaultScene]', symObjAddr: 0x9D88, symBinAddr: 0x12A44, symSize: 0xA }
+  - { offsetInCU: 0xA06F, offset: 0x1C3C9F, size: 0x8, addend: 0x0, symName: '-[GLTFSCNSceneSource setDefaultScene:]', symObjAddr: 0x9D92, symBinAddr: 0x12A4E, symSize: 0x11 }
+  - { offsetInCU: 0xA0AF, offset: 0x1C3CDF, size: 0x8, addend: 0x0, symName: '-[GLTFSCNSceneSource scenes]', symObjAddr: 0x9DA3, symBinAddr: 0x12A5F, symSize: 0xA }
+  - { offsetInCU: 0xA0E4, offset: 0x1C3D14, size: 0x8, addend: 0x0, symName: '-[GLTFSCNSceneSource setScenes:]', symObjAddr: 0x9DAD, symBinAddr: 0x12A69, symSize: 0xF }
+  - { offsetInCU: 0xA124, offset: 0x1C3D54, size: 0x8, addend: 0x0, symName: '-[GLTFSCNSceneSource nodes]', symObjAddr: 0x9DBC, symBinAddr: 0x12A78, symSize: 0xA }
+  - { offsetInCU: 0xA159, offset: 0x1C3D89, size: 0x8, addend: 0x0, symName: '-[GLTFSCNSceneSource setNodes:]', symObjAddr: 0x9DC6, symBinAddr: 0x12A82, symSize: 0xF }
+  - { offsetInCU: 0xA199, offset: 0x1C3DC9, size: 0x8, addend: 0x0, symName: '-[GLTFSCNSceneSource lights]', symObjAddr: 0x9DD5, symBinAddr: 0x12A91, symSize: 0xA }
+  - { offsetInCU: 0xA1CE, offset: 0x1C3DFE, size: 0x8, addend: 0x0, symName: '-[GLTFSCNSceneSource setLights:]', symObjAddr: 0x9DDF, symBinAddr: 0x12A9B, symSize: 0xF }
+  - { offsetInCU: 0xA20E, offset: 0x1C3E3E, size: 0x8, addend: 0x0, symName: '-[GLTFSCNSceneSource cameras]', symObjAddr: 0x9DEE, symBinAddr: 0x12AAA, symSize: 0xA }
+  - { offsetInCU: 0xA243, offset: 0x1C3E73, size: 0x8, addend: 0x0, symName: '-[GLTFSCNSceneSource setCameras:]', symObjAddr: 0x9DF8, symBinAddr: 0x12AB4, symSize: 0xF }
+  - { offsetInCU: 0xA283, offset: 0x1C3EB3, size: 0x8, addend: 0x0, symName: '-[GLTFSCNSceneSource geometries]', symObjAddr: 0x9E07, symBinAddr: 0x12AC3, symSize: 0xA }
+  - { offsetInCU: 0xA2B8, offset: 0x1C3EE8, size: 0x8, addend: 0x0, symName: '-[GLTFSCNSceneSource setGeometries:]', symObjAddr: 0x9E11, symBinAddr: 0x12ACD, symSize: 0xF }
+  - { offsetInCU: 0xA2F8, offset: 0x1C3F28, size: 0x8, addend: 0x0, symName: '-[GLTFSCNSceneSource materials]', symObjAddr: 0x9E20, symBinAddr: 0x12ADC, symSize: 0xA }
+  - { offsetInCU: 0xA32D, offset: 0x1C3F5D, size: 0x8, addend: 0x0, symName: '-[GLTFSCNSceneSource setMaterials:]', symObjAddr: 0x9E2A, symBinAddr: 0x12AE6, symSize: 0xF }
+  - { offsetInCU: 0xA36D, offset: 0x1C3F9D, size: 0x8, addend: 0x0, symName: '-[GLTFSCNSceneSource animations]', symObjAddr: 0x9E39, symBinAddr: 0x12AF5, symSize: 0xA }
+  - { offsetInCU: 0xA3A2, offset: 0x1C3FD2, size: 0x8, addend: 0x0, symName: '-[GLTFSCNSceneSource setAnimations:]', symObjAddr: 0x9E43, symBinAddr: 0x12AFF, symSize: 0xF }
+  - { offsetInCU: 0xA3E2, offset: 0x1C4012, size: 0x8, addend: 0x0, symName: '-[GLTFSCNSceneSource properties]', symObjAddr: 0x9E52, symBinAddr: 0x12B0E, symSize: 0xA }
+  - { offsetInCU: 0xA418, offset: 0x1C4048, size: 0x8, addend: 0x0, symName: '-[GLTFSCNSceneSource setProperties:]', symObjAddr: 0x9E5C, symBinAddr: 0x12B18, symSize: 0xF }
+  - { offsetInCU: 0xA458, offset: 0x1C4088, size: 0x8, addend: 0x0, symName: '-[GLTFSCNSceneSource skinners]', symObjAddr: 0x9E6B, symBinAddr: 0x12B27, symSize: 0xA }
+  - { offsetInCU: 0xA48E, offset: 0x1C40BE, size: 0x8, addend: 0x0, symName: '-[GLTFSCNSceneSource setSkinners:]', symObjAddr: 0x9E75, symBinAddr: 0x12B31, symSize: 0xF }
+  - { offsetInCU: 0xA4CE, offset: 0x1C40FE, size: 0x8, addend: 0x0, symName: '-[GLTFSCNSceneSource morphers]', symObjAddr: 0x9E84, symBinAddr: 0x12B40, symSize: 0xA }
+  - { offsetInCU: 0xA504, offset: 0x1C4134, size: 0x8, addend: 0x0, symName: '-[GLTFSCNSceneSource setMorphers:]', symObjAddr: 0x9E8E, symBinAddr: 0x12B4A, symSize: 0xF }
+  - { offsetInCU: 0xA544, offset: 0x1C4174, size: 0x8, addend: 0x0, symName: '-[GLTFSCNSceneSource asset]', symObjAddr: 0x9E9D, symBinAddr: 0x12B59, symSize: 0xA }
+  - { offsetInCU: 0xA57A, offset: 0x1C41AA, size: 0x8, addend: 0x0, symName: '-[GLTFSCNSceneSource setAsset:]', symObjAddr: 0x9EA7, symBinAddr: 0x12B63, symSize: 0x11 }
+  - { offsetInCU: 0xA5BA, offset: 0x1C41EA, size: 0x8, addend: 0x0, symName: '-[GLTFSCNSceneSource activeMaterialVariant]', symObjAddr: 0x9EB8, symBinAddr: 0x12B74, symSize: 0xA }
+  - { offsetInCU: 0xA5F0, offset: 0x1C4220, size: 0x8, addend: 0x0, symName: '-[GLTFSCNSceneSource setActiveMaterialVariant:]', symObjAddr: 0x9EC2, symBinAddr: 0x12B7E, symSize: 0x11 }
+  - { offsetInCU: 0xA630, offset: 0x1C4260, size: 0x8, addend: 0x0, symName: '-[GLTFSCNSceneSource .cxx_destruct]', symObjAddr: 0x9ED3, symBinAddr: 0x12B8F, symSize: 0xAC }
+  - { offsetInCU: 0xA664, offset: 0x1C4294, size: 0x8, addend: 0x0, symName: _GLTFSCNPackedDataForAccessor.cold.1, symObjAddr: 0xAC26, symBinAddr: 0x1B83AA, symSize: 0x23 }
+  - { offsetInCU: 0x27, offset: 0x1C4998, size: 0x8, addend: 0x0, symName: '-[GLTFWorkflowHelper initWithSpecularGlossiness:]', symObjAddr: 0x0, symBinAddr: 0x13810, symSize: 0x8F }
+  - { offsetInCU: 0x632, offset: 0x1C4FA3, size: 0x8, addend: 0x0, symName: '-[GLTFWorkflowHelper initWithSpecularGlossiness:]', symObjAddr: 0x0, symBinAddr: 0x13810, symSize: 0x8F }
+  - { offsetInCU: 0x92B, offset: 0x1C529C, size: 0x8, addend: 0x0, symName: '-[GLTFWorkflowHelper convert]', symObjAddr: 0x8F, symBinAddr: 0x1389F, symSize: 0xDD0 }
+  - { offsetInCU: 0x1AAE, offset: 0x1C641F, size: 0x8, addend: 0x0, symName: '-[GLTFWorkflowHelper newTextureFromImage:device:]', symObjAddr: 0xE5F, symBinAddr: 0x1466F, symSize: 0x1F0 }
+  - { offsetInCU: 0x1E01, offset: 0x1C6772, size: 0x8, addend: 0x0, symName: '-[GLTFWorkflowHelper newImageFromTexture:]', symObjAddr: 0x104F, symBinAddr: 0x1485F, symSize: 0x12F }
+  - { offsetInCU: 0x200A, offset: 0x1C697B, size: 0x8, addend: 0x0, symName: '-[GLTFWorkflowHelper baseColorFactor]', symObjAddr: 0x117E, symBinAddr: 0x1498E, symSize: 0xA }
+  - { offsetInCU: 0x203F, offset: 0x1C69B0, size: 0x8, addend: 0x0, symName: '-[GLTFWorkflowHelper setBaseColorFactor:]', symObjAddr: 0x1188, symBinAddr: 0x14998, symSize: 0xA }
+  - { offsetInCU: 0x207C, offset: 0x1C69ED, size: 0x8, addend: 0x0, symName: '-[GLTFWorkflowHelper baseColorTexture]', symObjAddr: 0x1192, symBinAddr: 0x149A2, symSize: 0xA }
+  - { offsetInCU: 0x20B1, offset: 0x1C6A22, size: 0x8, addend: 0x0, symName: '-[GLTFWorkflowHelper setBaseColorTexture:]', symObjAddr: 0x119C, symBinAddr: 0x149AC, symSize: 0x11 }
+  - { offsetInCU: 0x20F0, offset: 0x1C6A61, size: 0x8, addend: 0x0, symName: '-[GLTFWorkflowHelper metallicFactor]', symObjAddr: 0x11AD, symBinAddr: 0x149BD, symSize: 0xB }
+  - { offsetInCU: 0x2125, offset: 0x1C6A96, size: 0x8, addend: 0x0, symName: '-[GLTFWorkflowHelper setMetallicFactor:]', symObjAddr: 0x11B8, symBinAddr: 0x149C8, symSize: 0xB }
+  - { offsetInCU: 0x2162, offset: 0x1C6AD3, size: 0x8, addend: 0x0, symName: '-[GLTFWorkflowHelper roughnessFactor]', symObjAddr: 0x11C3, symBinAddr: 0x149D3, symSize: 0xB }
+  - { offsetInCU: 0x2197, offset: 0x1C6B08, size: 0x8, addend: 0x0, symName: '-[GLTFWorkflowHelper setRoughnessFactor:]', symObjAddr: 0x11CE, symBinAddr: 0x149DE, symSize: 0xB }
+  - { offsetInCU: 0x21D4, offset: 0x1C6B45, size: 0x8, addend: 0x0, symName: '-[GLTFWorkflowHelper metallicRoughnessTexture]', symObjAddr: 0x11D9, symBinAddr: 0x149E9, symSize: 0xA }
+  - { offsetInCU: 0x2209, offset: 0x1C6B7A, size: 0x8, addend: 0x0, symName: '-[GLTFWorkflowHelper setMetallicRoughnessTexture:]', symObjAddr: 0x11E3, symBinAddr: 0x149F3, symSize: 0x11 }
+  - { offsetInCU: 0x2248, offset: 0x1C6BB9, size: 0x8, addend: 0x0, symName: '-[GLTFWorkflowHelper specularGlossiness]', symObjAddr: 0x11F4, symBinAddr: 0x14A04, symSize: 0xA }
+  - { offsetInCU: 0x227D, offset: 0x1C6BEE, size: 0x8, addend: 0x0, symName: '-[GLTFWorkflowHelper setSpecularGlossiness:]', symObjAddr: 0x11FE, symBinAddr: 0x14A0E, symSize: 0x11 }
+  - { offsetInCU: 0x22BC, offset: 0x1C6C2D, size: 0x8, addend: 0x0, symName: '-[GLTFWorkflowHelper .cxx_destruct]', symObjAddr: 0x120F, symBinAddr: 0x14A1F, symSize: 0x33 }
+  - { offsetInCU: 0x27, offset: 0x1C6CEB, size: 0x8, addend: 0x0, symName: _cgltf_parse, symObjAddr: 0x0, symBinAddr: 0x14A54, symSize: 0x1AD }
+  - { offsetInCU: 0xE1, offset: 0x1C6DA5, size: 0x8, addend: 0x0, symName: __loaderQueue, symObjAddr: 0x5ACA0, symBinAddr: 0x263B10, symSize: 0x0 }
+  - { offsetInCU: 0x2291, offset: 0x1C8F55, size: 0x8, addend: 0x0, symName: _cgltf_parse, symObjAddr: 0x0, symBinAddr: 0x14A54, symSize: 0x1AD }
+  - { offsetInCU: 0x2407, offset: 0x1C90CB, size: 0x8, addend: 0x0, symName: _cgltf_parse_json, symObjAddr: 0x1C7, symBinAddr: 0x14C1B, symSize: 0xF4E }
+  - { offsetInCU: 0x285F, offset: 0x1C9523, size: 0x8, addend: 0x0, symName: _cgltf_default_alloc, symObjAddr: 0x1AD, symBinAddr: 0x14C01, symSize: 0xD }
+  - { offsetInCU: 0x2897, offset: 0x1C955B, size: 0x8, addend: 0x0, symName: _cgltf_default_free, symObjAddr: 0x1BA, symBinAddr: 0x14C0E, symSize: 0xD }
+  - { offsetInCU: 0x2A9D, offset: 0x1C9761, size: 0x8, addend: 0x0, symName: _jsmn_parse, symObjAddr: 0xD0C4, symBinAddr: 0x21B18, symSize: 0x58C }
+  - { offsetInCU: 0x2D09, offset: 0x1C99CD, size: 0x8, addend: 0x0, symName: _cgltf_parse_json_root, symObjAddr: 0xD650, symBinAddr: 0x220A4, symSize: 0x4889 }
+  - { offsetInCU: 0x71C6, offset: 0x1CDE8A, size: 0x8, addend: 0x0, symName: _cgltf_calc_size, symObjAddr: 0x201E, symBinAddr: 0x16A72, symSize: 0x73 }
+  - { offsetInCU: 0x71FA, offset: 0x1CDEBE, size: 0x8, addend: 0x0, symName: _cgltf_calc_size, symObjAddr: 0x201E, symBinAddr: 0x16A72, symSize: 0x73 }
+  - { offsetInCU: 0x7237, offset: 0x1CDEFB, size: 0x8, addend: 0x0, symName: _cgltf_free, symObjAddr: 0x21EE, symBinAddr: 0x16C42, symSize: 0xE55 }
+  - { offsetInCU: 0x7C19, offset: 0x1CE8DD, size: 0x8, addend: 0x0, symName: _cgltf_parse_file, symObjAddr: 0x1115, symBinAddr: 0x15B69, symSize: 0xC3 }
+  - { offsetInCU: 0x7D1E, offset: 0x1CE9E2, size: 0x8, addend: 0x0, symName: _cgltf_default_file_read, symObjAddr: 0x11D8, symBinAddr: 0x15C2C, symSize: 0x124 }
+  - { offsetInCU: 0x7F12, offset: 0x1CEBD6, size: 0x8, addend: 0x0, symName: _cgltf_default_file_release, symObjAddr: 0x12FC, symBinAddr: 0x15D50, symSize: 0x20 }
+  - { offsetInCU: 0x7F7D, offset: 0x1CEC41, size: 0x8, addend: 0x0, symName: _cgltf_load_buffer_base64, symObjAddr: 0x131C, symBinAddr: 0x15D70, symSize: 0x114 }
+  - { offsetInCU: 0x80BC, offset: 0x1CED80, size: 0x8, addend: 0x0, symName: _cgltf_decode_string, symObjAddr: 0x1430, symBinAddr: 0x15E84, symSize: 0x1B4 }
+  - { offsetInCU: 0x8188, offset: 0x1CEE4C, size: 0x8, addend: 0x0, symName: _cgltf_decode_uri, symObjAddr: 0x15E4, symBinAddr: 0x16038, symSize: 0xAB }
+  - { offsetInCU: 0x837A, offset: 0x1CF03E, size: 0x8, addend: 0x0, symName: _cgltf_load_buffers, symObjAddr: 0x168F, symBinAddr: 0x160E3, symSize: 0x349 }
+  - { offsetInCU: 0x8622, offset: 0x1CF2E6, size: 0x8, addend: 0x0, symName: _cgltf_validate, symObjAddr: 0x19D8, symBinAddr: 0x1642C, symSize: 0x646 }
+  - { offsetInCU: 0x8A38, offset: 0x1CF6FC, size: 0x8, addend: 0x0, symName: _cgltf_calc_index_bound, symObjAddr: 0x2091, symBinAddr: 0x16AE5, symSize: 0x7C }
+  - { offsetInCU: 0x8B94, offset: 0x1CF858, size: 0x8, addend: 0x0, symName: _cgltf_copy_extras_json, symObjAddr: 0x210D, symBinAddr: 0x16B61, symSize: 0x7B }
+  - { offsetInCU: 0x8C05, offset: 0x1CF8C9, size: 0x8, addend: 0x0, symName: _cgltf_free_extensions, symObjAddr: 0x2188, symBinAddr: 0x16BDC, symSize: 0x66 }
+  - { offsetInCU: 0x8C9C, offset: 0x1CF960, size: 0x8, addend: 0x0, symName: _cgltf_node_transform_local, symObjAddr: 0x3043, symBinAddr: 0x17A97, symSize: 0x180 }
+  - { offsetInCU: 0x8D8A, offset: 0x1CFA4E, size: 0x8, addend: 0x0, symName: _cgltf_node_transform_world, symObjAddr: 0x31C3, symBinAddr: 0x17C17, symSize: 0x10E }
+  - { offsetInCU: 0x8ECF, offset: 0x1CFB93, size: 0x8, addend: 0x0, symName: _cgltf_buffer_view_data, symObjAddr: 0x32D1, symBinAddr: 0x17D25, symSize: 0x24 }
+  - { offsetInCU: 0x8F29, offset: 0x1CFBED, size: 0x8, addend: 0x0, symName: _cgltf_accessor_read_float, symObjAddr: 0x32F5, symBinAddr: 0x17D49, symSize: 0x72 }
+  - { offsetInCU: 0x8FD1, offset: 0x1CFC95, size: 0x8, addend: 0x0, symName: _cgltf_element_read_float, symObjAddr: 0x3367, symBinAddr: 0x17DBB, symSize: 0x2D1 }
+  - { offsetInCU: 0x9329, offset: 0x1CFFED, size: 0x8, addend: 0x0, symName: _cgltf_component_read_float, symObjAddr: 0xCFF2, symBinAddr: 0x21A46, symSize: 0xD2 }
+  - { offsetInCU: 0x93C0, offset: 0x1D0084, size: 0x8, addend: 0x0, symName: _cgltf_accessor_unpack_floats, symObjAddr: 0x3638, symBinAddr: 0x1808C, symSize: 0x260 }
+  - { offsetInCU: 0x963D, offset: 0x1D0301, size: 0x8, addend: 0x0, symName: _cgltf_num_components, symObjAddr: 0x3898, symBinAddr: 0x182EC, symSize: 0x21 }
+  - { offsetInCU: 0x970F, offset: 0x1D03D3, size: 0x8, addend: 0x0, symName: _cgltf_accessor_read_uint, symObjAddr: 0x38B9, symBinAddr: 0x1830D, symSize: 0x12B }
+  - { offsetInCU: 0x987E, offset: 0x1D0542, size: 0x8, addend: 0x0, symName: _cgltf_accessor_read_index, symObjAddr: 0x39E4, symBinAddr: 0x18438, symSize: 0xA8 }
+  - { offsetInCU: 0x9921, offset: 0x1D05E5, size: 0x8, addend: 0x0, symName: '-[GLTFUniqueNameGenerator init]', symObjAddr: 0x3A8C, symBinAddr: 0x184E0, symSize: 0x66 }
+  - { offsetInCU: 0x9970, offset: 0x1D0634, size: 0x8, addend: 0x0, symName: '-[GLTFUniqueNameGenerator nextUniqueNameWithPrefix:]', symObjAddr: 0x3AF2, symBinAddr: 0x18546, symSize: 0x1C4 }
+  - { offsetInCU: 0x9B0E, offset: 0x1D07D2, size: 0x8, addend: 0x0, symName: '-[GLTFUniqueNameGenerator countsForPrefixes]', symObjAddr: 0x3CB6, symBinAddr: 0x1870A, symSize: 0xA }
+  - { offsetInCU: 0x9B43, offset: 0x1D0807, size: 0x8, addend: 0x0, symName: '-[GLTFUniqueNameGenerator setCountsForPrefixes:]', symObjAddr: 0x3CC0, symBinAddr: 0x18714, symSize: 0x11 }
+  - { offsetInCU: 0x9B82, offset: 0x1D0846, size: 0x8, addend: 0x0, symName: '-[GLTFUniqueNameGenerator .cxx_destruct]', symObjAddr: 0x3CD1, symBinAddr: 0x18725, symSize: 0x10 }
+  - { offsetInCU: 0x9BB5, offset: 0x1D0879, size: 0x8, addend: 0x0, symName: _GLTFObjectFromExtras, symObjAddr: 0x3CE1, symBinAddr: 0x18735, symSize: 0xC8 }
+  - { offsetInCU: 0x9C8C, offset: 0x1D0950, size: 0x8, addend: 0x0, symName: _GLTFConvertExtensions, symObjAddr: 0x3DA9, symBinAddr: 0x187FD, symSize: 0x1E6 }
+  - { offsetInCU: 0x9E22, offset: 0x1D0AE6, size: 0x8, addend: 0x0, symName: '+[GLTFAssetReader loaderQueue]', symObjAddr: 0x3F8F, symBinAddr: 0x189E3, symSize: 0x44 }
+  - { offsetInCU: 0x9E88, offset: 0x1D0B4C, size: 0x8, addend: 0x0, symName: '+[GLTFAssetReader loadAssetWithURL:options:handler:]', symObjAddr: 0x3FD3, symBinAddr: 0x18A27, symSize: 0x104 }
+  - { offsetInCU: 0xA020, offset: 0x1D0CE4, size: 0x8, addend: 0x0, symName: '___52+[GLTFAssetReader loadAssetWithURL:options:handler:]_block_invoke', symObjAddr: 0x40D7, symBinAddr: 0x18B2B, symSize: 0x44 }
+  - { offsetInCU: 0xA0C7, offset: 0x1D0D8B, size: 0x8, addend: 0x0, symName: ___copy_helper_block_e8_32s40s48b, symObjAddr: 0x411B, symBinAddr: 0x18B6F, symSize: 0x44 }
+  - { offsetInCU: 0xA108, offset: 0x1D0DCC, size: 0x8, addend: 0x0, symName: ___destroy_helper_block_e8_32s40s48s, symObjAddr: 0x415F, symBinAddr: 0x18BB3, symSize: 0x2C }
+  - { offsetInCU: 0xA14B, offset: 0x1D0E0F, size: 0x8, addend: 0x0, symName: '+[GLTFAssetReader loadAssetWithData:options:handler:]', symObjAddr: 0x418B, symBinAddr: 0x18BDF, symSize: 0x104 }
+  - { offsetInCU: 0xA2CA, offset: 0x1D0F8E, size: 0x8, addend: 0x0, symName: '___53+[GLTFAssetReader loadAssetWithData:options:handler:]_block_invoke', symObjAddr: 0x428F, symBinAddr: 0x18CE3, symSize: 0x44 }
+  - { offsetInCU: 0xA371, offset: 0x1D1035, size: 0x8, addend: 0x0, symName: '-[GLTFAssetReader init]', symObjAddr: 0x42D3, symBinAddr: 0x18D27, symSize: 0x56 }
+  - { offsetInCU: 0xA3B5, offset: 0x1D1079, size: 0x8, addend: 0x0, symName: '-[GLTFAssetReader syncLoadAssetWithURL:data:options:handler:]', symObjAddr: 0x4329, symBinAddr: 0x18D7D, symSize: 0x67B }
+  - { offsetInCU: 0xAA28, offset: 0x1D16EC, size: 0x8, addend: 0x0, symName: _GLTFErrorForCGLTFStatus, symObjAddr: 0x50A5, symBinAddr: 0x19AF9, symSize: 0x1B7 }
+  - { offsetInCU: 0xAAEB, offset: 0x1D17AF, size: 0x8, addend: 0x0, symName: _GLTFReadFileSecurityScoped, symObjAddr: 0x49A4, symBinAddr: 0x193F8, symSize: 0x490 }
+  - { offsetInCU: 0xAE68, offset: 0x1D1B2C, size: 0x8, addend: 0x0, symName: _GLTFReadFile, symObjAddr: 0x4E34, symBinAddr: 0x19888, symSize: 0x271 }
+  - { offsetInCU: 0xB127, offset: 0x1D1DEB, size: 0x8, addend: 0x0, symName: '-[GLTFAssetReader convertBuffers]', symObjAddr: 0x525C, symBinAddr: 0x19CB0, symSize: 0x3CB }
+  - { offsetInCU: 0xB435, offset: 0x1D20F9, size: 0x8, addend: 0x0, symName: '-[GLTFAssetReader convertBufferViews]', symObjAddr: 0x5627, symBinAddr: 0x1A07B, symSize: 0xCB7 }
+  - { offsetInCU: 0xBEBD, offset: 0x1D2B81, size: 0x8, addend: 0x0, symName: '-[GLTFAssetReader convertAccessors]', symObjAddr: 0x62DE, symBinAddr: 0x1AD32, symSize: 0x754 }
+  - { offsetInCU: 0xC49E, offset: 0x1D3162, size: 0x8, addend: 0x0, symName: '-[GLTFAssetReader convertTextureSamplers]', symObjAddr: 0x6A32, symBinAddr: 0x1B486, symSize: 0x2D5 }
+  - { offsetInCU: 0xC71F, offset: 0x1D33E3, size: 0x8, addend: 0x0, symName: '-[GLTFAssetReader convertImages]', symObjAddr: 0x6D07, symBinAddr: 0x1B75B, symSize: 0x59A }
+  - { offsetInCU: 0xCB7B, offset: 0x1D383F, size: 0x8, addend: 0x0, symName: '-[GLTFAssetReader convertImages].cold.1', symObjAddr: 0x14FD3, symBinAddr: 0x1B83CF, symSize: 0x23 }
+  - { offsetInCU: 0xCB93, offset: 0x1D3857, size: 0x8, addend: 0x0, symName: '-[GLTFAssetReader convertTextures]', symObjAddr: 0x72A1, symBinAddr: 0x1BCF5, symSize: 0x4AC }
+  - { offsetInCU: 0xCFAE, offset: 0x1D3C72, size: 0x8, addend: 0x0, symName: '-[GLTFAssetReader textureParamsFromTextureView:]', symObjAddr: 0x774D, symBinAddr: 0x1C1A1, symSize: 0x22D }
+  - { offsetInCU: 0xD1E2, offset: 0x1D3EA6, size: 0x8, addend: 0x0, symName: '-[GLTFAssetReader convertMaterials]', symObjAddr: 0x797A, symBinAddr: 0x1C3CE, symSize: 0x108F }
+  - { offsetInCU: 0xDD3C, offset: 0x1D4A00, size: 0x8, addend: 0x0, symName: '-[GLTFAssetReader convertMaterialVariants]', symObjAddr: 0x8A09, symBinAddr: 0x1D45D, symSize: 0x18A }
+  - { offsetInCU: 0xDEB2, offset: 0x1D4B76, size: 0x8, addend: 0x0, symName: '-[GLTFAssetReader convertMeshes]', symObjAddr: 0x8B93, symBinAddr: 0x1D5E7, symSize: 0x1201 }
+  - { offsetInCU: 0xECDE, offset: 0x1D59A2, size: 0x8, addend: 0x0, symName: '-[GLTFAssetReader convertCameras]', symObjAddr: 0x9D94, symBinAddr: 0x1E7E8, symSize: 0x410 }
+  - { offsetInCU: 0xF051, offset: 0x1D5D15, size: 0x8, addend: 0x0, symName: '-[GLTFAssetReader convertLights]', symObjAddr: 0xA1A4, symBinAddr: 0x1EBF8, symSize: 0x17A }
+  - { offsetInCU: 0xF1CF, offset: 0x1D5E93, size: 0x8, addend: 0x0, symName: '-[GLTFAssetReader convertNodes]', symObjAddr: 0xA31E, symBinAddr: 0x1ED72, symSize: 0xB74 }
+  - { offsetInCU: 0xF84E, offset: 0x1D6512, size: 0x8, addend: 0x0, symName: '-[GLTFAssetReader convertSkins]', symObjAddr: 0xAE92, symBinAddr: 0x1F8E6, symSize: 0x6AA }
+  - { offsetInCU: 0xFDEF, offset: 0x1D6AB3, size: 0x8, addend: 0x0, symName: '-[GLTFAssetReader convertAnimations]', symObjAddr: 0xB53C, symBinAddr: 0x1FF90, symSize: 0x7BD }
+  - { offsetInCU: 0x1049F, offset: 0x1D7163, size: 0x8, addend: 0x0, symName: '-[GLTFAssetReader convertScenes]', symObjAddr: 0xBCF9, symBinAddr: 0x2074D, symSize: 0x3EF }
+  - { offsetInCU: 0x107C2, offset: 0x1D7486, size: 0x8, addend: 0x0, symName: '-[GLTFAssetReader validateRequiredExtensions:]', symObjAddr: 0xC0E8, symBinAddr: 0x20B3C, symSize: 0x3D4 }
+  - { offsetInCU: 0x109FF, offset: 0x1D76C3, size: 0x8, addend: 0x0, symName: '-[GLTFAssetReader convertAsset:]', symObjAddr: 0xC4BC, symBinAddr: 0x20F10, symSize: 0xA66 }
+  - { offsetInCU: 0x11599, offset: 0x1D825D, size: 0x8, addend: 0x0, symName: '-[GLTFAssetReader assetURL]', symObjAddr: 0xCF22, symBinAddr: 0x21976, symSize: 0xA }
+  - { offsetInCU: 0x115CE, offset: 0x1D8292, size: 0x8, addend: 0x0, symName: '-[GLTFAssetReader setAssetURL:]', symObjAddr: 0xCF2C, symBinAddr: 0x21980, symSize: 0x11 }
+  - { offsetInCU: 0x1160D, offset: 0x1D82D1, size: 0x8, addend: 0x0, symName: '-[GLTFAssetReader assetDirectoryURL]', symObjAddr: 0xCF3D, symBinAddr: 0x21991, symSize: 0xA }
+  - { offsetInCU: 0x11642, offset: 0x1D8306, size: 0x8, addend: 0x0, symName: '-[GLTFAssetReader setAssetDirectoryURL:]', symObjAddr: 0xCF47, symBinAddr: 0x2199B, symSize: 0x11 }
+  - { offsetInCU: 0x11681, offset: 0x1D8345, size: 0x8, addend: 0x0, symName: '-[GLTFAssetReader lastAccessedPath]', symObjAddr: 0xCF58, symBinAddr: 0x219AC, symSize: 0xA }
+  - { offsetInCU: 0x116B6, offset: 0x1D837A, size: 0x8, addend: 0x0, symName: '-[GLTFAssetReader setLastAccessedPath:]', symObjAddr: 0xCF62, symBinAddr: 0x219B6, symSize: 0x11 }
+  - { offsetInCU: 0x116F5, offset: 0x1D83B9, size: 0x8, addend: 0x0, symName: '-[GLTFAssetReader asset]', symObjAddr: 0xCF73, symBinAddr: 0x219C7, symSize: 0xA }
+  - { offsetInCU: 0x1172A, offset: 0x1D83EE, size: 0x8, addend: 0x0, symName: '-[GLTFAssetReader setAsset:]', symObjAddr: 0xCF7D, symBinAddr: 0x219D1, symSize: 0x11 }
+  - { offsetInCU: 0x11769, offset: 0x1D842D, size: 0x8, addend: 0x0, symName: '-[GLTFAssetReader nameGenerator]', symObjAddr: 0xCF8E, symBinAddr: 0x219E2, symSize: 0xA }
+  - { offsetInCU: 0x1179E, offset: 0x1D8462, size: 0x8, addend: 0x0, symName: '-[GLTFAssetReader setNameGenerator:]', symObjAddr: 0xCF98, symBinAddr: 0x219EC, symSize: 0x11 }
+  - { offsetInCU: 0x117DD, offset: 0x1D84A1, size: 0x8, addend: 0x0, symName: '-[GLTFAssetReader .cxx_destruct]', symObjAddr: 0xCFA9, symBinAddr: 0x219FD, symSize: 0x49 }
+  - { offsetInCU: 0x12A3B, offset: 0x1D96FF, size: 0x8, addend: 0x0, symName: _cgltf_json_strcmp, symObjAddr: 0x11ED9, symBinAddr: 0x2692D, symSize: 0x62 }
+  - { offsetInCU: 0x12AAC, offset: 0x1D9770, size: 0x8, addend: 0x0, symName: _cgltf_parse_json_string, symObjAddr: 0x1405A, symBinAddr: 0x28AAE, symSize: 0x9B }
+  - { offsetInCU: 0x12B47, offset: 0x1D980B, size: 0x8, addend: 0x0, symName: _cgltf_skip_json, symObjAddr: 0x13CEE, symBinAddr: 0x28742, symSize: 0x4B }
+  - { offsetInCU: 0x12B96, offset: 0x1D985A, size: 0x8, addend: 0x0, symName: _cgltf_parse_json_unprocessed_extensions, symObjAddr: 0x140F5, symBinAddr: 0x28B49, symSize: 0xD9 }
+  - { offsetInCU: 0x12CD7, offset: 0x1D999B, size: 0x8, addend: 0x0, symName: _cgltf_parse_json_array, symObjAddr: 0x141CE, symBinAddr: 0x28C22, symSize: 0x6E }
+  - { offsetInCU: 0x12D9B, offset: 0x1D9A5F, size: 0x8, addend: 0x0, symName: _cgltf_json_to_int, symObjAddr: 0x12FEA, symBinAddr: 0x27A3E, symSize: 0x85 }
+  - { offsetInCU: 0x12E0D, offset: 0x1D9AD1, size: 0x8, addend: 0x0, symName: _cgltf_parse_json_attribute_list, symObjAddr: 0x142C6, symBinAddr: 0x28D1A, symSize: 0x2C6 }
+  - { offsetInCU: 0x12F5C, offset: 0x1D9C20, size: 0x8, addend: 0x0, symName: _cgltf_calloc, symObjAddr: 0x138A5, symBinAddr: 0x282F9, symSize: 0x45 }
+  - { offsetInCU: 0x12FD0, offset: 0x1D9C94, size: 0x8, addend: 0x0, symName: _cgltf_parse_json_unprocessed_extension, symObjAddr: 0x13EAE, symBinAddr: 0x28902, symSize: 0x120 }
+  - { offsetInCU: 0x130B1, offset: 0x1D9D75, size: 0x8, addend: 0x0, symName: _cgltf_parse_json_material_mapping_data, symObjAddr: 0x1458C, symBinAddr: 0x28FE0, symSize: 0x262 }
+  - { offsetInCU: 0x132D8, offset: 0x1D9F9C, size: 0x8, addend: 0x0, symName: _cgltf_parse_json_float_array, symObjAddr: 0x1423C, symBinAddr: 0x28C90, symSize: 0x8A }
+  - { offsetInCU: 0x13386, offset: 0x1DA04A, size: 0x8, addend: 0x0, symName: _cgltf_parse_json_string_array, symObjAddr: 0x13FCE, symBinAddr: 0x28A22, symSize: 0x8C }
+  - { offsetInCU: 0x13485, offset: 0x1DA149, size: 0x8, addend: 0x0, symName: _cgltf_json_to_size, symObjAddr: 0x1487C, symBinAddr: 0x292D0, symSize: 0x87 }
+  - { offsetInCU: 0x134F7, offset: 0x1DA1BB, size: 0x8, addend: 0x0, symName: _cgltf_json_to_component_type, symObjAddr: 0x14903, symBinAddr: 0x29357, symSize: 0x25 }
+  - { offsetInCU: 0x13565, offset: 0x1DA229, size: 0x8, addend: 0x0, symName: _cgltf_json_to_float, symObjAddr: 0x147EE, symBinAddr: 0x29242, symSize: 0x8E }
+  - { offsetInCU: 0x135D7, offset: 0x1DA29B, size: 0x8, addend: 0x0, symName: _cgltf_parse_json_texture_view, symObjAddr: 0x14928, symBinAddr: 0x2937C, symSize: 0x449 }
+  - { offsetInCU: 0x13A13, offset: 0x1DA6D7, size: 0x8, addend: 0x0, symName: _cgltf_parse_json_cameras, symObjAddr: 0x11F3B, symBinAddr: 0x2698F, symSize: 0x5ED }
+  - { offsetInCU: 0x1401E, offset: 0x1DACE2, size: 0x8, addend: 0x0, symName: _cgltf_parse_json_nodes, symObjAddr: 0x12528, symBinAddr: 0x26F7C, symSize: 0x83B }
+  - { offsetInCU: 0x1464E, offset: 0x1DB312, size: 0x8, addend: 0x0, symName: _cgltf_parse_json_scenes, symObjAddr: 0x12D63, symBinAddr: 0x277B7, symSize: 0x287 }
+  - { offsetInCU: 0x14930, offset: 0x1DB5F4, size: 0x8, addend: 0x0, symName: _cgltf_parse_json_animations, symObjAddr: 0x1306F, symBinAddr: 0x27AC3, symSize: 0x836 }
+  - { offsetInCU: 0x15111, offset: 0x1DBDD5, size: 0x8, addend: 0x0, symName: _cgltf_parse_json_lights, symObjAddr: 0x138EA, symBinAddr: 0x2833E, symSize: 0x404 }
+  - { offsetInCU: 0x15526, offset: 0x1DC1EA, size: 0x8, addend: 0x0, symName: _cgltf_parse_json_variants, symObjAddr: 0x13D39, symBinAddr: 0x2878D, symSize: 0x175 }
+  - { offsetInCU: 0x15CC9, offset: 0x1DC98D, size: 0x8, addend: 0x0, symName: ___GLTFReadFileSecurityScoped_block_invoke, symObjAddr: 0x14D71, symBinAddr: 0x297C5, symSize: 0x1BF }
+  - { offsetInCU: 0x15E98, offset: 0x1DCB5C, size: 0x8, addend: 0x0, symName: ___copy_helper_block_e8_32r40r48r56r, symObjAddr: 0x14F30, symBinAddr: 0x29984, symSize: 0x5C }
+  - { offsetInCU: 0x15EC1, offset: 0x1DCB85, size: 0x8, addend: 0x0, symName: ___destroy_helper_block_e8_32r40r48r56r, symObjAddr: 0x14F8C, symBinAddr: 0x299E0, symSize: 0x47 }
+  - { offsetInCU: 0x27, offset: 0x1DDB55, size: 0x8, addend: 0x0, symName: '-[MDLTextureFilter(GLTFCopyingExtensions) GLTF_copy]', symObjAddr: 0x0, symBinAddr: 0x29A28, symSize: 0xE3 }
+  - { offsetInCU: 0x35, offset: 0x1DDB63, size: 0x8, addend: 0x0, symName: _GLTFMDLSizeForVertexFormat, symObjAddr: 0x229, symBinAddr: 0x29C51, symSize: 0x82 }
+  - { offsetInCU: 0x280, offset: 0x1DDDAE, size: 0x8, addend: 0x0, symName: '-[MDLTextureFilter(GLTFCopyingExtensions) GLTF_copy]', symObjAddr: 0x0, symBinAddr: 0x29A28, symSize: 0xE3 }
+  - { offsetInCU: 0x3B7, offset: 0x1DDEE5, size: 0x8, addend: 0x0, symName: '-[MDLTextureSampler(GLTFCopyingExtensions) GLTF_copy]', symObjAddr: 0xE3, symBinAddr: 0x29B0B, symSize: 0x146 }
+  - { offsetInCU: 0x52A, offset: 0x1DE058, size: 0x8, addend: 0x0, symName: _GLTFMDLSizeForVertexFormat.cold.1, symObjAddr: 0x41E8, symBinAddr: 0x1B83F4, symSize: 0x23 }
+  - { offsetInCU: 0x542, offset: 0x1DE070, size: 0x8, addend: 0x0, symName: '+[MDLAsset(GLTFKit2) assetWithGLTFAsset:]', symObjAddr: 0x2AB, symBinAddr: 0x29CD3, symSize: 0x14 }
+  - { offsetInCU: 0x9D5, offset: 0x1DE503, size: 0x8, addend: 0x0, symName: '+[MDLAsset(GLTFKit2) assetWithGLTFAsset:bufferAllocator:]', symObjAddr: 0x2BF, symBinAddr: 0x29CE7, symSize: 0x3F29 }
+  - { offsetInCU: 0x39F4, offset: 0x1E1522, size: 0x8, addend: 0x0, symName: '+[MDLAsset(GLTFKit2) assetWithGLTFAsset:bufferAllocator:].cold.1', symObjAddr: 0x420B, symBinAddr: 0x1B8417, symSize: 0x23 }
+  - { offsetInCU: 0x3A0C, offset: 0x1E153A, size: 0x8, addend: 0x0, symName: '+[MDLAsset(GLTFKit2) assetWithGLTFAsset:bufferAllocator:].cold.2', symObjAddr: 0x422E, symBinAddr: 0x1B843A, symSize: 0x23 }
+  - { offsetInCU: 0x27, offset: 0x1E20CE, size: 0x8, addend: 0x0, symName: _GLTFDegFromRad, symObjAddr: 0x0, symBinAddr: 0x2DC10, symSize: 0x16 }
+  - { offsetInCU: 0x41, offset: 0x1E20E8, size: 0x8, addend: 0x0, symName: _GLTFErrorDomain, symObjAddr: 0x56A8, symBinAddr: 0x254618, symSize: 0x0 }
+  - { offsetInCU: 0x8F, offset: 0x1E2136, size: 0x8, addend: 0x0, symName: _LumensPerCandela, symObjAddr: 0x57C0, symBinAddr: 0x1B9E90, symSize: 0x0 }
+  - { offsetInCU: 0xB1, offset: 0x1E2158, size: 0x8, addend: 0x0, symName: _g_dracoDecompressorClassName, symObjAddr: 0x3AC58, symBinAddr: 0x263B18, symSize: 0x0 }
+  - { offsetInCU: 0xC7, offset: 0x1E216E, size: 0x8, addend: 0x0, symName: _GLTFAssetCreateNormalsIfAbsentKey, symObjAddr: 0x56B0, symBinAddr: 0x254620, symSize: 0x0 }
+  - { offsetInCU: 0xED, offset: 0x1E2194, size: 0x8, addend: 0x0, symName: _GLTFAssetAssetDirectoryURLKey, symObjAddr: 0x56B8, symBinAddr: 0x254628, symSize: 0x0 }
+  - { offsetInCU: 0x103, offset: 0x1E21AA, size: 0x8, addend: 0x0, symName: _GLTFAttributeSemanticPosition, symObjAddr: 0x56C0, symBinAddr: 0x254630, symSize: 0x0 }
+  - { offsetInCU: 0x124, offset: 0x1E21CB, size: 0x8, addend: 0x0, symName: _GLTFAttributeSemanticNormal, symObjAddr: 0x56C8, symBinAddr: 0x254638, symSize: 0x0 }
+  - { offsetInCU: 0x13A, offset: 0x1E21E1, size: 0x8, addend: 0x0, symName: _GLTFAttributeSemanticTangent, symObjAddr: 0x56D0, symBinAddr: 0x254640, symSize: 0x0 }
+  - { offsetInCU: 0x150, offset: 0x1E21F7, size: 0x8, addend: 0x0, symName: _GLTFAttributeSemanticTexcoord0, symObjAddr: 0x56D8, symBinAddr: 0x254648, symSize: 0x0 }
+  - { offsetInCU: 0x166, offset: 0x1E220D, size: 0x8, addend: 0x0, symName: _GLTFAttributeSemanticTexcoord1, symObjAddr: 0x56E0, symBinAddr: 0x254650, symSize: 0x0 }
+  - { offsetInCU: 0x17C, offset: 0x1E2223, size: 0x8, addend: 0x0, symName: _GLTFAttributeSemanticTexcoord2, symObjAddr: 0x56E8, symBinAddr: 0x254658, symSize: 0x0 }
+  - { offsetInCU: 0x192, offset: 0x1E2239, size: 0x8, addend: 0x0, symName: _GLTFAttributeSemanticTexcoord3, symObjAddr: 0x56F0, symBinAddr: 0x254660, symSize: 0x0 }
+  - { offsetInCU: 0x1A8, offset: 0x1E224F, size: 0x8, addend: 0x0, symName: _GLTFAttributeSemanticTexcoord4, symObjAddr: 0x56F8, symBinAddr: 0x254668, symSize: 0x0 }
+  - { offsetInCU: 0x1BE, offset: 0x1E2265, size: 0x8, addend: 0x0, symName: _GLTFAttributeSemanticTexcoord5, symObjAddr: 0x5700, symBinAddr: 0x254670, symSize: 0x0 }
+  - { offsetInCU: 0x1D4, offset: 0x1E227B, size: 0x8, addend: 0x0, symName: _GLTFAttributeSemanticTexcoord6, symObjAddr: 0x5708, symBinAddr: 0x254678, symSize: 0x0 }
+  - { offsetInCU: 0x1EA, offset: 0x1E2291, size: 0x8, addend: 0x0, symName: _GLTFAttributeSemanticTexcoord7, symObjAddr: 0x5710, symBinAddr: 0x254680, symSize: 0x0 }
+  - { offsetInCU: 0x200, offset: 0x1E22A7, size: 0x8, addend: 0x0, symName: _GLTFAttributeSemanticColor0, symObjAddr: 0x5718, symBinAddr: 0x254688, symSize: 0x0 }
+  - { offsetInCU: 0x216, offset: 0x1E22BD, size: 0x8, addend: 0x0, symName: _GLTFAttributeSemanticJoints0, symObjAddr: 0x5720, symBinAddr: 0x254690, symSize: 0x0 }
+  - { offsetInCU: 0x22C, offset: 0x1E22D3, size: 0x8, addend: 0x0, symName: _GLTFAttributeSemanticJoints1, symObjAddr: 0x5728, symBinAddr: 0x254698, symSize: 0x0 }
+  - { offsetInCU: 0x242, offset: 0x1E22E9, size: 0x8, addend: 0x0, symName: _GLTFAttributeSemanticWeights0, symObjAddr: 0x5730, symBinAddr: 0x2546A0, symSize: 0x0 }
+  - { offsetInCU: 0x258, offset: 0x1E22FF, size: 0x8, addend: 0x0, symName: _GLTFAttributeSemanticWeights1, symObjAddr: 0x5738, symBinAddr: 0x2546A8, symSize: 0x0 }
+  - { offsetInCU: 0x26E, offset: 0x1E2315, size: 0x8, addend: 0x0, symName: _GLTFAnimationPathTranslation, symObjAddr: 0x5740, symBinAddr: 0x2546B0, symSize: 0x0 }
+  - { offsetInCU: 0x28F, offset: 0x1E2336, size: 0x8, addend: 0x0, symName: _GLTFAnimationPathRotation, symObjAddr: 0x5748, symBinAddr: 0x2546B8, symSize: 0x0 }
+  - { offsetInCU: 0x2A5, offset: 0x1E234C, size: 0x8, addend: 0x0, symName: _GLTFAnimationPathScale, symObjAddr: 0x5750, symBinAddr: 0x2546C0, symSize: 0x0 }
+  - { offsetInCU: 0x2BB, offset: 0x1E2362, size: 0x8, addend: 0x0, symName: _GLTFAnimationPathWeights, symObjAddr: 0x5758, symBinAddr: 0x2546C8, symSize: 0x0 }
+  - { offsetInCU: 0x1F10, offset: 0x1E3FB7, size: 0x8, addend: 0x0, symName: _GLTFDegFromRad, symObjAddr: 0x0, symBinAddr: 0x2DC10, symSize: 0x16 }
+  - { offsetInCU: 0x1F3B, offset: 0x1E3FE2, size: 0x8, addend: 0x0, symName: _GLTFBytesPerComponentForComponentType, symObjAddr: 0x16, symBinAddr: 0x2DC26, symSize: 0x1D }
+  - { offsetInCU: 0x1F64, offset: 0x1E400B, size: 0x8, addend: 0x0, symName: _GLTFComponentCountForDimension, symObjAddr: 0x33, symBinAddr: 0x2DC43, symSize: 0x1D }
+  - { offsetInCU: 0x1F8D, offset: 0x1E4034, size: 0x8, addend: 0x0, symName: _GLTFCreateImageDataFromDataURI, symObjAddr: 0x50, symBinAddr: 0x2DC60, symSize: 0x17E }
+  - { offsetInCU: 0x213E, offset: 0x1E41E5, size: 0x8, addend: 0x0, symName: '-[GLTFObject init]', symObjAddr: 0x1CE, symBinAddr: 0x2DDDE, symSize: 0x96 }
+  - { offsetInCU: 0x2199, offset: 0x1E4240, size: 0x8, addend: 0x0, symName: '-[GLTFObject name]', symObjAddr: 0x264, symBinAddr: 0x2DE74, symSize: 0xA }
+  - { offsetInCU: 0x21CE, offset: 0x1E4275, size: 0x8, addend: 0x0, symName: '-[GLTFObject setName:]', symObjAddr: 0x26E, symBinAddr: 0x2DE7E, symSize: 0xF }
+  - { offsetInCU: 0x220D, offset: 0x1E42B4, size: 0x8, addend: 0x0, symName: '-[GLTFObject identifier]', symObjAddr: 0x27D, symBinAddr: 0x2DE8D, symSize: 0xA }
+  - { offsetInCU: 0x2242, offset: 0x1E42E9, size: 0x8, addend: 0x0, symName: '-[GLTFObject extensions]', symObjAddr: 0x287, symBinAddr: 0x2DE97, symSize: 0xA }
+  - { offsetInCU: 0x2277, offset: 0x1E431E, size: 0x8, addend: 0x0, symName: '-[GLTFObject setExtensions:]', symObjAddr: 0x291, symBinAddr: 0x2DEA1, symSize: 0xF }
+  - { offsetInCU: 0x22B6, offset: 0x1E435D, size: 0x8, addend: 0x0, symName: '-[GLTFObject extras]', symObjAddr: 0x2A0, symBinAddr: 0x2DEB0, symSize: 0xA }
+  - { offsetInCU: 0x22EB, offset: 0x1E4392, size: 0x8, addend: 0x0, symName: '-[GLTFObject setExtras:]', symObjAddr: 0x2AA, symBinAddr: 0x2DEBA, symSize: 0xF }
+  - { offsetInCU: 0x232A, offset: 0x1E43D1, size: 0x8, addend: 0x0, symName: '-[GLTFObject .cxx_destruct]', symObjAddr: 0x2B9, symBinAddr: 0x2DEC9, symSize: 0x3E }
+  - { offsetInCU: 0x235D, offset: 0x1E4404, size: 0x8, addend: 0x0, symName: '+[GLTFAsset assetWithURL:options:error:]', symObjAddr: 0x2F7, symBinAddr: 0x2DF07, symSize: 0x1CC }
+  - { offsetInCU: 0x252E, offset: 0x1E45D5, size: 0x8, addend: 0x0, symName: ___Block_byref_object_copy_, symObjAddr: 0x4C3, symBinAddr: 0x2E0D3, symSize: 0x16 }
+  - { offsetInCU: 0x2553, offset: 0x1E45FA, size: 0x8, addend: 0x0, symName: ___Block_byref_object_dispose_, symObjAddr: 0x4D9, symBinAddr: 0x2E0E9, symSize: 0xF }
+  - { offsetInCU: 0x257E, offset: 0x1E4625, size: 0x8, addend: 0x0, symName: '___40+[GLTFAsset assetWithURL:options:error:]_block_invoke', symObjAddr: 0x4E8, symBinAddr: 0x2E0F8, symSize: 0x94 }
+  - { offsetInCU: 0x2694, offset: 0x1E473B, size: 0x8, addend: 0x0, symName: ___copy_helper_block_e8_32s40r48r, symObjAddr: 0x57C, symBinAddr: 0x2E18C, symSize: 0x42 }
+  - { offsetInCU: 0x26C9, offset: 0x1E4770, size: 0x8, addend: 0x0, symName: ___destroy_helper_block_e8_32s40r48r, symObjAddr: 0x5BE, symBinAddr: 0x2E1CE, symSize: 0x35 }
+  - { offsetInCU: 0x26F4, offset: 0x1E479B, size: 0x8, addend: 0x0, symName: '+[GLTFAsset assetWithData:options:error:]', symObjAddr: 0x5F3, symBinAddr: 0x2E203, symSize: 0x1CC }
+  - { offsetInCU: 0x2895, offset: 0x1E493C, size: 0x8, addend: 0x0, symName: '___41+[GLTFAsset assetWithData:options:error:]_block_invoke', symObjAddr: 0x7BF, symBinAddr: 0x2E3CF, symSize: 0x94 }
+  - { offsetInCU: 0x2999, offset: 0x1E4A40, size: 0x8, addend: 0x0, symName: '+[GLTFAsset loadAssetWithURL:options:handler:]', symObjAddr: 0x853, symBinAddr: 0x2E463, symSize: 0x19 }
+  - { offsetInCU: 0x2A17, offset: 0x1E4ABE, size: 0x8, addend: 0x0, symName: '+[GLTFAsset loadAssetWithData:options:handler:]', symObjAddr: 0x86C, symBinAddr: 0x2E47C, symSize: 0x19 }
+  - { offsetInCU: 0x2A95, offset: 0x1E4B3C, size: 0x8, addend: 0x0, symName: '+[GLTFAsset dracoDecompressorClassName]', symObjAddr: 0x885, symBinAddr: 0x2E495, symSize: 0x11 }
+  - { offsetInCU: 0x2AC8, offset: 0x1E4B6F, size: 0x8, addend: 0x0, symName: '+[GLTFAsset setDracoDecompressorClassName:]', symObjAddr: 0x896, symBinAddr: 0x2E4A6, symSize: 0x14 }
+  - { offsetInCU: 0x2B05, offset: 0x1E4BAC, size: 0x8, addend: 0x0, symName: '-[GLTFAsset init]', symObjAddr: 0x8AA, symBinAddr: 0x2E4BA, symSize: 0x178 }
+  - { offsetInCU: 0x2B48, offset: 0x1E4BEF, size: 0x8, addend: 0x0, symName: '-[GLTFAsset url]', symObjAddr: 0xA22, symBinAddr: 0x2E632, symSize: 0x11 }
+  - { offsetInCU: 0x2B7D, offset: 0x1E4C24, size: 0x8, addend: 0x0, symName: '-[GLTFAsset setUrl:]', symObjAddr: 0xA33, symBinAddr: 0x2E643, symSize: 0x14 }
+  - { offsetInCU: 0x2BBC, offset: 0x1E4C63, size: 0x8, addend: 0x0, symName: '-[GLTFAsset data]', symObjAddr: 0xA47, symBinAddr: 0x2E657, symSize: 0x11 }
+  - { offsetInCU: 0x2BF1, offset: 0x1E4C98, size: 0x8, addend: 0x0, symName: '-[GLTFAsset copyright]', symObjAddr: 0xA58, symBinAddr: 0x2E668, symSize: 0x11 }
+  - { offsetInCU: 0x2C26, offset: 0x1E4CCD, size: 0x8, addend: 0x0, symName: '-[GLTFAsset setCopyright:]', symObjAddr: 0xA69, symBinAddr: 0x2E679, symSize: 0x14 }
+  - { offsetInCU: 0x2C65, offset: 0x1E4D0C, size: 0x8, addend: 0x0, symName: '-[GLTFAsset generator]', symObjAddr: 0xA7D, symBinAddr: 0x2E68D, symSize: 0x11 }
+  - { offsetInCU: 0x2C9A, offset: 0x1E4D41, size: 0x8, addend: 0x0, symName: '-[GLTFAsset setGenerator:]', symObjAddr: 0xA8E, symBinAddr: 0x2E69E, symSize: 0x14 }
+  - { offsetInCU: 0x2CD9, offset: 0x1E4D80, size: 0x8, addend: 0x0, symName: '-[GLTFAsset version]', symObjAddr: 0xAA2, symBinAddr: 0x2E6B2, symSize: 0x11 }
+  - { offsetInCU: 0x2D0E, offset: 0x1E4DB5, size: 0x8, addend: 0x0, symName: '-[GLTFAsset setVersion:]', symObjAddr: 0xAB3, symBinAddr: 0x2E6C3, symSize: 0x11 }
+  - { offsetInCU: 0x2D4D, offset: 0x1E4DF4, size: 0x8, addend: 0x0, symName: '-[GLTFAsset minVersion]', symObjAddr: 0xAC4, symBinAddr: 0x2E6D4, symSize: 0x11 }
+  - { offsetInCU: 0x2D82, offset: 0x1E4E29, size: 0x8, addend: 0x0, symName: '-[GLTFAsset setMinVersion:]', symObjAddr: 0xAD5, symBinAddr: 0x2E6E5, symSize: 0x11 }
+  - { offsetInCU: 0x2DC1, offset: 0x1E4E68, size: 0x8, addend: 0x0, symName: '-[GLTFAsset extensionsUsed]', symObjAddr: 0xAE6, symBinAddr: 0x2E6F6, symSize: 0x11 }
+  - { offsetInCU: 0x2DF6, offset: 0x1E4E9D, size: 0x8, addend: 0x0, symName: '-[GLTFAsset setExtensionsUsed:]', symObjAddr: 0xAF7, symBinAddr: 0x2E707, symSize: 0x11 }
+  - { offsetInCU: 0x2E35, offset: 0x1E4EDC, size: 0x8, addend: 0x0, symName: '-[GLTFAsset extensionsRequired]', symObjAddr: 0xB08, symBinAddr: 0x2E718, symSize: 0x11 }
+  - { offsetInCU: 0x2E6A, offset: 0x1E4F11, size: 0x8, addend: 0x0, symName: '-[GLTFAsset setExtensionsRequired:]', symObjAddr: 0xB19, symBinAddr: 0x2E729, symSize: 0x11 }
+  - { offsetInCU: 0x2EA9, offset: 0x1E4F50, size: 0x8, addend: 0x0, symName: '-[GLTFAsset accessors]', symObjAddr: 0xB2A, symBinAddr: 0x2E73A, symSize: 0x11 }
+  - { offsetInCU: 0x2EDE, offset: 0x1E4F85, size: 0x8, addend: 0x0, symName: '-[GLTFAsset setAccessors:]', symObjAddr: 0xB3B, symBinAddr: 0x2E74B, symSize: 0x11 }
+  - { offsetInCU: 0x2F1D, offset: 0x1E4FC4, size: 0x8, addend: 0x0, symName: '-[GLTFAsset animations]', symObjAddr: 0xB4C, symBinAddr: 0x2E75C, symSize: 0x11 }
+  - { offsetInCU: 0x2F52, offset: 0x1E4FF9, size: 0x8, addend: 0x0, symName: '-[GLTFAsset setAnimations:]', symObjAddr: 0xB5D, symBinAddr: 0x2E76D, symSize: 0x11 }
+  - { offsetInCU: 0x2F91, offset: 0x1E5038, size: 0x8, addend: 0x0, symName: '-[GLTFAsset buffers]', symObjAddr: 0xB6E, symBinAddr: 0x2E77E, symSize: 0x11 }
+  - { offsetInCU: 0x2FC6, offset: 0x1E506D, size: 0x8, addend: 0x0, symName: '-[GLTFAsset setBuffers:]', symObjAddr: 0xB7F, symBinAddr: 0x2E78F, symSize: 0x11 }
+  - { offsetInCU: 0x3005, offset: 0x1E50AC, size: 0x8, addend: 0x0, symName: '-[GLTFAsset bufferViews]', symObjAddr: 0xB90, symBinAddr: 0x2E7A0, symSize: 0x11 }
+  - { offsetInCU: 0x303A, offset: 0x1E50E1, size: 0x8, addend: 0x0, symName: '-[GLTFAsset setBufferViews:]', symObjAddr: 0xBA1, symBinAddr: 0x2E7B1, symSize: 0x11 }
+  - { offsetInCU: 0x3079, offset: 0x1E5120, size: 0x8, addend: 0x0, symName: '-[GLTFAsset cameras]', symObjAddr: 0xBB2, symBinAddr: 0x2E7C2, symSize: 0x11 }
+  - { offsetInCU: 0x30AE, offset: 0x1E5155, size: 0x8, addend: 0x0, symName: '-[GLTFAsset setCameras:]', symObjAddr: 0xBC3, symBinAddr: 0x2E7D3, symSize: 0x11 }
+  - { offsetInCU: 0x30ED, offset: 0x1E5194, size: 0x8, addend: 0x0, symName: '-[GLTFAsset lights]', symObjAddr: 0xBD4, symBinAddr: 0x2E7E4, symSize: 0x11 }
+  - { offsetInCU: 0x3122, offset: 0x1E51C9, size: 0x8, addend: 0x0, symName: '-[GLTFAsset setLights:]', symObjAddr: 0xBE5, symBinAddr: 0x2E7F5, symSize: 0x11 }
+  - { offsetInCU: 0x3161, offset: 0x1E5208, size: 0x8, addend: 0x0, symName: '-[GLTFAsset images]', symObjAddr: 0xBF6, symBinAddr: 0x2E806, symSize: 0x11 }
+  - { offsetInCU: 0x3196, offset: 0x1E523D, size: 0x8, addend: 0x0, symName: '-[GLTFAsset setImages:]', symObjAddr: 0xC07, symBinAddr: 0x2E817, symSize: 0x11 }
+  - { offsetInCU: 0x31D5, offset: 0x1E527C, size: 0x8, addend: 0x0, symName: '-[GLTFAsset materials]', symObjAddr: 0xC18, symBinAddr: 0x2E828, symSize: 0x11 }
+  - { offsetInCU: 0x320A, offset: 0x1E52B1, size: 0x8, addend: 0x0, symName: '-[GLTFAsset setMaterials:]', symObjAddr: 0xC29, symBinAddr: 0x2E839, symSize: 0x11 }
+  - { offsetInCU: 0x3249, offset: 0x1E52F0, size: 0x8, addend: 0x0, symName: '-[GLTFAsset materialVariants]', symObjAddr: 0xC3A, symBinAddr: 0x2E84A, symSize: 0x11 }
+  - { offsetInCU: 0x327E, offset: 0x1E5325, size: 0x8, addend: 0x0, symName: '-[GLTFAsset setMaterialVariants:]', symObjAddr: 0xC4B, symBinAddr: 0x2E85B, symSize: 0x11 }
+  - { offsetInCU: 0x32BD, offset: 0x1E5364, size: 0x8, addend: 0x0, symName: '-[GLTFAsset meshes]', symObjAddr: 0xC5C, symBinAddr: 0x2E86C, symSize: 0x11 }
+  - { offsetInCU: 0x32F2, offset: 0x1E5399, size: 0x8, addend: 0x0, symName: '-[GLTFAsset setMeshes:]', symObjAddr: 0xC6D, symBinAddr: 0x2E87D, symSize: 0x11 }
+  - { offsetInCU: 0x3331, offset: 0x1E53D8, size: 0x8, addend: 0x0, symName: '-[GLTFAsset nodes]', symObjAddr: 0xC7E, symBinAddr: 0x2E88E, symSize: 0x11 }
+  - { offsetInCU: 0x3366, offset: 0x1E540D, size: 0x8, addend: 0x0, symName: '-[GLTFAsset setNodes:]', symObjAddr: 0xC8F, symBinAddr: 0x2E89F, symSize: 0x11 }
+  - { offsetInCU: 0x33A5, offset: 0x1E544C, size: 0x8, addend: 0x0, symName: '-[GLTFAsset samplers]', symObjAddr: 0xCA0, symBinAddr: 0x2E8B0, symSize: 0x11 }
+  - { offsetInCU: 0x33DA, offset: 0x1E5481, size: 0x8, addend: 0x0, symName: '-[GLTFAsset setSamplers:]', symObjAddr: 0xCB1, symBinAddr: 0x2E8C1, symSize: 0x11 }
+  - { offsetInCU: 0x3419, offset: 0x1E54C0, size: 0x8, addend: 0x0, symName: '-[GLTFAsset defaultScene]', symObjAddr: 0xCC2, symBinAddr: 0x2E8D2, symSize: 0x11 }
+  - { offsetInCU: 0x344E, offset: 0x1E54F5, size: 0x8, addend: 0x0, symName: '-[GLTFAsset setDefaultScene:]', symObjAddr: 0xCD3, symBinAddr: 0x2E8E3, symSize: 0x14 }
+  - { offsetInCU: 0x348D, offset: 0x1E5534, size: 0x8, addend: 0x0, symName: '-[GLTFAsset scenes]', symObjAddr: 0xCE7, symBinAddr: 0x2E8F7, symSize: 0x11 }
+  - { offsetInCU: 0x34C2, offset: 0x1E5569, size: 0x8, addend: 0x0, symName: '-[GLTFAsset setScenes:]', symObjAddr: 0xCF8, symBinAddr: 0x2E908, symSize: 0x11 }
+  - { offsetInCU: 0x3501, offset: 0x1E55A8, size: 0x8, addend: 0x0, symName: '-[GLTFAsset skins]', symObjAddr: 0xD09, symBinAddr: 0x2E919, symSize: 0x11 }
+  - { offsetInCU: 0x3536, offset: 0x1E55DD, size: 0x8, addend: 0x0, symName: '-[GLTFAsset setSkins:]', symObjAddr: 0xD1A, symBinAddr: 0x2E92A, symSize: 0x11 }
+  - { offsetInCU: 0x3575, offset: 0x1E561C, size: 0x8, addend: 0x0, symName: '-[GLTFAsset textures]', symObjAddr: 0xD2B, symBinAddr: 0x2E93B, symSize: 0x11 }
+  - { offsetInCU: 0x35AA, offset: 0x1E5651, size: 0x8, addend: 0x0, symName: '-[GLTFAsset setTextures:]', symObjAddr: 0xD3C, symBinAddr: 0x2E94C, symSize: 0x11 }
+  - { offsetInCU: 0x35E9, offset: 0x1E5690, size: 0x8, addend: 0x0, symName: '-[GLTFAsset .cxx_destruct]', symObjAddr: 0xD4D, symBinAddr: 0x2E95D, symSize: 0x1A7 }
+  - { offsetInCU: 0x361C, offset: 0x1E56C3, size: 0x8, addend: 0x0, symName: '-[GLTFAccessor initWithBufferView:offset:componentType:dimension:count:normalized:]', symObjAddr: 0xEF4, symBinAddr: 0x2EB04, symSize: 0xED }
+  - { offsetInCU: 0x36E3, offset: 0x1E578A, size: 0x8, addend: 0x0, symName: '-[GLTFAccessor bufferView]', symObjAddr: 0xFE1, symBinAddr: 0x2EBF1, symSize: 0x11 }
+  - { offsetInCU: 0x3718, offset: 0x1E57BF, size: 0x8, addend: 0x0, symName: '-[GLTFAccessor setBufferView:]', symObjAddr: 0xFF2, symBinAddr: 0x2EC02, symSize: 0x14 }
+  - { offsetInCU: 0x3757, offset: 0x1E57FE, size: 0x8, addend: 0x0, symName: '-[GLTFAccessor offset]', symObjAddr: 0x1006, symBinAddr: 0x2EC16, symSize: 0x11 }
+  - { offsetInCU: 0x378C, offset: 0x1E5833, size: 0x8, addend: 0x0, symName: '-[GLTFAccessor setOffset:]', symObjAddr: 0x1017, symBinAddr: 0x2EC27, symSize: 0x11 }
+  - { offsetInCU: 0x37C9, offset: 0x1E5870, size: 0x8, addend: 0x0, symName: '-[GLTFAccessor componentType]', symObjAddr: 0x1028, symBinAddr: 0x2EC38, symSize: 0x11 }
+  - { offsetInCU: 0x37FE, offset: 0x1E58A5, size: 0x8, addend: 0x0, symName: '-[GLTFAccessor setComponentType:]', symObjAddr: 0x1039, symBinAddr: 0x2EC49, symSize: 0x11 }
+  - { offsetInCU: 0x383B, offset: 0x1E58E2, size: 0x8, addend: 0x0, symName: '-[GLTFAccessor dimension]', symObjAddr: 0x104A, symBinAddr: 0x2EC5A, symSize: 0x11 }
+  - { offsetInCU: 0x3870, offset: 0x1E5917, size: 0x8, addend: 0x0, symName: '-[GLTFAccessor setDimension:]', symObjAddr: 0x105B, symBinAddr: 0x2EC6B, symSize: 0x11 }
+  - { offsetInCU: 0x38AD, offset: 0x1E5954, size: 0x8, addend: 0x0, symName: '-[GLTFAccessor isNormalized]', symObjAddr: 0x106C, symBinAddr: 0x2EC7C, symSize: 0x11 }
+  - { offsetInCU: 0x38E2, offset: 0x1E5989, size: 0x8, addend: 0x0, symName: '-[GLTFAccessor setNormalized:]', symObjAddr: 0x107D, symBinAddr: 0x2EC8D, symSize: 0x10 }
+  - { offsetInCU: 0x391F, offset: 0x1E59C6, size: 0x8, addend: 0x0, symName: '-[GLTFAccessor count]', symObjAddr: 0x108D, symBinAddr: 0x2EC9D, symSize: 0x11 }
+  - { offsetInCU: 0x3954, offset: 0x1E59FB, size: 0x8, addend: 0x0, symName: '-[GLTFAccessor setCount:]', symObjAddr: 0x109E, symBinAddr: 0x2ECAE, symSize: 0x11 }
+  - { offsetInCU: 0x3991, offset: 0x1E5A38, size: 0x8, addend: 0x0, symName: '-[GLTFAccessor minValues]', symObjAddr: 0x10AF, symBinAddr: 0x2ECBF, symSize: 0x11 }
+  - { offsetInCU: 0x39C6, offset: 0x1E5A6D, size: 0x8, addend: 0x0, symName: '-[GLTFAccessor setMinValues:]', symObjAddr: 0x10C0, symBinAddr: 0x2ECD0, symSize: 0x11 }
+  - { offsetInCU: 0x3A05, offset: 0x1E5AAC, size: 0x8, addend: 0x0, symName: '-[GLTFAccessor maxValues]', symObjAddr: 0x10D1, symBinAddr: 0x2ECE1, symSize: 0x11 }
+  - { offsetInCU: 0x3A3A, offset: 0x1E5AE1, size: 0x8, addend: 0x0, symName: '-[GLTFAccessor setMaxValues:]', symObjAddr: 0x10E2, symBinAddr: 0x2ECF2, symSize: 0x11 }
+  - { offsetInCU: 0x3A79, offset: 0x1E5B20, size: 0x8, addend: 0x0, symName: '-[GLTFAccessor sparse]', symObjAddr: 0x10F3, symBinAddr: 0x2ED03, symSize: 0x11 }
+  - { offsetInCU: 0x3AAE, offset: 0x1E5B55, size: 0x8, addend: 0x0, symName: '-[GLTFAccessor setSparse:]', symObjAddr: 0x1104, symBinAddr: 0x2ED14, symSize: 0x14 }
+  - { offsetInCU: 0x3AED, offset: 0x1E5B94, size: 0x8, addend: 0x0, symName: '-[GLTFAccessor .cxx_destruct]', symObjAddr: 0x1118, symBinAddr: 0x2ED28, symSize: 0x53 }
+  - { offsetInCU: 0x3B21, offset: 0x1E5BC8, size: 0x8, addend: 0x0, symName: '-[GLTFAnimation initWithChannels:samplers:]', symObjAddr: 0x116B, symBinAddr: 0x2ED7B, symSize: 0xC7 }
+  - { offsetInCU: 0x3C0C, offset: 0x1E5CB3, size: 0x8, addend: 0x0, symName: '-[GLTFAnimation channels]', symObjAddr: 0x1232, symBinAddr: 0x2EE42, symSize: 0x11 }
+  - { offsetInCU: 0x3C41, offset: 0x1E5CE8, size: 0x8, addend: 0x0, symName: '-[GLTFAnimation setChannels:]', symObjAddr: 0x1243, symBinAddr: 0x2EE53, symSize: 0x11 }
+  - { offsetInCU: 0x3C80, offset: 0x1E5D27, size: 0x8, addend: 0x0, symName: '-[GLTFAnimation samplers]', symObjAddr: 0x1254, symBinAddr: 0x2EE64, symSize: 0x11 }
+  - { offsetInCU: 0x3CB5, offset: 0x1E5D5C, size: 0x8, addend: 0x0, symName: '-[GLTFAnimation setSamplers:]', symObjAddr: 0x1265, symBinAddr: 0x2EE75, symSize: 0x11 }
+  - { offsetInCU: 0x3CF4, offset: 0x1E5D9B, size: 0x8, addend: 0x0, symName: '-[GLTFAnimation .cxx_destruct]', symObjAddr: 0x1276, symBinAddr: 0x2EE86, symSize: 0x31 }
+  - { offsetInCU: 0x3D28, offset: 0x1E5DCF, size: 0x8, addend: 0x0, symName: '-[GLTFAnimationTarget initWithPath:]', symObjAddr: 0x12A7, symBinAddr: 0x2EEB7, symSize: 0x7A }
+  - { offsetInCU: 0x3DBA, offset: 0x1E5E61, size: 0x8, addend: 0x0, symName: '-[GLTFAnimationTarget path]', symObjAddr: 0x1321, symBinAddr: 0x2EF31, symSize: 0x11 }
+  - { offsetInCU: 0x3DEF, offset: 0x1E5E96, size: 0x8, addend: 0x0, symName: '-[GLTFAnimationTarget setPath:]', symObjAddr: 0x1332, symBinAddr: 0x2EF42, symSize: 0x11 }
+  - { offsetInCU: 0x3E2E, offset: 0x1E5ED5, size: 0x8, addend: 0x0, symName: '-[GLTFAnimationTarget node]', symObjAddr: 0x1343, symBinAddr: 0x2EF53, symSize: 0x11 }
+  - { offsetInCU: 0x3E63, offset: 0x1E5F0A, size: 0x8, addend: 0x0, symName: '-[GLTFAnimationTarget setNode:]', symObjAddr: 0x1354, symBinAddr: 0x2EF64, symSize: 0x14 }
+  - { offsetInCU: 0x3EA2, offset: 0x1E5F49, size: 0x8, addend: 0x0, symName: '-[GLTFAnimationTarget .cxx_destruct]', symObjAddr: 0x1368, symBinAddr: 0x2EF78, symSize: 0x31 }
+  - { offsetInCU: 0x3ED6, offset: 0x1E5F7D, size: 0x8, addend: 0x0, symName: '-[GLTFAnimationChannel initWithTarget:sampler:]', symObjAddr: 0x1399, symBinAddr: 0x2EFA9, symSize: 0xA2 }
+  - { offsetInCU: 0x3F81, offset: 0x1E6028, size: 0x8, addend: 0x0, symName: '-[GLTFAnimationChannel sampler]', symObjAddr: 0x143B, symBinAddr: 0x2F04B, symSize: 0x11 }
+  - { offsetInCU: 0x3FB6, offset: 0x1E605D, size: 0x8, addend: 0x0, symName: '-[GLTFAnimationChannel setSampler:]', symObjAddr: 0x144C, symBinAddr: 0x2F05C, symSize: 0x14 }
+  - { offsetInCU: 0x3FF5, offset: 0x1E609C, size: 0x8, addend: 0x0, symName: '-[GLTFAnimationChannel target]', symObjAddr: 0x1460, symBinAddr: 0x2F070, symSize: 0x11 }
+  - { offsetInCU: 0x402A, offset: 0x1E60D1, size: 0x8, addend: 0x0, symName: '-[GLTFAnimationChannel setTarget:]', symObjAddr: 0x1471, symBinAddr: 0x2F081, symSize: 0x14 }
+  - { offsetInCU: 0x4069, offset: 0x1E6110, size: 0x8, addend: 0x0, symName: '-[GLTFAnimationChannel .cxx_destruct]', symObjAddr: 0x1485, symBinAddr: 0x2F095, symSize: 0x31 }
+  - { offsetInCU: 0x409D, offset: 0x1E6144, size: 0x8, addend: 0x0, symName: '-[GLTFAnimationSampler initWithInput:output:]', symObjAddr: 0x14B6, symBinAddr: 0x2F0C6, symSize: 0xB2 }
+  - { offsetInCU: 0x4148, offset: 0x1E61EF, size: 0x8, addend: 0x0, symName: '-[GLTFAnimationSampler input]', symObjAddr: 0x1568, symBinAddr: 0x2F178, symSize: 0x11 }
+  - { offsetInCU: 0x417D, offset: 0x1E6224, size: 0x8, addend: 0x0, symName: '-[GLTFAnimationSampler setInput:]', symObjAddr: 0x1579, symBinAddr: 0x2F189, symSize: 0x14 }
+  - { offsetInCU: 0x41BC, offset: 0x1E6263, size: 0x8, addend: 0x0, symName: '-[GLTFAnimationSampler output]', symObjAddr: 0x158D, symBinAddr: 0x2F19D, symSize: 0x11 }
+  - { offsetInCU: 0x41F1, offset: 0x1E6298, size: 0x8, addend: 0x0, symName: '-[GLTFAnimationSampler setOutput:]', symObjAddr: 0x159E, symBinAddr: 0x2F1AE, symSize: 0x14 }
+  - { offsetInCU: 0x4230, offset: 0x1E62D7, size: 0x8, addend: 0x0, symName: '-[GLTFAnimationSampler interpolationMode]', symObjAddr: 0x15B2, symBinAddr: 0x2F1C2, symSize: 0x11 }
+  - { offsetInCU: 0x4265, offset: 0x1E630C, size: 0x8, addend: 0x0, symName: '-[GLTFAnimationSampler setInterpolationMode:]', symObjAddr: 0x15C3, symBinAddr: 0x2F1D3, symSize: 0x11 }
+  - { offsetInCU: 0x42A2, offset: 0x1E6349, size: 0x8, addend: 0x0, symName: '-[GLTFAnimationSampler .cxx_destruct]', symObjAddr: 0x15D4, symBinAddr: 0x2F1E4, symSize: 0x31 }
+  - { offsetInCU: 0x42D6, offset: 0x1E637D, size: 0x8, addend: 0x0, symName: '-[GLTFBuffer initWithLength:]', symObjAddr: 0x1605, symBinAddr: 0x2F215, symSize: 0x44 }
+  - { offsetInCU: 0x431F, offset: 0x1E63C6, size: 0x8, addend: 0x0, symName: '-[GLTFBuffer initWithData:]', symObjAddr: 0x1649, symBinAddr: 0x2F259, symSize: 0x89 }
+  - { offsetInCU: 0x43A5, offset: 0x1E644C, size: 0x8, addend: 0x0, symName: '-[GLTFBuffer data]', symObjAddr: 0x16D2, symBinAddr: 0x2F2E2, symSize: 0x11 }
+  - { offsetInCU: 0x43DA, offset: 0x1E6481, size: 0x8, addend: 0x0, symName: '-[GLTFBuffer setData:]', symObjAddr: 0x16E3, symBinAddr: 0x2F2F3, symSize: 0x14 }
+  - { offsetInCU: 0x4419, offset: 0x1E64C0, size: 0x8, addend: 0x0, symName: '-[GLTFBuffer uri]', symObjAddr: 0x16F7, symBinAddr: 0x2F307, symSize: 0x11 }
+  - { offsetInCU: 0x444E, offset: 0x1E64F5, size: 0x8, addend: 0x0, symName: '-[GLTFBuffer setUri:]', symObjAddr: 0x1708, symBinAddr: 0x2F318, symSize: 0x14 }
+  - { offsetInCU: 0x448D, offset: 0x1E6534, size: 0x8, addend: 0x0, symName: '-[GLTFBuffer length]', symObjAddr: 0x171C, symBinAddr: 0x2F32C, symSize: 0x11 }
+  - { offsetInCU: 0x44C2, offset: 0x1E6569, size: 0x8, addend: 0x0, symName: '-[GLTFBuffer setLength:]', symObjAddr: 0x172D, symBinAddr: 0x2F33D, symSize: 0x11 }
+  - { offsetInCU: 0x44FF, offset: 0x1E65A6, size: 0x8, addend: 0x0, symName: '-[GLTFBuffer isMeshoptFallback]', symObjAddr: 0x173E, symBinAddr: 0x2F34E, symSize: 0x11 }
+  - { offsetInCU: 0x4534, offset: 0x1E65DB, size: 0x8, addend: 0x0, symName: '-[GLTFBuffer setMeshoptFallback:]', symObjAddr: 0x174F, symBinAddr: 0x2F35F, symSize: 0x10 }
+  - { offsetInCU: 0x4571, offset: 0x1E6618, size: 0x8, addend: 0x0, symName: '-[GLTFBuffer .cxx_destruct]', symObjAddr: 0x175F, symBinAddr: 0x2F36F, symSize: 0x31 }
+  - { offsetInCU: 0x45A5, offset: 0x1E664C, size: 0x8, addend: 0x0, symName: '-[GLTFMeshoptCompression initWithBuffer:length:stride:count:mode:]', symObjAddr: 0x1790, symBinAddr: 0x2F3A0, symSize: 0xB4 }
+  - { offsetInCU: 0x465A, offset: 0x1E6701, size: 0x8, addend: 0x0, symName: '-[GLTFMeshoptCompression buffer]', symObjAddr: 0x1844, symBinAddr: 0x2F454, symSize: 0x11 }
+  - { offsetInCU: 0x4690, offset: 0x1E6737, size: 0x8, addend: 0x0, symName: '-[GLTFMeshoptCompression setBuffer:]', symObjAddr: 0x1855, symBinAddr: 0x2F465, symSize: 0x14 }
+  - { offsetInCU: 0x46D0, offset: 0x1E6777, size: 0x8, addend: 0x0, symName: '-[GLTFMeshoptCompression offset]', symObjAddr: 0x1869, symBinAddr: 0x2F479, symSize: 0x11 }
+  - { offsetInCU: 0x4706, offset: 0x1E67AD, size: 0x8, addend: 0x0, symName: '-[GLTFMeshoptCompression setOffset:]', symObjAddr: 0x187A, symBinAddr: 0x2F48A, symSize: 0x11 }
+  - { offsetInCU: 0x4744, offset: 0x1E67EB, size: 0x8, addend: 0x0, symName: '-[GLTFMeshoptCompression length]', symObjAddr: 0x188B, symBinAddr: 0x2F49B, symSize: 0x11 }
+  - { offsetInCU: 0x477A, offset: 0x1E6821, size: 0x8, addend: 0x0, symName: '-[GLTFMeshoptCompression setLength:]', symObjAddr: 0x189C, symBinAddr: 0x2F4AC, symSize: 0x11 }
+  - { offsetInCU: 0x47B8, offset: 0x1E685F, size: 0x8, addend: 0x0, symName: '-[GLTFMeshoptCompression stride]', symObjAddr: 0x18AD, symBinAddr: 0x2F4BD, symSize: 0x11 }
+  - { offsetInCU: 0x47EE, offset: 0x1E6895, size: 0x8, addend: 0x0, symName: '-[GLTFMeshoptCompression setStride:]', symObjAddr: 0x18BE, symBinAddr: 0x2F4CE, symSize: 0x11 }
+  - { offsetInCU: 0x482C, offset: 0x1E68D3, size: 0x8, addend: 0x0, symName: '-[GLTFMeshoptCompression count]', symObjAddr: 0x18CF, symBinAddr: 0x2F4DF, symSize: 0x11 }
+  - { offsetInCU: 0x4862, offset: 0x1E6909, size: 0x8, addend: 0x0, symName: '-[GLTFMeshoptCompression setCount:]', symObjAddr: 0x18E0, symBinAddr: 0x2F4F0, symSize: 0x11 }
+  - { offsetInCU: 0x48A0, offset: 0x1E6947, size: 0x8, addend: 0x0, symName: '-[GLTFMeshoptCompression mode]', symObjAddr: 0x18F1, symBinAddr: 0x2F501, symSize: 0x11 }
+  - { offsetInCU: 0x48D6, offset: 0x1E697D, size: 0x8, addend: 0x0, symName: '-[GLTFMeshoptCompression setMode:]', symObjAddr: 0x1902, symBinAddr: 0x2F512, symSize: 0x11 }
+  - { offsetInCU: 0x4914, offset: 0x1E69BB, size: 0x8, addend: 0x0, symName: '-[GLTFMeshoptCompression filter]', symObjAddr: 0x1913, symBinAddr: 0x2F523, symSize: 0x11 }
+  - { offsetInCU: 0x494A, offset: 0x1E69F1, size: 0x8, addend: 0x0, symName: '-[GLTFMeshoptCompression setFilter:]', symObjAddr: 0x1924, symBinAddr: 0x2F534, symSize: 0x11 }
+  - { offsetInCU: 0x4988, offset: 0x1E6A2F, size: 0x8, addend: 0x0, symName: '-[GLTFMeshoptCompression .cxx_destruct]', symObjAddr: 0x1935, symBinAddr: 0x2F545, symSize: 0x13 }
+  - { offsetInCU: 0x49BC, offset: 0x1E6A63, size: 0x8, addend: 0x0, symName: '-[GLTFBufferView initWithBuffer:length:offset:stride:]', symObjAddr: 0x1948, symBinAddr: 0x2F558, symSize: 0xA5 }
+  - { offsetInCU: 0x4A61, offset: 0x1E6B08, size: 0x8, addend: 0x0, symName: '-[GLTFBufferView buffer]', symObjAddr: 0x19ED, symBinAddr: 0x2F5FD, symSize: 0x11 }
+  - { offsetInCU: 0x4A97, offset: 0x1E6B3E, size: 0x8, addend: 0x0, symName: '-[GLTFBufferView setBuffer:]', symObjAddr: 0x19FE, symBinAddr: 0x2F60E, symSize: 0x14 }
+  - { offsetInCU: 0x4AD7, offset: 0x1E6B7E, size: 0x8, addend: 0x0, symName: '-[GLTFBufferView offset]', symObjAddr: 0x1A12, symBinAddr: 0x2F622, symSize: 0x11 }
+  - { offsetInCU: 0x4B0D, offset: 0x1E6BB4, size: 0x8, addend: 0x0, symName: '-[GLTFBufferView setOffset:]', symObjAddr: 0x1A23, symBinAddr: 0x2F633, symSize: 0x11 }
+  - { offsetInCU: 0x4B4B, offset: 0x1E6BF2, size: 0x8, addend: 0x0, symName: '-[GLTFBufferView length]', symObjAddr: 0x1A34, symBinAddr: 0x2F644, symSize: 0x11 }
+  - { offsetInCU: 0x4B81, offset: 0x1E6C28, size: 0x8, addend: 0x0, symName: '-[GLTFBufferView setLength:]', symObjAddr: 0x1A45, symBinAddr: 0x2F655, symSize: 0x11 }
+  - { offsetInCU: 0x4BBF, offset: 0x1E6C66, size: 0x8, addend: 0x0, symName: '-[GLTFBufferView stride]', symObjAddr: 0x1A56, symBinAddr: 0x2F666, symSize: 0x11 }
+  - { offsetInCU: 0x4BF5, offset: 0x1E6C9C, size: 0x8, addend: 0x0, symName: '-[GLTFBufferView setStride:]', symObjAddr: 0x1A67, symBinAddr: 0x2F677, symSize: 0x11 }
+  - { offsetInCU: 0x4C33, offset: 0x1E6CDA, size: 0x8, addend: 0x0, symName: '-[GLTFBufferView meshoptCompression]', symObjAddr: 0x1A78, symBinAddr: 0x2F688, symSize: 0x11 }
+  - { offsetInCU: 0x4C69, offset: 0x1E6D10, size: 0x8, addend: 0x0, symName: '-[GLTFBufferView setMeshoptCompression:]', symObjAddr: 0x1A89, symBinAddr: 0x2F699, symSize: 0x14 }
+  - { offsetInCU: 0x4CA9, offset: 0x1E6D50, size: 0x8, addend: 0x0, symName: '-[GLTFBufferView .cxx_destruct]', symObjAddr: 0x1A9D, symBinAddr: 0x2F6AD, symSize: 0x31 }
+  - { offsetInCU: 0x4CDD, offset: 0x1E6D84, size: 0x8, addend: 0x0, symName: '-[GLTFOrthographicProjectionParams init]', symObjAddr: 0x1ACE, symBinAddr: 0x2F6DE, symSize: 0x4D }
+  - { offsetInCU: 0x4D15, offset: 0x1E6DBC, size: 0x8, addend: 0x0, symName: '-[GLTFOrthographicProjectionParams xMag]', symObjAddr: 0x1B1B, symBinAddr: 0x2F72B, symSize: 0x12 }
+  - { offsetInCU: 0x4D4B, offset: 0x1E6DF2, size: 0x8, addend: 0x0, symName: '-[GLTFOrthographicProjectionParams setXMag:]', symObjAddr: 0x1B2D, symBinAddr: 0x2F73D, symSize: 0x12 }
+  - { offsetInCU: 0x4D89, offset: 0x1E6E30, size: 0x8, addend: 0x0, symName: '-[GLTFOrthographicProjectionParams yMag]', symObjAddr: 0x1B3F, symBinAddr: 0x2F74F, symSize: 0x12 }
+  - { offsetInCU: 0x4DBF, offset: 0x1E6E66, size: 0x8, addend: 0x0, symName: '-[GLTFOrthographicProjectionParams setYMag:]', symObjAddr: 0x1B51, symBinAddr: 0x2F761, symSize: 0x12 }
+  - { offsetInCU: 0x4DFD, offset: 0x1E6EA4, size: 0x8, addend: 0x0, symName: '-[GLTFPerspectiveProjectionParams init]', symObjAddr: 0x1B63, symBinAddr: 0x2F773, symSize: 0x50 }
+  - { offsetInCU: 0x4E35, offset: 0x1E6EDC, size: 0x8, addend: 0x0, symName: '-[GLTFPerspectiveProjectionParams aspectRatio]', symObjAddr: 0x1BB3, symBinAddr: 0x2F7C3, symSize: 0x12 }
+  - { offsetInCU: 0x4E6B, offset: 0x1E6F12, size: 0x8, addend: 0x0, symName: '-[GLTFPerspectiveProjectionParams setAspectRatio:]', symObjAddr: 0x1BC5, symBinAddr: 0x2F7D5, symSize: 0x12 }
+  - { offsetInCU: 0x4EA9, offset: 0x1E6F50, size: 0x8, addend: 0x0, symName: '-[GLTFPerspectiveProjectionParams yFOV]', symObjAddr: 0x1BD7, symBinAddr: 0x2F7E7, symSize: 0x12 }
+  - { offsetInCU: 0x4EDF, offset: 0x1E6F86, size: 0x8, addend: 0x0, symName: '-[GLTFPerspectiveProjectionParams setYFOV:]', symObjAddr: 0x1BE9, symBinAddr: 0x2F7F9, symSize: 0x12 }
+  - { offsetInCU: 0x4F1D, offset: 0x1E6FC4, size: 0x8, addend: 0x0, symName: '-[GLTFCamera initWithOrthographicProjection:]', symObjAddr: 0x1BFB, symBinAddr: 0x2F80B, symSize: 0x8C }
+  - { offsetInCU: 0x4F8F, offset: 0x1E7036, size: 0x8, addend: 0x0, symName: '-[GLTFCamera initWithPerspectiveProjection:]', symObjAddr: 0x1C87, symBinAddr: 0x2F897, symSize: 0x8C }
+  - { offsetInCU: 0x5001, offset: 0x1E70A8, size: 0x8, addend: 0x0, symName: '-[GLTFCamera orthographic]', symObjAddr: 0x1D13, symBinAddr: 0x2F923, symSize: 0x11 }
+  - { offsetInCU: 0x5037, offset: 0x1E70DE, size: 0x8, addend: 0x0, symName: '-[GLTFCamera setOrthographic:]', symObjAddr: 0x1D24, symBinAddr: 0x2F934, symSize: 0x14 }
+  - { offsetInCU: 0x5077, offset: 0x1E711E, size: 0x8, addend: 0x0, symName: '-[GLTFCamera perspective]', symObjAddr: 0x1D38, symBinAddr: 0x2F948, symSize: 0x11 }
+  - { offsetInCU: 0x50AD, offset: 0x1E7154, size: 0x8, addend: 0x0, symName: '-[GLTFCamera setPerspective:]', symObjAddr: 0x1D49, symBinAddr: 0x2F959, symSize: 0x14 }
+  - { offsetInCU: 0x50ED, offset: 0x1E7194, size: 0x8, addend: 0x0, symName: '-[GLTFCamera zNear]', symObjAddr: 0x1D5D, symBinAddr: 0x2F96D, symSize: 0x12 }
+  - { offsetInCU: 0x5123, offset: 0x1E71CA, size: 0x8, addend: 0x0, symName: '-[GLTFCamera setZNear:]', symObjAddr: 0x1D6F, symBinAddr: 0x2F97F, symSize: 0x12 }
+  - { offsetInCU: 0x5161, offset: 0x1E7208, size: 0x8, addend: 0x0, symName: '-[GLTFCamera zFar]', symObjAddr: 0x1D81, symBinAddr: 0x2F991, symSize: 0x12 }
+  - { offsetInCU: 0x5197, offset: 0x1E723E, size: 0x8, addend: 0x0, symName: '-[GLTFCamera setZFar:]', symObjAddr: 0x1D93, symBinAddr: 0x2F9A3, symSize: 0x12 }
+  - { offsetInCU: 0x51D5, offset: 0x1E727C, size: 0x8, addend: 0x0, symName: '-[GLTFCamera .cxx_destruct]', symObjAddr: 0x1DA5, symBinAddr: 0x2F9B5, symSize: 0x31 }
+  - { offsetInCU: 0x5209, offset: 0x1E72B0, size: 0x8, addend: 0x0, symName: '-[GLTFImage initWithURI:]', symObjAddr: 0x1DD6, symBinAddr: 0x2F9E6, symSize: 0x6E }
+  - { offsetInCU: 0x527B, offset: 0x1E7322, size: 0x8, addend: 0x0, symName: '-[GLTFImage initWithBufferView:mimeType:]', symObjAddr: 0x1E44, symBinAddr: 0x2FA54, symSize: 0xA2 }
+  - { offsetInCU: 0x5326, offset: 0x1E73CD, size: 0x8, addend: 0x0, symName: '-[GLTFImage initWithCGImage:]', symObjAddr: 0x1EE6, symBinAddr: 0x2FAF6, symSize: 0x56 }
+  - { offsetInCU: 0x5397, offset: 0x1E743E, size: 0x8, addend: 0x0, symName: '-[GLTFImage dealloc]', symObjAddr: 0x1F3C, symBinAddr: 0x2FB4C, symSize: 0x41 }
+  - { offsetInCU: 0x5479, offset: 0x1E7520, size: 0x8, addend: 0x0, symName: '-[GLTFImage newImageDataReturningInferredMediaType:]', symObjAddr: 0x1F7D, symBinAddr: 0x2FB8D, symSize: 0x559 }
+  - { offsetInCU: 0x58A2, offset: 0x1E7949, size: 0x8, addend: 0x0, symName: '___52-[GLTFImage newImageDataReturningInferredMediaType:]_block_invoke', symObjAddr: 0x24D6, symBinAddr: 0x300E6, symSize: 0x44 }
+  - { offsetInCU: 0x5909, offset: 0x1E79B0, size: 0x8, addend: 0x0, symName: ___copy_helper_block_e8_32r, symObjAddr: 0x251A, symBinAddr: 0x3012A, symSize: 0x17 }
+  - { offsetInCU: 0x5932, offset: 0x1E79D9, size: 0x8, addend: 0x0, symName: ___destroy_helper_block_e8_32r, symObjAddr: 0x2531, symBinAddr: 0x30141, symSize: 0x13 }
+  - { offsetInCU: 0x598E, offset: 0x1E7A35, size: 0x8, addend: 0x0, symName: '-[GLTFImage newCGImage]', symObjAddr: 0x2544, symBinAddr: 0x30154, symSize: 0x1D3 }
+  - { offsetInCU: 0x5C6A, offset: 0x1E7D11, size: 0x8, addend: 0x0, symName: '-[GLTFImage newTextureWithDevice:]', symObjAddr: 0x2717, symBinAddr: 0x30327, symSize: 0xFB }
+  - { offsetInCU: 0x5DC6, offset: 0x1E7E6D, size: 0x8, addend: 0x0, symName: '-[GLTFImage uri]', symObjAddr: 0x2812, symBinAddr: 0x30422, symSize: 0x11 }
+  - { offsetInCU: 0x5DFC, offset: 0x1E7EA3, size: 0x8, addend: 0x0, symName: '-[GLTFImage setUri:]', symObjAddr: 0x2823, symBinAddr: 0x30433, symSize: 0x14 }
+  - { offsetInCU: 0x5E3C, offset: 0x1E7EE3, size: 0x8, addend: 0x0, symName: '-[GLTFImage bufferView]', symObjAddr: 0x2837, symBinAddr: 0x30447, symSize: 0x11 }
+  - { offsetInCU: 0x5E72, offset: 0x1E7F19, size: 0x8, addend: 0x0, symName: '-[GLTFImage setBufferView:]', symObjAddr: 0x2848, symBinAddr: 0x30458, symSize: 0x14 }
+  - { offsetInCU: 0x5EB2, offset: 0x1E7F59, size: 0x8, addend: 0x0, symName: '-[GLTFImage mimeType]', symObjAddr: 0x285C, symBinAddr: 0x3046C, symSize: 0x11 }
+  - { offsetInCU: 0x5EE8, offset: 0x1E7F8F, size: 0x8, addend: 0x0, symName: '-[GLTFImage setMimeType:]', symObjAddr: 0x286D, symBinAddr: 0x3047D, symSize: 0x14 }
+  - { offsetInCU: 0x5F28, offset: 0x1E7FCF, size: 0x8, addend: 0x0, symName: '-[GLTFImage assetDirectoryURL]', symObjAddr: 0x2881, symBinAddr: 0x30491, symSize: 0x11 }
+  - { offsetInCU: 0x5F5E, offset: 0x1E8005, size: 0x8, addend: 0x0, symName: '-[GLTFImage setAssetDirectoryURL:]', symObjAddr: 0x2892, symBinAddr: 0x304A2, symSize: 0x14 }
+  - { offsetInCU: 0x5F9E, offset: 0x1E8045, size: 0x8, addend: 0x0, symName: '-[GLTFImage cachedImage]', symObjAddr: 0x28A6, symBinAddr: 0x304B6, symSize: 0x11 }
+  - { offsetInCU: 0x5FD4, offset: 0x1E807B, size: 0x8, addend: 0x0, symName: '-[GLTFImage setCachedImage:]', symObjAddr: 0x28B7, symBinAddr: 0x304C7, symSize: 0x11 }
+  - { offsetInCU: 0x6012, offset: 0x1E80B9, size: 0x8, addend: 0x0, symName: '-[GLTFImage cachedTexture]', symObjAddr: 0x28C8, symBinAddr: 0x304D8, symSize: 0x11 }
+  - { offsetInCU: 0x6048, offset: 0x1E80EF, size: 0x8, addend: 0x0, symName: '-[GLTFImage setCachedTexture:]', symObjAddr: 0x28D9, symBinAddr: 0x304E9, symSize: 0x14 }
+  - { offsetInCU: 0x6088, offset: 0x1E812F, size: 0x8, addend: 0x0, symName: '-[GLTFImage .cxx_destruct]', symObjAddr: 0x28ED, symBinAddr: 0x304FD, symSize: 0x64 }
+  - { offsetInCU: 0x60BC, offset: 0x1E8163, size: 0x8, addend: 0x0, symName: '-[GLTFLight init]', symObjAddr: 0x2951, symBinAddr: 0x30561, symSize: 0x17 }
+  - { offsetInCU: 0x610C, offset: 0x1E81B3, size: 0x8, addend: 0x0, symName: '-[GLTFLight initWithType:]', symObjAddr: 0x2968, symBinAddr: 0x30578, symSize: 0x8E }
+  - { offsetInCU: 0x6155, offset: 0x1E81FC, size: 0x8, addend: 0x0, symName: '-[GLTFLight type]', symObjAddr: 0x29F6, symBinAddr: 0x30606, symSize: 0x11 }
+  - { offsetInCU: 0x618B, offset: 0x1E8232, size: 0x8, addend: 0x0, symName: '-[GLTFLight setType:]', symObjAddr: 0x2A07, symBinAddr: 0x30617, symSize: 0x11 }
+  - { offsetInCU: 0x61C9, offset: 0x1E8270, size: 0x8, addend: 0x0, symName: '-[GLTFLight color]', symObjAddr: 0x2A18, symBinAddr: 0x30628, symSize: 0x11 }
+  - { offsetInCU: 0x61FF, offset: 0x1E82A6, size: 0x8, addend: 0x0, symName: '-[GLTFLight setColor:]', symObjAddr: 0x2A29, symBinAddr: 0x30639, symSize: 0x11 }
+  - { offsetInCU: 0x623D, offset: 0x1E82E4, size: 0x8, addend: 0x0, symName: '-[GLTFLight intensity]', symObjAddr: 0x2A3A, symBinAddr: 0x3064A, symSize: 0x12 }
+  - { offsetInCU: 0x6273, offset: 0x1E831A, size: 0x8, addend: 0x0, symName: '-[GLTFLight setIntensity:]', symObjAddr: 0x2A4C, symBinAddr: 0x3065C, symSize: 0x12 }
+  - { offsetInCU: 0x62B1, offset: 0x1E8358, size: 0x8, addend: 0x0, symName: '-[GLTFLight range]', symObjAddr: 0x2A5E, symBinAddr: 0x3066E, symSize: 0x12 }
+  - { offsetInCU: 0x62E7, offset: 0x1E838E, size: 0x8, addend: 0x0, symName: '-[GLTFLight setRange:]', symObjAddr: 0x2A70, symBinAddr: 0x30680, symSize: 0x12 }
+  - { offsetInCU: 0x6325, offset: 0x1E83CC, size: 0x8, addend: 0x0, symName: '-[GLTFLight innerConeAngle]', symObjAddr: 0x2A82, symBinAddr: 0x30692, symSize: 0x12 }
+  - { offsetInCU: 0x635B, offset: 0x1E8402, size: 0x8, addend: 0x0, symName: '-[GLTFLight setInnerConeAngle:]', symObjAddr: 0x2A94, symBinAddr: 0x306A4, symSize: 0x12 }
+  - { offsetInCU: 0x6399, offset: 0x1E8440, size: 0x8, addend: 0x0, symName: '-[GLTFLight outerConeAngle]', symObjAddr: 0x2AA6, symBinAddr: 0x306B6, symSize: 0x12 }
+  - { offsetInCU: 0x63CF, offset: 0x1E8476, size: 0x8, addend: 0x0, symName: '-[GLTFLight setOuterConeAngle:]', symObjAddr: 0x2AB8, symBinAddr: 0x306C8, symSize: 0x12 }
+  - { offsetInCU: 0x640D, offset: 0x1E84B4, size: 0x8, addend: 0x0, symName: '-[GLTFPBRMetallicRoughnessParams init]', symObjAddr: 0x2ACA, symBinAddr: 0x306DA, symSize: 0x5F }
+  - { offsetInCU: 0x6445, offset: 0x1E84EC, size: 0x8, addend: 0x0, symName: '-[GLTFPBRMetallicRoughnessParams baseColorFactor]', symObjAddr: 0x2B29, symBinAddr: 0x30739, symSize: 0x11 }
+  - { offsetInCU: 0x647B, offset: 0x1E8522, size: 0x8, addend: 0x0, symName: '-[GLTFPBRMetallicRoughnessParams setBaseColorFactor:]', symObjAddr: 0x2B3A, symBinAddr: 0x3074A, symSize: 0x11 }
+  - { offsetInCU: 0x64B9, offset: 0x1E8560, size: 0x8, addend: 0x0, symName: '-[GLTFPBRMetallicRoughnessParams baseColorTexture]', symObjAddr: 0x2B4B, symBinAddr: 0x3075B, symSize: 0x11 }
+  - { offsetInCU: 0x64EF, offset: 0x1E8596, size: 0x8, addend: 0x0, symName: '-[GLTFPBRMetallicRoughnessParams setBaseColorTexture:]', symObjAddr: 0x2B5C, symBinAddr: 0x3076C, symSize: 0x14 }
+  - { offsetInCU: 0x652F, offset: 0x1E85D6, size: 0x8, addend: 0x0, symName: '-[GLTFPBRMetallicRoughnessParams metallicFactor]', symObjAddr: 0x2B70, symBinAddr: 0x30780, symSize: 0x12 }
+  - { offsetInCU: 0x6565, offset: 0x1E860C, size: 0x8, addend: 0x0, symName: '-[GLTFPBRMetallicRoughnessParams setMetallicFactor:]', symObjAddr: 0x2B82, symBinAddr: 0x30792, symSize: 0x12 }
+  - { offsetInCU: 0x65A3, offset: 0x1E864A, size: 0x8, addend: 0x0, symName: '-[GLTFPBRMetallicRoughnessParams roughnessFactor]', symObjAddr: 0x2B94, symBinAddr: 0x307A4, symSize: 0x12 }
+  - { offsetInCU: 0x65D9, offset: 0x1E8680, size: 0x8, addend: 0x0, symName: '-[GLTFPBRMetallicRoughnessParams setRoughnessFactor:]', symObjAddr: 0x2BA6, symBinAddr: 0x307B6, symSize: 0x12 }
+  - { offsetInCU: 0x6617, offset: 0x1E86BE, size: 0x8, addend: 0x0, symName: '-[GLTFPBRMetallicRoughnessParams metallicRoughnessTexture]', symObjAddr: 0x2BB8, symBinAddr: 0x307C8, symSize: 0x11 }
+  - { offsetInCU: 0x664D, offset: 0x1E86F4, size: 0x8, addend: 0x0, symName: '-[GLTFPBRMetallicRoughnessParams setMetallicRoughnessTexture:]', symObjAddr: 0x2BC9, symBinAddr: 0x307D9, symSize: 0x14 }
+  - { offsetInCU: 0x668D, offset: 0x1E8734, size: 0x8, addend: 0x0, symName: '-[GLTFPBRMetallicRoughnessParams .cxx_destruct]', symObjAddr: 0x2BDD, symBinAddr: 0x307ED, symSize: 0x31 }
+  - { offsetInCU: 0x66C1, offset: 0x1E8768, size: 0x8, addend: 0x0, symName: '-[GLTFPBRSpecularGlossinessParams init]', symObjAddr: 0x2C0E, symBinAddr: 0x3081E, symSize: 0x66 }
+  - { offsetInCU: 0x66F9, offset: 0x1E87A0, size: 0x8, addend: 0x0, symName: '-[GLTFPBRSpecularGlossinessParams diffuseFactor]', symObjAddr: 0x2C74, symBinAddr: 0x30884, symSize: 0x11 }
+  - { offsetInCU: 0x672F, offset: 0x1E87D6, size: 0x8, addend: 0x0, symName: '-[GLTFPBRSpecularGlossinessParams setDiffuseFactor:]', symObjAddr: 0x2C85, symBinAddr: 0x30895, symSize: 0x11 }
+  - { offsetInCU: 0x676D, offset: 0x1E8814, size: 0x8, addend: 0x0, symName: '-[GLTFPBRSpecularGlossinessParams diffuseTexture]', symObjAddr: 0x2C96, symBinAddr: 0x308A6, symSize: 0x11 }
+  - { offsetInCU: 0x67A3, offset: 0x1E884A, size: 0x8, addend: 0x0, symName: '-[GLTFPBRSpecularGlossinessParams setDiffuseTexture:]', symObjAddr: 0x2CA7, symBinAddr: 0x308B7, symSize: 0x14 }
+  - { offsetInCU: 0x67E3, offset: 0x1E888A, size: 0x8, addend: 0x0, symName: '-[GLTFPBRSpecularGlossinessParams specularFactor]', symObjAddr: 0x2CBB, symBinAddr: 0x308CB, symSize: 0x11 }
+  - { offsetInCU: 0x6819, offset: 0x1E88C0, size: 0x8, addend: 0x0, symName: '-[GLTFPBRSpecularGlossinessParams setSpecularFactor:]', symObjAddr: 0x2CCC, symBinAddr: 0x308DC, symSize: 0x11 }
+  - { offsetInCU: 0x6857, offset: 0x1E88FE, size: 0x8, addend: 0x0, symName: '-[GLTFPBRSpecularGlossinessParams glossinessFactor]', symObjAddr: 0x2CDD, symBinAddr: 0x308ED, symSize: 0x12 }
+  - { offsetInCU: 0x688D, offset: 0x1E8934, size: 0x8, addend: 0x0, symName: '-[GLTFPBRSpecularGlossinessParams setGlossinessFactor:]', symObjAddr: 0x2CEF, symBinAddr: 0x308FF, symSize: 0x12 }
+  - { offsetInCU: 0x68CB, offset: 0x1E8972, size: 0x8, addend: 0x0, symName: '-[GLTFPBRSpecularGlossinessParams specularGlossinessTexture]', symObjAddr: 0x2D01, symBinAddr: 0x30911, symSize: 0x11 }
+  - { offsetInCU: 0x6901, offset: 0x1E89A8, size: 0x8, addend: 0x0, symName: '-[GLTFPBRSpecularGlossinessParams setSpecularGlossinessTexture:]', symObjAddr: 0x2D12, symBinAddr: 0x30922, symSize: 0x14 }
+  - { offsetInCU: 0x6941, offset: 0x1E89E8, size: 0x8, addend: 0x0, symName: '-[GLTFPBRSpecularGlossinessParams .cxx_destruct]', symObjAddr: 0x2D26, symBinAddr: 0x30936, symSize: 0x31 }
+  - { offsetInCU: 0x6975, offset: 0x1E8A1C, size: 0x8, addend: 0x0, symName: '-[GLTFSpecularParams init]', symObjAddr: 0x2D57, symBinAddr: 0x30967, symSize: 0x54 }
+  - { offsetInCU: 0x69AD, offset: 0x1E8A54, size: 0x8, addend: 0x0, symName: '-[GLTFSpecularParams specularFactor]', symObjAddr: 0x2DAB, symBinAddr: 0x309BB, symSize: 0x12 }
+  - { offsetInCU: 0x69E3, offset: 0x1E8A8A, size: 0x8, addend: 0x0, symName: '-[GLTFSpecularParams setSpecularFactor:]', symObjAddr: 0x2DBD, symBinAddr: 0x309CD, symSize: 0x12 }
+  - { offsetInCU: 0x6A21, offset: 0x1E8AC8, size: 0x8, addend: 0x0, symName: '-[GLTFSpecularParams specularTexture]', symObjAddr: 0x2DCF, symBinAddr: 0x309DF, symSize: 0x11 }
+  - { offsetInCU: 0x6A57, offset: 0x1E8AFE, size: 0x8, addend: 0x0, symName: '-[GLTFSpecularParams setSpecularTexture:]', symObjAddr: 0x2DE0, symBinAddr: 0x309F0, symSize: 0x14 }
+  - { offsetInCU: 0x6A97, offset: 0x1E8B3E, size: 0x8, addend: 0x0, symName: '-[GLTFSpecularParams specularColorFactor]', symObjAddr: 0x2DF4, symBinAddr: 0x30A04, symSize: 0x11 }
+  - { offsetInCU: 0x6ACD, offset: 0x1E8B74, size: 0x8, addend: 0x0, symName: '-[GLTFSpecularParams setSpecularColorFactor:]', symObjAddr: 0x2E05, symBinAddr: 0x30A15, symSize: 0x11 }
+  - { offsetInCU: 0x6B0B, offset: 0x1E8BB2, size: 0x8, addend: 0x0, symName: '-[GLTFSpecularParams specularColorTexture]', symObjAddr: 0x2E16, symBinAddr: 0x30A26, symSize: 0x11 }
+  - { offsetInCU: 0x6B41, offset: 0x1E8BE8, size: 0x8, addend: 0x0, symName: '-[GLTFSpecularParams setSpecularColorTexture:]', symObjAddr: 0x2E27, symBinAddr: 0x30A37, symSize: 0x14 }
+  - { offsetInCU: 0x6B81, offset: 0x1E8C28, size: 0x8, addend: 0x0, symName: '-[GLTFSpecularParams .cxx_destruct]', symObjAddr: 0x2E3B, symBinAddr: 0x30A4B, symSize: 0x31 }
+  - { offsetInCU: 0x6BB5, offset: 0x1E8C5C, size: 0x8, addend: 0x0, symName: '-[GLTFEmissiveParams init]', symObjAddr: 0x2E6C, symBinAddr: 0x30A7C, symSize: 0x50 }
+  - { offsetInCU: 0x6BED, offset: 0x1E8C94, size: 0x8, addend: 0x0, symName: '-[GLTFEmissiveParams emissiveTexture]', symObjAddr: 0x2EBC, symBinAddr: 0x30ACC, symSize: 0x11 }
+  - { offsetInCU: 0x6C23, offset: 0x1E8CCA, size: 0x8, addend: 0x0, symName: '-[GLTFEmissiveParams setEmissiveTexture:]', symObjAddr: 0x2ECD, symBinAddr: 0x30ADD, symSize: 0x14 }
+  - { offsetInCU: 0x6C63, offset: 0x1E8D0A, size: 0x8, addend: 0x0, symName: '-[GLTFEmissiveParams emissiveFactor]', symObjAddr: 0x2EE1, symBinAddr: 0x30AF1, symSize: 0x11 }
+  - { offsetInCU: 0x6C99, offset: 0x1E8D40, size: 0x8, addend: 0x0, symName: '-[GLTFEmissiveParams setEmissiveFactor:]', symObjAddr: 0x2EF2, symBinAddr: 0x30B02, symSize: 0x11 }
+  - { offsetInCU: 0x6CD7, offset: 0x1E8D7E, size: 0x8, addend: 0x0, symName: '-[GLTFEmissiveParams emissiveStrength]', symObjAddr: 0x2F03, symBinAddr: 0x30B13, symSize: 0x12 }
+  - { offsetInCU: 0x6D0D, offset: 0x1E8DB4, size: 0x8, addend: 0x0, symName: '-[GLTFEmissiveParams setEmissiveStrength:]', symObjAddr: 0x2F15, symBinAddr: 0x30B25, symSize: 0x12 }
+  - { offsetInCU: 0x6D4B, offset: 0x1E8DF2, size: 0x8, addend: 0x0, symName: '-[GLTFEmissiveParams .cxx_destruct]', symObjAddr: 0x2F27, symBinAddr: 0x30B37, symSize: 0x13 }
+  - { offsetInCU: 0x6D7F, offset: 0x1E8E26, size: 0x8, addend: 0x0, symName: '-[GLTFTransmissionParams transmissionTexture]', symObjAddr: 0x2F3A, symBinAddr: 0x30B4A, symSize: 0x11 }
+  - { offsetInCU: 0x6DB5, offset: 0x1E8E5C, size: 0x8, addend: 0x0, symName: '-[GLTFTransmissionParams setTransmissionTexture:]', symObjAddr: 0x2F4B, symBinAddr: 0x30B5B, symSize: 0x14 }
+  - { offsetInCU: 0x6DF5, offset: 0x1E8E9C, size: 0x8, addend: 0x0, symName: '-[GLTFTransmissionParams transmissionFactor]', symObjAddr: 0x2F5F, symBinAddr: 0x30B6F, symSize: 0x12 }
+  - { offsetInCU: 0x6E2B, offset: 0x1E8ED2, size: 0x8, addend: 0x0, symName: '-[GLTFTransmissionParams setTransmissionFactor:]', symObjAddr: 0x2F71, symBinAddr: 0x30B81, symSize: 0x12 }
+  - { offsetInCU: 0x6E69, offset: 0x1E8F10, size: 0x8, addend: 0x0, symName: '-[GLTFTransmissionParams .cxx_destruct]', symObjAddr: 0x2F83, symBinAddr: 0x30B93, symSize: 0x13 }
+  - { offsetInCU: 0x6E9D, offset: 0x1E8F44, size: 0x8, addend: 0x0, symName: '-[GLTFVolumeParams init]', symObjAddr: 0x2F96, symBinAddr: 0x30BA6, symSize: 0x62 }
+  - { offsetInCU: 0x6ED5, offset: 0x1E8F7C, size: 0x8, addend: 0x0, symName: '-[GLTFVolumeParams thicknessTexture]', symObjAddr: 0x2FF8, symBinAddr: 0x30C08, symSize: 0x11 }
+  - { offsetInCU: 0x6F0B, offset: 0x1E8FB2, size: 0x8, addend: 0x0, symName: '-[GLTFVolumeParams setThicknessTexture:]', symObjAddr: 0x3009, symBinAddr: 0x30C19, symSize: 0x14 }
+  - { offsetInCU: 0x6F4B, offset: 0x1E8FF2, size: 0x8, addend: 0x0, symName: '-[GLTFVolumeParams thicknessFactor]', symObjAddr: 0x301D, symBinAddr: 0x30C2D, symSize: 0x12 }
+  - { offsetInCU: 0x6F81, offset: 0x1E9028, size: 0x8, addend: 0x0, symName: '-[GLTFVolumeParams setThicknessFactor:]', symObjAddr: 0x302F, symBinAddr: 0x30C3F, symSize: 0x12 }
+  - { offsetInCU: 0x6FBF, offset: 0x1E9066, size: 0x8, addend: 0x0, symName: '-[GLTFVolumeParams attenuationDistance]', symObjAddr: 0x3041, symBinAddr: 0x30C51, symSize: 0x12 }
+  - { offsetInCU: 0x6FF5, offset: 0x1E909C, size: 0x8, addend: 0x0, symName: '-[GLTFVolumeParams setAttenuationDistance:]', symObjAddr: 0x3053, symBinAddr: 0x30C63, symSize: 0x12 }
+  - { offsetInCU: 0x7033, offset: 0x1E90DA, size: 0x8, addend: 0x0, symName: '-[GLTFVolumeParams attenuationColor]', symObjAddr: 0x3065, symBinAddr: 0x30C75, symSize: 0x11 }
+  - { offsetInCU: 0x7069, offset: 0x1E9110, size: 0x8, addend: 0x0, symName: '-[GLTFVolumeParams setAttenuationColor:]', symObjAddr: 0x3076, symBinAddr: 0x30C86, symSize: 0x11 }
+  - { offsetInCU: 0x70A7, offset: 0x1E914E, size: 0x8, addend: 0x0, symName: '-[GLTFVolumeParams .cxx_destruct]', symObjAddr: 0x3087, symBinAddr: 0x30C97, symSize: 0x13 }
+  - { offsetInCU: 0x70DB, offset: 0x1E9182, size: 0x8, addend: 0x0, symName: '-[GLTFClearcoatParams clearcoatTexture]', symObjAddr: 0x309A, symBinAddr: 0x30CAA, symSize: 0x11 }
+  - { offsetInCU: 0x7111, offset: 0x1E91B8, size: 0x8, addend: 0x0, symName: '-[GLTFClearcoatParams setClearcoatTexture:]', symObjAddr: 0x30AB, symBinAddr: 0x30CBB, symSize: 0x14 }
+  - { offsetInCU: 0x7151, offset: 0x1E91F8, size: 0x8, addend: 0x0, symName: '-[GLTFClearcoatParams clearcoatRoughnessTexture]', symObjAddr: 0x30BF, symBinAddr: 0x30CCF, symSize: 0x11 }
+  - { offsetInCU: 0x7187, offset: 0x1E922E, size: 0x8, addend: 0x0, symName: '-[GLTFClearcoatParams setClearcoatRoughnessTexture:]', symObjAddr: 0x30D0, symBinAddr: 0x30CE0, symSize: 0x14 }
+  - { offsetInCU: 0x71C7, offset: 0x1E926E, size: 0x8, addend: 0x0, symName: '-[GLTFClearcoatParams clearcoatNormalTexture]', symObjAddr: 0x30E4, symBinAddr: 0x30CF4, symSize: 0x11 }
+  - { offsetInCU: 0x71FD, offset: 0x1E92A4, size: 0x8, addend: 0x0, symName: '-[GLTFClearcoatParams setClearcoatNormalTexture:]', symObjAddr: 0x30F5, symBinAddr: 0x30D05, symSize: 0x14 }
+  - { offsetInCU: 0x723D, offset: 0x1E92E4, size: 0x8, addend: 0x0, symName: '-[GLTFClearcoatParams clearcoatFactor]', symObjAddr: 0x3109, symBinAddr: 0x30D19, symSize: 0x12 }
+  - { offsetInCU: 0x7273, offset: 0x1E931A, size: 0x8, addend: 0x0, symName: '-[GLTFClearcoatParams setClearcoatFactor:]', symObjAddr: 0x311B, symBinAddr: 0x30D2B, symSize: 0x12 }
+  - { offsetInCU: 0x72B1, offset: 0x1E9358, size: 0x8, addend: 0x0, symName: '-[GLTFClearcoatParams clearcoatRoughnessFactor]', symObjAddr: 0x312D, symBinAddr: 0x30D3D, symSize: 0x12 }
+  - { offsetInCU: 0x72E7, offset: 0x1E938E, size: 0x8, addend: 0x0, symName: '-[GLTFClearcoatParams setClearcoatRoughnessFactor:]', symObjAddr: 0x313F, symBinAddr: 0x30D4F, symSize: 0x12 }
+  - { offsetInCU: 0x7325, offset: 0x1E93CC, size: 0x8, addend: 0x0, symName: '-[GLTFClearcoatParams .cxx_destruct]', symObjAddr: 0x3151, symBinAddr: 0x30D61, symSize: 0x42 }
+  - { offsetInCU: 0x7359, offset: 0x1E9400, size: 0x8, addend: 0x0, symName: '-[GLTFSheenParams init]', symObjAddr: 0x3193, symBinAddr: 0x30DA3, symSize: 0x50 }
+  - { offsetInCU: 0x7391, offset: 0x1E9438, size: 0x8, addend: 0x0, symName: '-[GLTFSheenParams sheenColorFactor]', symObjAddr: 0x31E3, symBinAddr: 0x30DF3, symSize: 0x11 }
+  - { offsetInCU: 0x73C7, offset: 0x1E946E, size: 0x8, addend: 0x0, symName: '-[GLTFSheenParams setSheenColorFactor:]', symObjAddr: 0x31F4, symBinAddr: 0x30E04, symSize: 0x11 }
+  - { offsetInCU: 0x7405, offset: 0x1E94AC, size: 0x8, addend: 0x0, symName: '-[GLTFSheenParams sheenColorTexture]', symObjAddr: 0x3205, symBinAddr: 0x30E15, symSize: 0x11 }
+  - { offsetInCU: 0x743B, offset: 0x1E94E2, size: 0x8, addend: 0x0, symName: '-[GLTFSheenParams setSheenColorTexture:]', symObjAddr: 0x3216, symBinAddr: 0x30E26, symSize: 0x14 }
+  - { offsetInCU: 0x747B, offset: 0x1E9522, size: 0x8, addend: 0x0, symName: '-[GLTFSheenParams sheenRoughnessFactor]', symObjAddr: 0x322A, symBinAddr: 0x30E3A, symSize: 0x12 }
+  - { offsetInCU: 0x74B1, offset: 0x1E9558, size: 0x8, addend: 0x0, symName: '-[GLTFSheenParams setSheenRoughnessFactor:]', symObjAddr: 0x323C, symBinAddr: 0x30E4C, symSize: 0x12 }
+  - { offsetInCU: 0x74EF, offset: 0x1E9596, size: 0x8, addend: 0x0, symName: '-[GLTFSheenParams sheenRoughnessTexture]', symObjAddr: 0x324E, symBinAddr: 0x30E5E, symSize: 0x11 }
+  - { offsetInCU: 0x7525, offset: 0x1E95CC, size: 0x8, addend: 0x0, symName: '-[GLTFSheenParams setSheenRoughnessTexture:]', symObjAddr: 0x325F, symBinAddr: 0x30E6F, symSize: 0x14 }
+  - { offsetInCU: 0x7565, offset: 0x1E960C, size: 0x8, addend: 0x0, symName: '-[GLTFSheenParams .cxx_destruct]', symObjAddr: 0x3273, symBinAddr: 0x30E83, symSize: 0x31 }
+  - { offsetInCU: 0x7599, offset: 0x1E9640, size: 0x8, addend: 0x0, symName: '-[GLTFIridescence init]', symObjAddr: 0x32A4, symBinAddr: 0x30EB4, symSize: 0x3F }
+  - { offsetInCU: 0x75D1, offset: 0x1E9678, size: 0x8, addend: 0x0, symName: '-[GLTFIridescence iridescenceFactor]', symObjAddr: 0x32E3, symBinAddr: 0x30EF3, symSize: 0xB }
+  - { offsetInCU: 0x7607, offset: 0x1E96AE, size: 0x8, addend: 0x0, symName: '-[GLTFIridescence setIridescenceFactor:]', symObjAddr: 0x32EE, symBinAddr: 0x30EFE, symSize: 0xB }
+  - { offsetInCU: 0x7645, offset: 0x1E96EC, size: 0x8, addend: 0x0, symName: '-[GLTFIridescence iridescenceTexture]', symObjAddr: 0x32F9, symBinAddr: 0x30F09, symSize: 0xA }
+  - { offsetInCU: 0x767B, offset: 0x1E9722, size: 0x8, addend: 0x0, symName: '-[GLTFIridescence setIridescenceTexture:]', symObjAddr: 0x3303, symBinAddr: 0x30F13, symSize: 0x11 }
+  - { offsetInCU: 0x76BB, offset: 0x1E9762, size: 0x8, addend: 0x0, symName: '-[GLTFIridescence iridescenceIndexOfRefraction]', symObjAddr: 0x3314, symBinAddr: 0x30F24, symSize: 0xB }
+  - { offsetInCU: 0x76F1, offset: 0x1E9798, size: 0x8, addend: 0x0, symName: '-[GLTFIridescence setIridescenceIndexOfRefraction:]', symObjAddr: 0x331F, symBinAddr: 0x30F2F, symSize: 0xB }
+  - { offsetInCU: 0x772F, offset: 0x1E97D6, size: 0x8, addend: 0x0, symName: '-[GLTFIridescence iridescenceThicknessMinimum]', symObjAddr: 0x332A, symBinAddr: 0x30F3A, symSize: 0xB }
+  - { offsetInCU: 0x7765, offset: 0x1E980C, size: 0x8, addend: 0x0, symName: '-[GLTFIridescence setIridescenceThicknessMinimum:]', symObjAddr: 0x3335, symBinAddr: 0x30F45, symSize: 0xB }
+  - { offsetInCU: 0x77A3, offset: 0x1E984A, size: 0x8, addend: 0x0, symName: '-[GLTFIridescence iridescenceThicknessMaximum]', symObjAddr: 0x3340, symBinAddr: 0x30F50, symSize: 0xB }
+  - { offsetInCU: 0x77D9, offset: 0x1E9880, size: 0x8, addend: 0x0, symName: '-[GLTFIridescence setIridescenceThicknessMaximum:]', symObjAddr: 0x334B, symBinAddr: 0x30F5B, symSize: 0xB }
+  - { offsetInCU: 0x7817, offset: 0x1E98BE, size: 0x8, addend: 0x0, symName: '-[GLTFIridescence iridescenceThicknessTexture]', symObjAddr: 0x3356, symBinAddr: 0x30F66, symSize: 0xA }
+  - { offsetInCU: 0x784D, offset: 0x1E98F4, size: 0x8, addend: 0x0, symName: '-[GLTFIridescence setIridescenceThicknessTexture:]', symObjAddr: 0x3360, symBinAddr: 0x30F70, symSize: 0x11 }
+  - { offsetInCU: 0x788D, offset: 0x1E9934, size: 0x8, addend: 0x0, symName: '-[GLTFIridescence .cxx_destruct]', symObjAddr: 0x3371, symBinAddr: 0x30F81, symSize: 0x28 }
+  - { offsetInCU: 0x78C1, offset: 0x1E9968, size: 0x8, addend: 0x0, symName: '-[GLTFMaterial init]', symObjAddr: 0x3399, symBinAddr: 0x30FA9, symSize: 0x5C }
+  - { offsetInCU: 0x78F9, offset: 0x1E99A0, size: 0x8, addend: 0x0, symName: '-[GLTFMaterial metallicRoughness]', symObjAddr: 0x33F5, symBinAddr: 0x31005, symSize: 0x11 }
+  - { offsetInCU: 0x792F, offset: 0x1E99D6, size: 0x8, addend: 0x0, symName: '-[GLTFMaterial setMetallicRoughness:]', symObjAddr: 0x3406, symBinAddr: 0x31016, symSize: 0x14 }
+  - { offsetInCU: 0x796F, offset: 0x1E9A16, size: 0x8, addend: 0x0, symName: '-[GLTFMaterial specularGlossiness]', symObjAddr: 0x341A, symBinAddr: 0x3102A, symSize: 0x11 }
+  - { offsetInCU: 0x79A5, offset: 0x1E9A4C, size: 0x8, addend: 0x0, symName: '-[GLTFMaterial setSpecularGlossiness:]', symObjAddr: 0x342B, symBinAddr: 0x3103B, symSize: 0x14 }
+  - { offsetInCU: 0x79E5, offset: 0x1E9A8C, size: 0x8, addend: 0x0, symName: '-[GLTFMaterial specular]', symObjAddr: 0x343F, symBinAddr: 0x3104F, symSize: 0x11 }
+  - { offsetInCU: 0x7A1B, offset: 0x1E9AC2, size: 0x8, addend: 0x0, symName: '-[GLTFMaterial setSpecular:]', symObjAddr: 0x3450, symBinAddr: 0x31060, symSize: 0x14 }
+  - { offsetInCU: 0x7A5B, offset: 0x1E9B02, size: 0x8, addend: 0x0, symName: '-[GLTFMaterial emissive]', symObjAddr: 0x3464, symBinAddr: 0x31074, symSize: 0x11 }
+  - { offsetInCU: 0x7A91, offset: 0x1E9B38, size: 0x8, addend: 0x0, symName: '-[GLTFMaterial setEmissive:]', symObjAddr: 0x3475, symBinAddr: 0x31085, symSize: 0x14 }
+  - { offsetInCU: 0x7AD1, offset: 0x1E9B78, size: 0x8, addend: 0x0, symName: '-[GLTFMaterial transmission]', symObjAddr: 0x3489, symBinAddr: 0x31099, symSize: 0x11 }
+  - { offsetInCU: 0x7B07, offset: 0x1E9BAE, size: 0x8, addend: 0x0, symName: '-[GLTFMaterial setTransmission:]', symObjAddr: 0x349A, symBinAddr: 0x310AA, symSize: 0x14 }
+  - { offsetInCU: 0x7B47, offset: 0x1E9BEE, size: 0x8, addend: 0x0, symName: '-[GLTFMaterial volume]', symObjAddr: 0x34AE, symBinAddr: 0x310BE, symSize: 0x11 }
+  - { offsetInCU: 0x7B7D, offset: 0x1E9C24, size: 0x8, addend: 0x0, symName: '-[GLTFMaterial setVolume:]', symObjAddr: 0x34BF, symBinAddr: 0x310CF, symSize: 0x14 }
+  - { offsetInCU: 0x7BBD, offset: 0x1E9C64, size: 0x8, addend: 0x0, symName: '-[GLTFMaterial clearcoat]', symObjAddr: 0x34D3, symBinAddr: 0x310E3, symSize: 0x11 }
+  - { offsetInCU: 0x7BF3, offset: 0x1E9C9A, size: 0x8, addend: 0x0, symName: '-[GLTFMaterial setClearcoat:]', symObjAddr: 0x34E4, symBinAddr: 0x310F4, symSize: 0x14 }
+  - { offsetInCU: 0x7C33, offset: 0x1E9CDA, size: 0x8, addend: 0x0, symName: '-[GLTFMaterial sheen]', symObjAddr: 0x34F8, symBinAddr: 0x31108, symSize: 0x11 }
+  - { offsetInCU: 0x7C69, offset: 0x1E9D10, size: 0x8, addend: 0x0, symName: '-[GLTFMaterial setSheen:]', symObjAddr: 0x3509, symBinAddr: 0x31119, symSize: 0x14 }
+  - { offsetInCU: 0x7CA9, offset: 0x1E9D50, size: 0x8, addend: 0x0, symName: '-[GLTFMaterial iridescence]', symObjAddr: 0x351D, symBinAddr: 0x3112D, symSize: 0x11 }
+  - { offsetInCU: 0x7CDF, offset: 0x1E9D86, size: 0x8, addend: 0x0, symName: '-[GLTFMaterial setIridescence:]', symObjAddr: 0x352E, symBinAddr: 0x3113E, symSize: 0x14 }
+  - { offsetInCU: 0x7D1F, offset: 0x1E9DC6, size: 0x8, addend: 0x0, symName: '-[GLTFMaterial normalTexture]', symObjAddr: 0x3542, symBinAddr: 0x31152, symSize: 0x11 }
+  - { offsetInCU: 0x7D55, offset: 0x1E9DFC, size: 0x8, addend: 0x0, symName: '-[GLTFMaterial setNormalTexture:]', symObjAddr: 0x3553, symBinAddr: 0x31163, symSize: 0x14 }
+  - { offsetInCU: 0x7D95, offset: 0x1E9E3C, size: 0x8, addend: 0x0, symName: '-[GLTFMaterial occlusionTexture]', symObjAddr: 0x3567, symBinAddr: 0x31177, symSize: 0x11 }
+  - { offsetInCU: 0x7DCB, offset: 0x1E9E72, size: 0x8, addend: 0x0, symName: '-[GLTFMaterial setOcclusionTexture:]', symObjAddr: 0x3578, symBinAddr: 0x31188, symSize: 0x14 }
+  - { offsetInCU: 0x7E0B, offset: 0x1E9EB2, size: 0x8, addend: 0x0, symName: '-[GLTFMaterial indexOfRefraction]', symObjAddr: 0x358C, symBinAddr: 0x3119C, symSize: 0x11 }
+  - { offsetInCU: 0x7E41, offset: 0x1E9EE8, size: 0x8, addend: 0x0, symName: '-[GLTFMaterial setIndexOfRefraction:]', symObjAddr: 0x359D, symBinAddr: 0x311AD, symSize: 0x14 }
+  - { offsetInCU: 0x7E81, offset: 0x1E9F28, size: 0x8, addend: 0x0, symName: '-[GLTFMaterial alphaMode]', symObjAddr: 0x35B1, symBinAddr: 0x311C1, symSize: 0x11 }
+  - { offsetInCU: 0x7EB7, offset: 0x1E9F5E, size: 0x8, addend: 0x0, symName: '-[GLTFMaterial setAlphaMode:]', symObjAddr: 0x35C2, symBinAddr: 0x311D2, symSize: 0x11 }
+  - { offsetInCU: 0x7EF5, offset: 0x1E9F9C, size: 0x8, addend: 0x0, symName: '-[GLTFMaterial alphaCutoff]', symObjAddr: 0x35D3, symBinAddr: 0x311E3, symSize: 0x12 }
+  - { offsetInCU: 0x7F2B, offset: 0x1E9FD2, size: 0x8, addend: 0x0, symName: '-[GLTFMaterial setAlphaCutoff:]', symObjAddr: 0x35E5, symBinAddr: 0x311F5, symSize: 0x12 }
+  - { offsetInCU: 0x7F69, offset: 0x1EA010, size: 0x8, addend: 0x0, symName: '-[GLTFMaterial isDoubleSided]', symObjAddr: 0x35F7, symBinAddr: 0x31207, symSize: 0x11 }
+  - { offsetInCU: 0x7F9F, offset: 0x1EA046, size: 0x8, addend: 0x0, symName: '-[GLTFMaterial setDoubleSided:]', symObjAddr: 0x3608, symBinAddr: 0x31218, symSize: 0x10 }
+  - { offsetInCU: 0x7FDD, offset: 0x1EA084, size: 0x8, addend: 0x0, symName: '-[GLTFMaterial isUnlit]', symObjAddr: 0x3618, symBinAddr: 0x31228, symSize: 0x11 }
+  - { offsetInCU: 0x8013, offset: 0x1EA0BA, size: 0x8, addend: 0x0, symName: '-[GLTFMaterial setUnlit:]', symObjAddr: 0x3629, symBinAddr: 0x31239, symSize: 0x10 }
+  - { offsetInCU: 0x8051, offset: 0x1EA0F8, size: 0x8, addend: 0x0, symName: '-[GLTFMaterial .cxx_destruct]', symObjAddr: 0x3639, symBinAddr: 0x31249, symSize: 0xDB }
+  - { offsetInCU: 0x8085, offset: 0x1EA12C, size: 0x8, addend: 0x0, symName: '-[GLTFMesh init]', symObjAddr: 0x3714, symBinAddr: 0x31324, symSize: 0x1C }
+  - { offsetInCU: 0x80D2, offset: 0x1EA179, size: 0x8, addend: 0x0, symName: '-[GLTFMesh initWithPrimitives:]', symObjAddr: 0x3730, symBinAddr: 0x31340, symSize: 0x7A }
+  - { offsetInCU: 0x8164, offset: 0x1EA20B, size: 0x8, addend: 0x0, symName: '-[GLTFMesh primitives]', symObjAddr: 0x37AA, symBinAddr: 0x313BA, symSize: 0x11 }
+  - { offsetInCU: 0x819A, offset: 0x1EA241, size: 0x8, addend: 0x0, symName: '-[GLTFMesh setPrimitives:]', symObjAddr: 0x37BB, symBinAddr: 0x313CB, symSize: 0x11 }
+  - { offsetInCU: 0x81DA, offset: 0x1EA281, size: 0x8, addend: 0x0, symName: '-[GLTFMesh weights]', symObjAddr: 0x37CC, symBinAddr: 0x313DC, symSize: 0x11 }
+  - { offsetInCU: 0x8210, offset: 0x1EA2B7, size: 0x8, addend: 0x0, symName: '-[GLTFMesh setWeights:]', symObjAddr: 0x37DD, symBinAddr: 0x313ED, symSize: 0x11 }
+  - { offsetInCU: 0x8250, offset: 0x1EA2F7, size: 0x8, addend: 0x0, symName: '-[GLTFMesh targetNames]', symObjAddr: 0x37EE, symBinAddr: 0x313FE, symSize: 0x11 }
+  - { offsetInCU: 0x8286, offset: 0x1EA32D, size: 0x8, addend: 0x0, symName: '-[GLTFMesh setTargetNames:]', symObjAddr: 0x37FF, symBinAddr: 0x3140F, symSize: 0x11 }
+  - { offsetInCU: 0x82C6, offset: 0x1EA36D, size: 0x8, addend: 0x0, symName: '-[GLTFMesh .cxx_destruct]', symObjAddr: 0x3810, symBinAddr: 0x31420, symSize: 0x42 }
+  - { offsetInCU: 0x82FA, offset: 0x1EA3A1, size: 0x8, addend: 0x0, symName: '-[GLTFAttribute initWithName:accessor:]', symObjAddr: 0x3852, symBinAddr: 0x31462, symSize: 0xAA }
+  - { offsetInCU: 0x83A5, offset: 0x1EA44C, size: 0x8, addend: 0x0, symName: '-[GLTFAttribute accessor]', symObjAddr: 0x38FC, symBinAddr: 0x3150C, symSize: 0x11 }
+  - { offsetInCU: 0x83DB, offset: 0x1EA482, size: 0x8, addend: 0x0, symName: '-[GLTFAttribute setAccessor:]', symObjAddr: 0x390D, symBinAddr: 0x3151D, symSize: 0x14 }
+  - { offsetInCU: 0x841B, offset: 0x1EA4C2, size: 0x8, addend: 0x0, symName: '-[GLTFAttribute .cxx_destruct]', symObjAddr: 0x3921, symBinAddr: 0x31531, symSize: 0x13 }
+  - { offsetInCU: 0x844F, offset: 0x1EA4F6, size: 0x8, addend: 0x0, symName: '-[GLTFPrimitive initWithPrimitiveType:attributes:]', symObjAddr: 0x3934, symBinAddr: 0x31544, symSize: 0x15 }
+  - { offsetInCU: 0x84CD, offset: 0x1EA574, size: 0x8, addend: 0x0, symName: '-[GLTFPrimitive initWithPrimitiveType:attributes:indices:]', symObjAddr: 0x3949, symBinAddr: 0x31559, symSize: 0xC0 }
+  - { offsetInCU: 0x85A9, offset: 0x1EA650, size: 0x8, addend: 0x0, symName: '-[GLTFPrimitive attributeForName:]', symObjAddr: 0x3A09, symBinAddr: 0x31619, symSize: 0x1D3 }
+  - { offsetInCU: 0x86D1, offset: 0x1EA778, size: 0x8, addend: 0x0, symName: '-[GLTFPrimitive effectiveMaterialForVariant:]', symObjAddr: 0x3BDC, symBinAddr: 0x317EC, symSize: 0x2D3 }
+  - { offsetInCU: 0x88A3, offset: 0x1EA94A, size: 0x8, addend: 0x0, symName: '-[GLTFPrimitive attributes]', symObjAddr: 0x3EAF, symBinAddr: 0x31ABF, symSize: 0x11 }
+  - { offsetInCU: 0x88D9, offset: 0x1EA980, size: 0x8, addend: 0x0, symName: '-[GLTFPrimitive setAttributes:]', symObjAddr: 0x3EC0, symBinAddr: 0x31AD0, symSize: 0x11 }
+  - { offsetInCU: 0x8919, offset: 0x1EA9C0, size: 0x8, addend: 0x0, symName: '-[GLTFPrimitive indices]', symObjAddr: 0x3ED1, symBinAddr: 0x31AE1, symSize: 0x11 }
+  - { offsetInCU: 0x894F, offset: 0x1EA9F6, size: 0x8, addend: 0x0, symName: '-[GLTFPrimitive setIndices:]', symObjAddr: 0x3EE2, symBinAddr: 0x31AF2, symSize: 0x14 }
+  - { offsetInCU: 0x898F, offset: 0x1EAA36, size: 0x8, addend: 0x0, symName: '-[GLTFPrimitive material]', symObjAddr: 0x3EF6, symBinAddr: 0x31B06, symSize: 0x11 }
+  - { offsetInCU: 0x89C5, offset: 0x1EAA6C, size: 0x8, addend: 0x0, symName: '-[GLTFPrimitive setMaterial:]', symObjAddr: 0x3F07, symBinAddr: 0x31B17, symSize: 0x14 }
+  - { offsetInCU: 0x8A05, offset: 0x1EAAAC, size: 0x8, addend: 0x0, symName: '-[GLTFPrimitive primitiveType]', symObjAddr: 0x3F1B, symBinAddr: 0x31B2B, symSize: 0x11 }
+  - { offsetInCU: 0x8A3B, offset: 0x1EAAE2, size: 0x8, addend: 0x0, symName: '-[GLTFPrimitive setPrimitiveType:]', symObjAddr: 0x3F2C, symBinAddr: 0x31B3C, symSize: 0x11 }
+  - { offsetInCU: 0x8A79, offset: 0x1EAB20, size: 0x8, addend: 0x0, symName: '-[GLTFPrimitive targets]', symObjAddr: 0x3F3D, symBinAddr: 0x31B4D, symSize: 0x11 }
+  - { offsetInCU: 0x8AAF, offset: 0x1EAB56, size: 0x8, addend: 0x0, symName: '-[GLTFPrimitive setTargets:]', symObjAddr: 0x3F4E, symBinAddr: 0x31B5E, symSize: 0x11 }
+  - { offsetInCU: 0x8AEF, offset: 0x1EAB96, size: 0x8, addend: 0x0, symName: '-[GLTFPrimitive materialMappings]', symObjAddr: 0x3F5F, symBinAddr: 0x31B6F, symSize: 0x11 }
+  - { offsetInCU: 0x8B25, offset: 0x1EABCC, size: 0x8, addend: 0x0, symName: '-[GLTFPrimitive setMaterialMappings:]', symObjAddr: 0x3F70, symBinAddr: 0x31B80, symSize: 0x11 }
+  - { offsetInCU: 0x8B65, offset: 0x1EAC0C, size: 0x8, addend: 0x0, symName: '-[GLTFPrimitive cachedMapping]', symObjAddr: 0x3F81, symBinAddr: 0x31B91, symSize: 0x19 }
+  - { offsetInCU: 0x8B9D, offset: 0x1EAC44, size: 0x8, addend: 0x0, symName: '-[GLTFPrimitive setCachedMapping:]', symObjAddr: 0x3F9A, symBinAddr: 0x31BAA, symSize: 0x14 }
+  - { offsetInCU: 0x8BDD, offset: 0x1EAC84, size: 0x8, addend: 0x0, symName: '-[GLTFPrimitive .cxx_destruct]', symObjAddr: 0x3FAE, symBinAddr: 0x31BBE, symSize: 0x73 }
+  - { offsetInCU: 0x8C11, offset: 0x1EACB8, size: 0x8, addend: 0x0, symName: '-[GLTFNode init]', symObjAddr: 0x4021, symBinAddr: 0x31C31, symSize: 0xB7 }
+  - { offsetInCU: 0x8C49, offset: 0x1EACF0, size: 0x8, addend: 0x0, symName: '-[GLTFNode setChildNodes:]', symObjAddr: 0x40D8, symBinAddr: 0x31CE8, symSize: 0x15C }
+  - { offsetInCU: 0x8D2C, offset: 0x1EADD3, size: 0x8, addend: 0x0, symName: '-[GLTFNode childNodes]', symObjAddr: 0x4234, symBinAddr: 0x31E44, symSize: 0x11 }
+  - { offsetInCU: 0x8D62, offset: 0x1EAE09, size: 0x8, addend: 0x0, symName: '-[GLTFNode camera]', symObjAddr: 0x4245, symBinAddr: 0x31E55, symSize: 0x11 }
+  - { offsetInCU: 0x8D98, offset: 0x1EAE3F, size: 0x8, addend: 0x0, symName: '-[GLTFNode setCamera:]', symObjAddr: 0x4256, symBinAddr: 0x31E66, symSize: 0x14 }
+  - { offsetInCU: 0x8DD8, offset: 0x1EAE7F, size: 0x8, addend: 0x0, symName: '-[GLTFNode light]', symObjAddr: 0x426A, symBinAddr: 0x31E7A, symSize: 0x11 }
+  - { offsetInCU: 0x8E0E, offset: 0x1EAEB5, size: 0x8, addend: 0x0, symName: '-[GLTFNode setLight:]', symObjAddr: 0x427B, symBinAddr: 0x31E8B, symSize: 0x14 }
+  - { offsetInCU: 0x8E4E, offset: 0x1EAEF5, size: 0x8, addend: 0x0, symName: '-[GLTFNode parentNode]', symObjAddr: 0x428F, symBinAddr: 0x31E9F, symSize: 0x19 }
+  - { offsetInCU: 0x8E86, offset: 0x1EAF2D, size: 0x8, addend: 0x0, symName: '-[GLTFNode setParentNode:]', symObjAddr: 0x42A8, symBinAddr: 0x31EB8, symSize: 0x14 }
+  - { offsetInCU: 0x8EC6, offset: 0x1EAF6D, size: 0x8, addend: 0x0, symName: '-[GLTFNode skin]', symObjAddr: 0x42BC, symBinAddr: 0x31ECC, symSize: 0x11 }
+  - { offsetInCU: 0x8EFC, offset: 0x1EAFA3, size: 0x8, addend: 0x0, symName: '-[GLTFNode setSkin:]', symObjAddr: 0x42CD, symBinAddr: 0x31EDD, symSize: 0x14 }
+  - { offsetInCU: 0x8F3C, offset: 0x1EAFE3, size: 0x8, addend: 0x0, symName: '-[GLTFNode matrix]', symObjAddr: 0x42E1, symBinAddr: 0x31EF1, symSize: 0x32 }
+  - { offsetInCU: 0x8F72, offset: 0x1EB019, size: 0x8, addend: 0x0, symName: '-[GLTFNode setMatrix:]', symObjAddr: 0x4313, symBinAddr: 0x31F23, symSize: 0x30 }
+  - { offsetInCU: 0x8FB1, offset: 0x1EB058, size: 0x8, addend: 0x0, symName: '-[GLTFNode mesh]', symObjAddr: 0x4343, symBinAddr: 0x31F53, symSize: 0x11 }
+  - { offsetInCU: 0x8FE7, offset: 0x1EB08E, size: 0x8, addend: 0x0, symName: '-[GLTFNode setMesh:]', symObjAddr: 0x4354, symBinAddr: 0x31F64, symSize: 0x14 }
+  - { offsetInCU: 0x9027, offset: 0x1EB0CE, size: 0x8, addend: 0x0, symName: '-[GLTFNode rotation]', symObjAddr: 0x4368, symBinAddr: 0x31F78, symSize: 0x11 }
+  - { offsetInCU: 0x905D, offset: 0x1EB104, size: 0x8, addend: 0x0, symName: '-[GLTFNode setRotation:]', symObjAddr: 0x4379, symBinAddr: 0x31F89, symSize: 0x11 }
+  - { offsetInCU: 0x909B, offset: 0x1EB142, size: 0x8, addend: 0x0, symName: '-[GLTFNode scale]', symObjAddr: 0x438A, symBinAddr: 0x31F9A, symSize: 0x11 }
+  - { offsetInCU: 0x90D1, offset: 0x1EB178, size: 0x8, addend: 0x0, symName: '-[GLTFNode setScale:]', symObjAddr: 0x439B, symBinAddr: 0x31FAB, symSize: 0x11 }
+  - { offsetInCU: 0x910F, offset: 0x1EB1B6, size: 0x8, addend: 0x0, symName: '-[GLTFNode translation]', symObjAddr: 0x43AC, symBinAddr: 0x31FBC, symSize: 0x11 }
+  - { offsetInCU: 0x9145, offset: 0x1EB1EC, size: 0x8, addend: 0x0, symName: '-[GLTFNode setTranslation:]', symObjAddr: 0x43BD, symBinAddr: 0x31FCD, symSize: 0x11 }
+  - { offsetInCU: 0x9183, offset: 0x1EB22A, size: 0x8, addend: 0x0, symName: '-[GLTFNode weights]', symObjAddr: 0x43CE, symBinAddr: 0x31FDE, symSize: 0x11 }
+  - { offsetInCU: 0x91B9, offset: 0x1EB260, size: 0x8, addend: 0x0, symName: '-[GLTFNode setWeights:]', symObjAddr: 0x43DF, symBinAddr: 0x31FEF, symSize: 0x11 }
+  - { offsetInCU: 0x91F9, offset: 0x1EB2A0, size: 0x8, addend: 0x0, symName: '-[GLTFNode .cxx_destruct]', symObjAddr: 0x43F0, symBinAddr: 0x32000, symSize: 0x84 }
+  - { offsetInCU: 0x922D, offset: 0x1EB2D4, size: 0x8, addend: 0x0, symName: '-[GLTFTextureSampler init]', symObjAddr: 0x4474, symBinAddr: 0x32084, symSize: 0x6D }
+  - { offsetInCU: 0x9265, offset: 0x1EB30C, size: 0x8, addend: 0x0, symName: '-[GLTFTextureSampler magFilter]', symObjAddr: 0x44E1, symBinAddr: 0x320F1, symSize: 0x11 }
+  - { offsetInCU: 0x929B, offset: 0x1EB342, size: 0x8, addend: 0x0, symName: '-[GLTFTextureSampler setMagFilter:]', symObjAddr: 0x44F2, symBinAddr: 0x32102, symSize: 0x11 }
+  - { offsetInCU: 0x92D9, offset: 0x1EB380, size: 0x8, addend: 0x0, symName: '-[GLTFTextureSampler minMipFilter]', symObjAddr: 0x4503, symBinAddr: 0x32113, symSize: 0x11 }
+  - { offsetInCU: 0x930F, offset: 0x1EB3B6, size: 0x8, addend: 0x0, symName: '-[GLTFTextureSampler setMinMipFilter:]', symObjAddr: 0x4514, symBinAddr: 0x32124, symSize: 0x11 }
+  - { offsetInCU: 0x934D, offset: 0x1EB3F4, size: 0x8, addend: 0x0, symName: '-[GLTFTextureSampler wrapS]', symObjAddr: 0x4525, symBinAddr: 0x32135, symSize: 0x11 }
+  - { offsetInCU: 0x9383, offset: 0x1EB42A, size: 0x8, addend: 0x0, symName: '-[GLTFTextureSampler setWrapS:]', symObjAddr: 0x4536, symBinAddr: 0x32146, symSize: 0x11 }
+  - { offsetInCU: 0x93C1, offset: 0x1EB468, size: 0x8, addend: 0x0, symName: '-[GLTFTextureSampler wrapT]', symObjAddr: 0x4547, symBinAddr: 0x32157, symSize: 0x11 }
+  - { offsetInCU: 0x93F7, offset: 0x1EB49E, size: 0x8, addend: 0x0, symName: '-[GLTFTextureSampler setWrapT:]', symObjAddr: 0x4558, symBinAddr: 0x32168, symSize: 0x11 }
+  - { offsetInCU: 0x9435, offset: 0x1EB4DC, size: 0x8, addend: 0x0, symName: '-[GLTFScene nodes]', symObjAddr: 0x4569, symBinAddr: 0x32179, symSize: 0x11 }
+  - { offsetInCU: 0x946B, offset: 0x1EB512, size: 0x8, addend: 0x0, symName: '-[GLTFScene setNodes:]', symObjAddr: 0x457A, symBinAddr: 0x3218A, symSize: 0x11 }
+  - { offsetInCU: 0x94AB, offset: 0x1EB552, size: 0x8, addend: 0x0, symName: '-[GLTFScene .cxx_destruct]', symObjAddr: 0x458B, symBinAddr: 0x3219B, symSize: 0x13 }
+  - { offsetInCU: 0x94DF, offset: 0x1EB586, size: 0x8, addend: 0x0, symName: '-[GLTFSkin initWithJoints:]', symObjAddr: 0x459E, symBinAddr: 0x321AE, symSize: 0x7A }
+  - { offsetInCU: 0x9571, offset: 0x1EB618, size: 0x8, addend: 0x0, symName: '-[GLTFSkin inverseBindMatrices]', symObjAddr: 0x4618, symBinAddr: 0x32228, symSize: 0x11 }
+  - { offsetInCU: 0x95A7, offset: 0x1EB64E, size: 0x8, addend: 0x0, symName: '-[GLTFSkin setInverseBindMatrices:]', symObjAddr: 0x4629, symBinAddr: 0x32239, symSize: 0x14 }
+  - { offsetInCU: 0x95E7, offset: 0x1EB68E, size: 0x8, addend: 0x0, symName: '-[GLTFSkin skeleton]', symObjAddr: 0x463D, symBinAddr: 0x3224D, symSize: 0x11 }
+  - { offsetInCU: 0x961D, offset: 0x1EB6C4, size: 0x8, addend: 0x0, symName: '-[GLTFSkin setSkeleton:]', symObjAddr: 0x464E, symBinAddr: 0x3225E, symSize: 0x14 }
+  - { offsetInCU: 0x965D, offset: 0x1EB704, size: 0x8, addend: 0x0, symName: '-[GLTFSkin joints]', symObjAddr: 0x4662, symBinAddr: 0x32272, symSize: 0x11 }
+  - { offsetInCU: 0x9693, offset: 0x1EB73A, size: 0x8, addend: 0x0, symName: '-[GLTFSkin setJoints:]', symObjAddr: 0x4673, symBinAddr: 0x32283, symSize: 0x11 }
+  - { offsetInCU: 0x96D3, offset: 0x1EB77A, size: 0x8, addend: 0x0, symName: '-[GLTFSkin .cxx_destruct]', symObjAddr: 0x4684, symBinAddr: 0x32294, symSize: 0x42 }
+  - { offsetInCU: 0x9707, offset: 0x1EB7AE, size: 0x8, addend: 0x0, symName: '-[GLTFSparseStorage initWithValues:valueOffset:indices:indexOffset:indexComponentType:count:]', symObjAddr: 0x46C6, symBinAddr: 0x322D6, symSize: 0xE6 }
+  - { offsetInCU: 0x97F4, offset: 0x1EB89B, size: 0x8, addend: 0x0, symName: '-[GLTFSparseStorage values]', symObjAddr: 0x47AC, symBinAddr: 0x323BC, symSize: 0x11 }
+  - { offsetInCU: 0x982A, offset: 0x1EB8D1, size: 0x8, addend: 0x0, symName: '-[GLTFSparseStorage setValues:]', symObjAddr: 0x47BD, symBinAddr: 0x323CD, symSize: 0x14 }
+  - { offsetInCU: 0x986A, offset: 0x1EB911, size: 0x8, addend: 0x0, symName: '-[GLTFSparseStorage valueOffset]', symObjAddr: 0x47D1, symBinAddr: 0x323E1, symSize: 0x11 }
+  - { offsetInCU: 0x98A0, offset: 0x1EB947, size: 0x8, addend: 0x0, symName: '-[GLTFSparseStorage setValueOffset:]', symObjAddr: 0x47E2, symBinAddr: 0x323F2, symSize: 0x11 }
+  - { offsetInCU: 0x98DE, offset: 0x1EB985, size: 0x8, addend: 0x0, symName: '-[GLTFSparseStorage indices]', symObjAddr: 0x47F3, symBinAddr: 0x32403, symSize: 0x11 }
+  - { offsetInCU: 0x9914, offset: 0x1EB9BB, size: 0x8, addend: 0x0, symName: '-[GLTFSparseStorage setIndices:]', symObjAddr: 0x4804, symBinAddr: 0x32414, symSize: 0x14 }
+  - { offsetInCU: 0x9954, offset: 0x1EB9FB, size: 0x8, addend: 0x0, symName: '-[GLTFSparseStorage indexOffset]', symObjAddr: 0x4818, symBinAddr: 0x32428, symSize: 0x11 }
+  - { offsetInCU: 0x998A, offset: 0x1EBA31, size: 0x8, addend: 0x0, symName: '-[GLTFSparseStorage setIndexOffset:]', symObjAddr: 0x4829, symBinAddr: 0x32439, symSize: 0x11 }
+  - { offsetInCU: 0x99C8, offset: 0x1EBA6F, size: 0x8, addend: 0x0, symName: '-[GLTFSparseStorage indexComponentType]', symObjAddr: 0x483A, symBinAddr: 0x3244A, symSize: 0x11 }
+  - { offsetInCU: 0x99FE, offset: 0x1EBAA5, size: 0x8, addend: 0x0, symName: '-[GLTFSparseStorage setIndexComponentType:]', symObjAddr: 0x484B, symBinAddr: 0x3245B, symSize: 0x11 }
+  - { offsetInCU: 0x9A3C, offset: 0x1EBAE3, size: 0x8, addend: 0x0, symName: '-[GLTFSparseStorage count]', symObjAddr: 0x485C, symBinAddr: 0x3246C, symSize: 0x11 }
+  - { offsetInCU: 0x9A72, offset: 0x1EBB19, size: 0x8, addend: 0x0, symName: '-[GLTFSparseStorage setCount:]', symObjAddr: 0x486D, symBinAddr: 0x3247D, symSize: 0x11 }
+  - { offsetInCU: 0x9AB0, offset: 0x1EBB57, size: 0x8, addend: 0x0, symName: '-[GLTFSparseStorage .cxx_destruct]', symObjAddr: 0x487E, symBinAddr: 0x3248E, symSize: 0x31 }
+  - { offsetInCU: 0x9AE4, offset: 0x1EBB8B, size: 0x8, addend: 0x0, symName: '-[GLTFTextureTransform init]', symObjAddr: 0x48AF, symBinAddr: 0x324BF, symSize: 0x41 }
+  - { offsetInCU: 0x9B1C, offset: 0x1EBBC3, size: 0x8, addend: 0x0, symName: '-[GLTFTextureTransform matrix]', symObjAddr: 0x48F0, symBinAddr: 0x32500, symSize: 0x144 }
+  - { offsetInCU: 0x9BA1, offset: 0x1EBC48, size: 0x8, addend: 0x0, symName: '-[GLTFTextureTransform offset]', symObjAddr: 0x4A34, symBinAddr: 0x32644, symSize: 0xB }
+  - { offsetInCU: 0x9BD7, offset: 0x1EBC7E, size: 0x8, addend: 0x0, symName: '-[GLTFTextureTransform setOffset:]', symObjAddr: 0x4A3F, symBinAddr: 0x3264F, symSize: 0xB }
+  - { offsetInCU: 0x9C15, offset: 0x1EBCBC, size: 0x8, addend: 0x0, symName: '-[GLTFTextureTransform rotation]', symObjAddr: 0x4A4A, symBinAddr: 0x3265A, symSize: 0xB }
+  - { offsetInCU: 0x9C4B, offset: 0x1EBCF2, size: 0x8, addend: 0x0, symName: '-[GLTFTextureTransform setRotation:]', symObjAddr: 0x4A55, symBinAddr: 0x32665, symSize: 0xB }
+  - { offsetInCU: 0x9C89, offset: 0x1EBD30, size: 0x8, addend: 0x0, symName: '-[GLTFTextureTransform scale]', symObjAddr: 0x4A60, symBinAddr: 0x32670, symSize: 0xB }
+  - { offsetInCU: 0x9CBF, offset: 0x1EBD66, size: 0x8, addend: 0x0, symName: '-[GLTFTextureTransform setScale:]', symObjAddr: 0x4A6B, symBinAddr: 0x3267B, symSize: 0xB }
+  - { offsetInCU: 0x9CFD, offset: 0x1EBDA4, size: 0x8, addend: 0x0, symName: '-[GLTFTextureTransform hasTexCoord]', symObjAddr: 0x4A76, symBinAddr: 0x32686, symSize: 0xA }
+  - { offsetInCU: 0x9D33, offset: 0x1EBDDA, size: 0x8, addend: 0x0, symName: '-[GLTFTextureTransform setHasTexCoord:]', symObjAddr: 0x4A80, symBinAddr: 0x32690, symSize: 0x9 }
+  - { offsetInCU: 0x9D71, offset: 0x1EBE18, size: 0x8, addend: 0x0, symName: '-[GLTFTextureTransform texCoord]', symObjAddr: 0x4A89, symBinAddr: 0x32699, symSize: 0x9 }
+  - { offsetInCU: 0x9DA7, offset: 0x1EBE4E, size: 0x8, addend: 0x0, symName: '-[GLTFTextureTransform setTexCoord:]', symObjAddr: 0x4A92, symBinAddr: 0x326A2, symSize: 0x9 }
+  - { offsetInCU: 0x9DE5, offset: 0x1EBE8C, size: 0x8, addend: 0x0, symName: '-[GLTFTextureParams init]', symObjAddr: 0x4A9B, symBinAddr: 0x326AB, symSize: 0x59 }
+  - { offsetInCU: 0x9E1D, offset: 0x1EBEC4, size: 0x8, addend: 0x0, symName: '-[GLTFTextureParams texture]', symObjAddr: 0x4AF4, symBinAddr: 0x32704, symSize: 0xA }
+  - { offsetInCU: 0x9E53, offset: 0x1EBEFA, size: 0x8, addend: 0x0, symName: '-[GLTFTextureParams setTexture:]', symObjAddr: 0x4AFE, symBinAddr: 0x3270E, symSize: 0x11 }
+  - { offsetInCU: 0x9E93, offset: 0x1EBF3A, size: 0x8, addend: 0x0, symName: '-[GLTFTextureParams texCoord]', symObjAddr: 0x4B0F, symBinAddr: 0x3271F, symSize: 0xA }
+  - { offsetInCU: 0x9EC9, offset: 0x1EBF70, size: 0x8, addend: 0x0, symName: '-[GLTFTextureParams setTexCoord:]', symObjAddr: 0x4B19, symBinAddr: 0x32729, symSize: 0xA }
+  - { offsetInCU: 0x9F07, offset: 0x1EBFAE, size: 0x8, addend: 0x0, symName: '-[GLTFTextureParams scale]', symObjAddr: 0x4B23, symBinAddr: 0x32733, symSize: 0xB }
+  - { offsetInCU: 0x9F3D, offset: 0x1EBFE4, size: 0x8, addend: 0x0, symName: '-[GLTFTextureParams setScale:]', symObjAddr: 0x4B2E, symBinAddr: 0x3273E, symSize: 0xB }
+  - { offsetInCU: 0x9F7B, offset: 0x1EC022, size: 0x8, addend: 0x0, symName: '-[GLTFTextureParams transform]', symObjAddr: 0x4B39, symBinAddr: 0x32749, symSize: 0xA }
+  - { offsetInCU: 0x9FB1, offset: 0x1EC058, size: 0x8, addend: 0x0, symName: '-[GLTFTextureParams setTransform:]', symObjAddr: 0x4B43, symBinAddr: 0x32753, symSize: 0x11 }
+  - { offsetInCU: 0x9FF1, offset: 0x1EC098, size: 0x8, addend: 0x0, symName: '-[GLTFTextureParams extensions]', symObjAddr: 0x4B54, symBinAddr: 0x32764, symSize: 0xA }
+  - { offsetInCU: 0xA027, offset: 0x1EC0CE, size: 0x8, addend: 0x0, symName: '-[GLTFTextureParams setExtensions:]', symObjAddr: 0x4B5E, symBinAddr: 0x3276E, symSize: 0xF }
+  - { offsetInCU: 0xA067, offset: 0x1EC10E, size: 0x8, addend: 0x0, symName: '-[GLTFTextureParams extras]', symObjAddr: 0x4B6D, symBinAddr: 0x3277D, symSize: 0xA }
+  - { offsetInCU: 0xA09D, offset: 0x1EC144, size: 0x8, addend: 0x0, symName: '-[GLTFTextureParams setExtras:]', symObjAddr: 0x4B77, symBinAddr: 0x32787, symSize: 0xF }
+  - { offsetInCU: 0xA0DD, offset: 0x1EC184, size: 0x8, addend: 0x0, symName: '-[GLTFTextureParams .cxx_destruct]', symObjAddr: 0x4B86, symBinAddr: 0x32796, symSize: 0x3E }
+  - { offsetInCU: 0xA111, offset: 0x1EC1B8, size: 0x8, addend: 0x0, symName: '-[GLTFTexture initWithSource:basisUSource:]', symObjAddr: 0x4BC4, symBinAddr: 0x327D4, symSize: 0xA2 }
+  - { offsetInCU: 0xA1BC, offset: 0x1EC263, size: 0x8, addend: 0x0, symName: '-[GLTFTexture initWithSource:]', symObjAddr: 0x4C66, symBinAddr: 0x32876, symSize: 0x14 }
+  - { offsetInCU: 0xA223, offset: 0x1EC2CA, size: 0x8, addend: 0x0, symName: '-[GLTFTexture init]', symObjAddr: 0x4C7A, symBinAddr: 0x3288A, symSize: 0x14 }
+  - { offsetInCU: 0xA273, offset: 0x1EC31A, size: 0x8, addend: 0x0, symName: '-[GLTFTexture sampler]', symObjAddr: 0x4C8E, symBinAddr: 0x3289E, symSize: 0x11 }
+  - { offsetInCU: 0xA2A9, offset: 0x1EC350, size: 0x8, addend: 0x0, symName: '-[GLTFTexture setSampler:]', symObjAddr: 0x4C9F, symBinAddr: 0x328AF, symSize: 0x14 }
+  - { offsetInCU: 0xA2E9, offset: 0x1EC390, size: 0x8, addend: 0x0, symName: '-[GLTFTexture source]', symObjAddr: 0x4CB3, symBinAddr: 0x328C3, symSize: 0x11 }
+  - { offsetInCU: 0xA31F, offset: 0x1EC3C6, size: 0x8, addend: 0x0, symName: '-[GLTFTexture setSource:]', symObjAddr: 0x4CC4, symBinAddr: 0x328D4, symSize: 0x14 }
+  - { offsetInCU: 0xA35F, offset: 0x1EC406, size: 0x8, addend: 0x0, symName: '-[GLTFTexture basisUSource]', symObjAddr: 0x4CD8, symBinAddr: 0x328E8, symSize: 0x11 }
+  - { offsetInCU: 0xA395, offset: 0x1EC43C, size: 0x8, addend: 0x0, symName: '-[GLTFTexture setBasisUSource:]', symObjAddr: 0x4CE9, symBinAddr: 0x328F9, symSize: 0x14 }
+  - { offsetInCU: 0xA3D5, offset: 0x1EC47C, size: 0x8, addend: 0x0, symName: '-[GLTFTexture .cxx_destruct]', symObjAddr: 0x4CFD, symBinAddr: 0x3290D, symSize: 0x42 }
+  - { offsetInCU: 0xA409, offset: 0x1EC4B0, size: 0x8, addend: 0x0, symName: '-[GLTFMaterialVariant initWithName:]', symObjAddr: 0x4D3F, symBinAddr: 0x3294F, symSize: 0x76 }
+  - { offsetInCU: 0xA47B, offset: 0x1EC522, size: 0x8, addend: 0x0, symName: '-[GLTFMaterialMapping initWithMaterial:variant:]', symObjAddr: 0x4DB5, symBinAddr: 0x329C5, symSize: 0xA2 }
+  - { offsetInCU: 0xA526, offset: 0x1EC5CD, size: 0x8, addend: 0x0, symName: '-[GLTFMaterialMapping material]', symObjAddr: 0x4E57, symBinAddr: 0x32A67, symSize: 0x11 }
+  - { offsetInCU: 0xA55C, offset: 0x1EC603, size: 0x8, addend: 0x0, symName: '-[GLTFMaterialMapping setMaterial:]', symObjAddr: 0x4E68, symBinAddr: 0x32A78, symSize: 0x14 }
+  - { offsetInCU: 0xA59C, offset: 0x1EC643, size: 0x8, addend: 0x0, symName: '-[GLTFMaterialMapping variant]', symObjAddr: 0x4E7C, symBinAddr: 0x32A8C, symSize: 0x11 }
+  - { offsetInCU: 0xA5D2, offset: 0x1EC679, size: 0x8, addend: 0x0, symName: '-[GLTFMaterialMapping setVariant:]', symObjAddr: 0x4E8D, symBinAddr: 0x32A9D, symSize: 0x14 }
+  - { offsetInCU: 0xA612, offset: 0x1EC6B9, size: 0x8, addend: 0x0, symName: '-[GLTFMaterialMapping .cxx_destruct]', symObjAddr: 0x4EA1, symBinAddr: 0x32AB1, symSize: 0x31 }
+  - { offsetInCU: 0x27, offset: 0x1ECB57, size: 0x8, addend: 0x0, symName: _GLTFMeshoptDecodeBufferView, symObjAddr: 0x0, symBinAddr: 0x32AE4, symSize: 0x1B28 }
+  - { offsetInCU: 0x4488, offset: 0x1F0FB8, size: 0x8, addend: 0x0, symName: __ZNSt3__119__allocate_at_leastB7v160006INS_9allocatorIPjEEEENS_19__allocation_resultINS_16allocator_traitsIT_E7pointerEEERS6_m, symObjAddr: 0x2326, symBinAddr: 0x34DDA, symSize: 0x2E }
+  - { offsetInCU: 0x4530, offset: 0x1F1060, size: 0x8, addend: 0x0, symName: __ZNSt3__15dequeIjNS_9allocatorIjEEED2B7v160006Ev, symObjAddr: 0x2354, symBinAddr: 0x34E08, symSize: 0x92 }
+  - { offsetInCU: 0x7810, offset: 0x1F4340, size: 0x8, addend: 0x0, symName: _GLTFMeshoptDecodeBufferView, symObjAddr: 0x0, symBinAddr: 0x32AE4, symSize: 0x1B28 }
+  - { offsetInCU: 0x9407, offset: 0x1F5F37, size: 0x8, addend: 0x0, symName: __ZNSt3__15dequeIjNS_9allocatorIjEEE10push_frontERKj, symObjAddr: 0x1B28, symBinAddr: 0x3460C, symSize: 0x6C }
+  - { offsetInCU: 0x955A, offset: 0x1F608A, size: 0x8, addend: 0x0, symName: __ZNSt3__15dequeIjNS_9allocatorIjEEED2B7v160006Ev, symObjAddr: 0x2354, symBinAddr: 0x34E08, symSize: 0x92 }
+  - { offsetInCU: 0x99B5, offset: 0x1F64E5, size: 0x8, addend: 0x0, symName: __ZNSt3__15dequeIjNS_9allocatorIjEEE20__add_front_capacityEv, symObjAddr: 0x1B94, symBinAddr: 0x34678, symSize: 0x336 }
+  - { offsetInCU: 0xB099, offset: 0x1F7BC9, size: 0x8, addend: 0x0, symName: __ZNSt3__114__split_bufferIPjNS_9allocatorIS1_EEE10push_frontERKS1_, symObjAddr: 0x1ECA, symBinAddr: 0x349AE, symSize: 0x110 }
+  - { offsetInCU: 0xB530, offset: 0x1F8060, size: 0x8, addend: 0x0, symName: __ZNSt3__114__split_bufferIPjNS_9allocatorIS1_EEE10push_frontEOS1_, symObjAddr: 0x1FDA, symBinAddr: 0x34ABE, symSize: 0x110 }
+  - { offsetInCU: 0xB9C7, offset: 0x1F84F7, size: 0x8, addend: 0x0, symName: __ZNSt3__114__split_bufferIPjRNS_9allocatorIS1_EEE9push_backEOS1_, symObjAddr: 0x21F0, symBinAddr: 0x34CD4, symSize: 0x105 }
+  - { offsetInCU: 0xBEA2, offset: 0x1F89D2, size: 0x8, addend: 0x0, symName: __ZNSt3__114__split_bufferIPjNS_9allocatorIS1_EEE9push_backEOS1_, symObjAddr: 0x20EA, symBinAddr: 0x34BCE, symSize: 0x106 }
+  - { offsetInCU: 0xC481, offset: 0x1F8FB1, size: 0x8, addend: 0x0, symName: __ZNSt3__114__split_bufferIPjNS_9allocatorIS1_EEED2Ev, symObjAddr: 0x23E6, symBinAddr: 0x34E9A, symSize: 0x33 }
+  - { offsetInCU: 0x9C, offset: 0x1F97D7, size: 0x8, addend: 0x0, symName: '_$s8GLTFKit217packedFloat2Array3for14flipVerticallySays5SIMD2VySfGGSgSo12GLTFAccessorC_SbtF', symObjAddr: 0x0, symBinAddr: 0x34ED0, symSize: 0x200 }
+  - { offsetInCU: 0x33D, offset: 0x1F9A78, size: 0x8, addend: 0x0, symName: '_$s8GLTFKit217packedFloat3Array3forSays5SIMD3VySfGGSgSo12GLTFAccessorC_tF', symObjAddr: 0x200, symBinAddr: 0x350D0, symSize: 0x210 }
+  - { offsetInCU: 0x5B8, offset: 0x1F9CF3, size: 0x8, addend: 0x0, symName: '_$s8GLTFKit217packedUInt32Array3forSays0C0VGSgSo12GLTFAccessorC_tFySryAEGz_SiztXEfU_ySWXEfU_', symObjAddr: 0x410, symBinAddr: 0x352E0, symSize: 0x400 }
+  - { offsetInCU: 0x7E8, offset: 0x1F9F23, size: 0x8, addend: 0x0, symName: '_$s8GLTFKit229GLTFRealityKitResourceContextC9ColorMaskOSYAASY8rawValuexSg03RawI0Qz_tcfCTW', symObjAddr: 0x8C0, symBinAddr: 0x35790, symSize: 0x20 }
+  - { offsetInCU: 0x819, offset: 0x1F9F54, size: 0x8, addend: 0x0, symName: '_$s8GLTFKit229GLTFRealityKitResourceContextC9ColorMaskOSYAASY8rawValue03RawI0QzvgTW', symObjAddr: 0x8E0, symBinAddr: 0x357B0, symSize: 0x10 }
+  - { offsetInCU: 0x836, offset: 0x1F9F71, size: 0x8, addend: 0x0, symName: '_$s8GLTFKit229GLTFRealityKitResourceContextC7texture3for8channels8semantic17RealityFoundation18MaterialParametersV7TextureVSgSo17GLTFTextureParamsC_AC9ColorMaskO0jC00nD0C8SemanticOtF', symObjAddr: 0x8F0, symBinAddr: 0x357C0, symSize: 0x200 }
+  - { offsetInCU: 0x930, offset: 0x1FA06B, size: 0x8, addend: 0x0, symName: '_$s8GLTFKit229GLTFRealityKitResourceContextC07textureD03for8channels8semantic07RealityC007TextureD0CSgSo9GLTFImageC_AC9ColorMaskOAJ8SemanticOtF', symObjAddr: 0xAF0, symBinAddr: 0x359C0, symSize: 0x990 }
+  - { offsetInCU: 0xE76, offset: 0x1FA5B1, size: 0x8, addend: 0x0, symName: '_$s8GLTFKit229GLTFRealityKitResourceContextCfD', symObjAddr: 0x1480, symBinAddr: 0x36350, symSize: 0x30 }
+  - { offsetInCU: 0xF34, offset: 0x1FA66F, size: 0x8, addend: 0x0, symName: '_$s8GLTFKit229GLTFRealityKitResourceContextC18singleChannelImage4from8channelsSo10CGImageRefaSgAH_AC9ColorMaskOtFTf4nnd_n', symObjAddr: 0x7A40, symBinAddr: 0x3C910, symSize: 0x360 }
+  - { offsetInCU: 0x1231, offset: 0x1FA96C, size: 0x8, addend: 0x0, symName: '_$s8GLTFKit220GLTFRealityKitLoaderC4load4from07RealityC06EntityC10Foundation3URLV_tYaKFZ', symObjAddr: 0x14B0, symBinAddr: 0x36380, symSize: 0x70 }
+  - { offsetInCU: 0x12BD, offset: 0x1FA9F8, size: 0x8, addend: 0x0, symName: '_$s8GLTFKit220GLTFRealityKitLoaderC4load4from07RealityC06EntityC10Foundation3URLV_tYaKFZTY0_', symObjAddr: 0x1520, symBinAddr: 0x363F0, symSize: 0x2E0 }
+  - { offsetInCU: 0x146B, offset: 0x1FABA6, size: 0x8, addend: 0x0, symName: '_$s8GLTFKit220GLTFRealityKitLoaderC7convert5scene07RealityC06EntityCSo9GLTFSceneC_tFZ', symObjAddr: 0x1970, symBinAddr: 0x36840, symSize: 0x40 }
+  - { offsetInCU: 0x14BF, offset: 0x1FABFA, size: 0x8, addend: 0x0, symName: '_$s8GLTFKit220GLTFRealityKitLoaderC7convert5scene07RealityC06EntityCSo9GLTFSceneC_tF', symObjAddr: 0x19B0, symBinAddr: 0x36880, symSize: 0x340 }
+  - { offsetInCU: 0x18AA, offset: 0x1FAFE5, size: 0x8, addend: 0x0, symName: '_$s8GLTFKit220GLTFRealityKitLoaderC7convert4node7context07RealityC06EntityCSo8GLTFNodeC_AA0bC15ResourceContextCtKF', symObjAddr: 0x1CF0, symBinAddr: 0x36BC0, symSize: 0x980 }
+  - { offsetInCU: 0x1DDB, offset: 0x1FB516, size: 0x8, addend: 0x0, symName: '_$s8GLTFKit220GLTFRealityKitLoaderC7convert4mesh7context07RealityC014ModelComponentVSgSo8GLTFMeshC_AA0bC15ResourceContextCtKF', symObjAddr: 0x2670, symBinAddr: 0x37540, symSize: 0x5B0 }
+  - { offsetInCU: 0x219D, offset: 0x1FB8D8, size: 0x8, addend: 0x0, symName: '_$s8GLTFKit220GLTFRealityKitLoaderC7convert9primitive7context17RealityFoundation14MeshDescriptorVSgSo13GLTFPrimitiveC_AA0bC15ResourceContextCtKF', symObjAddr: 0x2C20, symBinAddr: 0x37AF0, symSize: 0x870 }
+  - { offsetInCU: 0x2466, offset: 0x1FBBA1, size: 0x8, addend: 0x0, symName: '_$s8GLTFKit220GLTFRealityKitLoaderC7convert8material7context07RealityC08Material_pSo12GLTFMaterialCSg_AA0bC15ResourceContextCtKF', symObjAddr: 0x3490, symBinAddr: 0x38360, symSize: 0xFE0 }
+  - { offsetInCU: 0x28B8, offset: 0x1FBFF3, size: 0x8, addend: 0x0, symName: '_$s8GLTFKit220GLTFRealityKitLoaderCfd', symObjAddr: 0x4470, symBinAddr: 0x39340, symSize: 0x10 }
+  - { offsetInCU: 0x28E7, offset: 0x1FC022, size: 0x8, addend: 0x0, symName: '_$s8GLTFKit220GLTFRealityKitLoaderCfD', symObjAddr: 0x4480, symBinAddr: 0x39350, symSize: 0x20 }
+  - { offsetInCU: 0x2D68, offset: 0x1FC4A3, size: 0x8, addend: 0x0, symName: '_$s10Foundation4DataV06InlineB0V15withUnsafeBytesyxxSWKXEKlFyt_Tg591$s8GLTFKit217packedUInt32Array3forSays0C0VGSgSo12GLTFAccessorC_tFySryAEGz_SiztXEfU_ySWXEfU_So0O0CS3iSrys0I0VGTf1ncn_n', symObjAddr: 0x4760, symBinAddr: 0x39630, symSize: 0xF0 }
+  - { offsetInCU: 0x2DB0, offset: 0x1FC4EB, size: 0x8, addend: 0x0, symName: '_$s10Foundation13__DataStorageC15withUnsafeBytes2in5applyxSnySiG_xSWKXEtKlFyt_Tg591$s8GLTFKit217packedUInt32Array3forSays0C0VGSgSo12GLTFAccessorC_tFySryAEGz_SiztXEfU_ySWXEfU_So0Q0CS3iSrys0K0VGTf1nncn_n', symObjAddr: 0x4850, symBinAddr: 0x39720, symSize: 0xA0 }
+  - { offsetInCU: 0x2DDB, offset: 0x1FC516, size: 0x8, addend: 0x0, symName: '_$ss22__RawDictionaryStorageC4findys10_HashTableV6BucketV6bucket_Sb5foundtxSHRzlF10Foundation4UUIDV_Tg5', symObjAddr: 0x48F0, symBinAddr: 0x397C0, symSize: 0x60 }
+  - { offsetInCU: 0x2DF3, offset: 0x1FC52E, size: 0x8, addend: 0x0, symName: '_$ss22__RawDictionaryStorageC4findys10_HashTableV6BucketV6bucket_Sb5foundtxSHRzlFSS_Tg5', symObjAddr: 0x4950, symBinAddr: 0x39820, symSize: 0x60 }
+  - { offsetInCU: 0x2E35, offset: 0x1FC570, size: 0x8, addend: 0x0, symName: '_$ss22__RawDictionaryStorageC4findys10_HashTableV6BucketV6bucket_Sb5foundtxSHRzlFSo22GLTFAssetLoadingOptiona_Tg5', symObjAddr: 0x49B0, symBinAddr: 0x39880, symSize: 0x80 }
+  - { offsetInCU: 0x2EDE, offset: 0x1FC619, size: 0x8, addend: 0x0, symName: '_$sSD8_VariantV8setValue_6forKeyyq_n_xtF10Foundation4UUIDV_Say10RealityKit15TextureResourceC_8GLTFKit2011GLTFRealityiK7ContextC9ColorMaskOtGTg5', symObjAddr: 0x4A30, symBinAddr: 0x39900, symSize: 0xF0 }
+  - { offsetInCU: 0x2F61, offset: 0x1FC69C, size: 0x8, addend: 0x0, symName: '_$sSD8_VariantV8setValue_6forKeyyq_n_xtF10Foundation4UUIDV_So10CGImageRefaTg5', symObjAddr: 0x4B20, symBinAddr: 0x399F0, symSize: 0xF0 }
+  - { offsetInCU: 0x303C, offset: 0x1FC777, size: 0x8, addend: 0x0, symName: '_$ss12_ArrayBufferV20_consumeAndCreateNew14bufferIsUnique15minimumCapacity13growForAppendAByxGSb_SiSbtF10RealityKit15TextureResourceC_8GLTFKit2011GLTFRealitypR7ContextC9ColorMaskOt_Tg5', symObjAddr: 0x4C10, symBinAddr: 0x39AE0, symSize: 0x130 }
+  - { offsetInCU: 0x31F2, offset: 0x1FC92D, size: 0x8, addend: 0x0, symName: '_$ss12_ArrayBufferV20_consumeAndCreateNew14bufferIsUnique15minimumCapacity13growForAppendAByxGSb_SiSbtF10RealityKit6EntityC_Tg5', symObjAddr: 0x4D40, symBinAddr: 0x39C10, symSize: 0x180 }
+  - { offsetInCU: 0x33D0, offset: 0x1FCB0B, size: 0x8, addend: 0x0, symName: '_$ss12_ArrayBufferV20_consumeAndCreateNew14bufferIsUnique15minimumCapacity13growForAppendAByxGSb_SiSbtF17RealityFoundation14MeshDescriptorV_0O3Kit8Material_pt_Tg5', symObjAddr: 0x4EC0, symBinAddr: 0x39D90, symSize: 0x1B0 }
+  - { offsetInCU: 0x3552, offset: 0x1FCC8D, size: 0x8, addend: 0x0, symName: '_$ss17_NativeDictionaryV_8isUniqueq_Sgx_SbtciM6$deferL_yySHRzr0_lF10Foundation4UUIDV_Say10RealityKit15TextureResourceC_8GLTFKit2011GLTFRealityiK7ContextC9ColorMaskOtGTg5', symObjAddr: 0x5120, symBinAddr: 0x39FF0, symSize: 0xC0 }
+  - { offsetInCU: 0x35C8, offset: 0x1FCD03, size: 0x8, addend: 0x0, symName: '_$ss17_NativeDictionaryV7_delete2atys10_HashTableV6BucketV_tF10Foundation4UUIDV_Say10RealityKit15TextureResourceC_8GLTFKit2011GLTFRealitykM7ContextC9ColorMaskOtGTg5', symObjAddr: 0x51E0, symBinAddr: 0x3A0B0, symSize: 0x2A0 }
+  - { offsetInCU: 0x3648, offset: 0x1FCD83, size: 0x8, addend: 0x0, symName: '_$ss17_NativeDictionaryV7_insert2at3key5valueys10_HashTableV6BucketV_xnq_ntF10Foundation4UUIDV_Say10RealityKit15TextureResourceC_8GLTFKit2011GLTFRealitymO7ContextC9ColorMaskOtGTg5', symObjAddr: 0x5480, symBinAddr: 0x3A350, symSize: 0x80 }
+  - { offsetInCU: 0x36DB, offset: 0x1FCE16, size: 0x8, addend: 0x0, symName: '_$ss17_NativeDictionaryV7_insert2at3key5valueys10_HashTableV6BucketV_xnq_ntF10Foundation4UUIDV_So10CGImageRefaTg5', symObjAddr: 0x5500, symBinAddr: 0x3A3D0, symSize: 0x80 }
+  - { offsetInCU: 0x3758, offset: 0x1FCE93, size: 0x8, addend: 0x0, symName: '_$ss22__RawDictionaryStorageC4find_9hashValues10_HashTableV6BucketV6bucket_Sb5foundtx_SitSHRzlF10Foundation4UUIDV_Tg5', symObjAddr: 0x5580, symBinAddr: 0x3A450, symSize: 0x120 }
+  - { offsetInCU: 0x3770, offset: 0x1FCEAB, size: 0x8, addend: 0x0, symName: '_$ss22__RawDictionaryStorageC4find_9hashValues10_HashTableV6BucketV6bucket_Sb5foundtx_SitSHRzlFSS_Tg5', symObjAddr: 0x56A0, symBinAddr: 0x3A570, symSize: 0xE0 }
+  - { offsetInCU: 0x37AF, offset: 0x1FCEEA, size: 0x8, addend: 0x0, symName: '_$ss22__RawDictionaryStorageC4find_9hashValues10_HashTableV6BucketV6bucket_Sb5foundtx_SitSHRzlFSo22GLTFAssetLoadingOptiona_Tg5', symObjAddr: 0x5780, symBinAddr: 0x3A650, symSize: 0x180 }
+  - { offsetInCU: 0x3837, offset: 0x1FCF72, size: 0x8, addend: 0x0, symName: '_$ss17_NativeDictionaryV4copyyyF10Foundation4UUIDV_Say10RealityKit15TextureResourceC_8GLTFKit2011GLTFRealitygI7ContextC9ColorMaskOtGTg5', symObjAddr: 0x5900, symBinAddr: 0x3A7D0, symSize: 0x280 }
+  - { offsetInCU: 0x38A4, offset: 0x1FCFDF, size: 0x8, addend: 0x0, symName: '_$ss17_NativeDictionaryV4copyyyF10Foundation4UUIDV_So10CGImageRefaTg5', symObjAddr: 0x5B80, symBinAddr: 0x3AA50, symSize: 0x280 }
+  - { offsetInCU: 0x393D, offset: 0x1FD078, size: 0x8, addend: 0x0, symName: '_$ss17_NativeDictionaryV20_copyOrMoveAndResize8capacity12moveElementsySi_SbtF10Foundation4UUIDV_Say10RealityKit15TextureResourceC_8GLTFKit2011GLTFRealitynP7ContextC9ColorMaskOtGTg5', symObjAddr: 0x5E00, symBinAddr: 0x3ACD0, symSize: 0x410 }
+  - { offsetInCU: 0x3A37, offset: 0x1FD172, size: 0x8, addend: 0x0, symName: '_$ss17_NativeDictionaryV20_copyOrMoveAndResize8capacity12moveElementsySi_SbtF10Foundation4UUIDV_So10CGImageRefaTg5', symObjAddr: 0x6210, symBinAddr: 0x3B0E0, symSize: 0x400 }
+  - { offsetInCU: 0x3B1B, offset: 0x1FD256, size: 0x8, addend: 0x0, symName: '_$ss12_ArrayBufferV19_getElementSlowPathyyXlSiF10RealityKit6EntityC_Tg5', symObjAddr: 0x6610, symBinAddr: 0x3B4E0, symSize: 0x210 }
+  - { offsetInCU: 0x3B81, offset: 0x1FD2BC, size: 0x8, addend: 0x0, symName: '_$ss15ContiguousArrayV16_createNewBuffer14bufferIsUnique15minimumCapacity13growForAppendySb_SiSbtF10RealityKit8Material_p_Tg5', symObjAddr: 0x6A50, symBinAddr: 0x3B920, symSize: 0x20 }
+  - { offsetInCU: 0x3B99, offset: 0x1FD2D4, size: 0x8, addend: 0x0, symName: '_$ss15ContiguousArrayV16_createNewBuffer14bufferIsUnique15minimumCapacity13growForAppendySb_SiSbtF17RealityFoundation14MeshDescriptorV_Tg5', symObjAddr: 0x6A70, symBinAddr: 0x3B940, symSize: 0x20 }
+  - { offsetInCU: 0x3C14, offset: 0x1FD34F, size: 0x8, addend: 0x0, symName: '_$ss22_ContiguousArrayBufferV20_consumeAndCreateNew14bufferIsUnique15minimumCapacity13growForAppendAByxGSb_SiSbtF10RealityKit8Material_p_Tg5', symObjAddr: 0x6A90, symBinAddr: 0x3B960, symSize: 0x140 }
+  - { offsetInCU: 0x3D8E, offset: 0x1FD4C9, size: 0x8, addend: 0x0, symName: '_$ss22_ContiguousArrayBufferV20_consumeAndCreateNew14bufferIsUnique15minimumCapacity13growForAppendAByxGSb_SiSbtF17RealityFoundation14MeshDescriptorV_Tg5', symObjAddr: 0x6BD0, symBinAddr: 0x3BAA0, symSize: 0x1A0 }
+  - { offsetInCU: 0x3F33, offset: 0x1FD66E, size: 0x8, addend: 0x0, symName: '_$sSTsE21_copySequenceContents12initializing8IteratorQz_SitSry7ElementQzG_tFSnys6UInt32VG_Tg5', symObjAddr: 0x6D70, symBinAddr: 0x3BC40, symSize: 0x160 }
+  - { offsetInCU: 0x409F, offset: 0x1FD7DA, size: 0x8, addend: 0x0, symName: '_$sSa28_unsafeUninitializedCapacity16initializingWithSayxGSi_ySryxGz_SiztKXEtKcfCs5SIMD2VySfG_Tg5055$s8GLTFKit217packedFloat2Array3for14flipVerticallySays5F48VySfGGSgSo12GLTFAccessorC_SbtFySryAGGz_SiztXEfU_10Foundation4DataVS3iSbTf1ncn_nTf4nngnnnn_n', symObjAddr: 0x6ED0, symBinAddr: 0x3BDA0, symSize: 0x410 }
+  - { offsetInCU: 0x4529, offset: 0x1FDC64, size: 0x8, addend: 0x0, symName: '_$sSa28_unsafeUninitializedCapacity16initializingWithSayxGSi_ySryxGz_SiztKXEtKcfCs5SIMD3VySfG_Tg5039$s8GLTFKit217packedFloat3Array3forSays5F46VySfGGSgSo12GLTFAccessorC_tFySryAFGz_SiztXEfU_10Foundation4DataVS3iTf1ncn_nTf4nngnnn_n', symObjAddr: 0x72E0, symBinAddr: 0x3C1B0, symSize: 0x3F0 }
+  - { offsetInCU: 0x4A2F, offset: 0x1FE16A, size: 0x8, addend: 0x0, symName: '_$sSa28_unsafeUninitializedCapacity16initializingWithSayxGSi_ySryxGz_SiztKXEtKcfCs6UInt32V_Tg5019$s8GLTFKit217packedF58Array3forSays0C0VGSgSo12GLTFAccessorC_tFySryAEGz_SiztXEfU_10Foundation4DataVSo0N0CS2iTf1ncn_nTf4nnggnn_n', symObjAddr: 0x76D0, symBinAddr: 0x3C5A0, symSize: 0x1D0 }
+  - { offsetInCU: 0x4B8A, offset: 0x1FE2C5, size: 0x8, addend: 0x0, symName: '_$sSo20MTLSamplerDescriptorC8GLTFKit2E4fromABSo18GLTFTextureSamplerC_tcfCTf4gn_n', symObjAddr: 0x78A0, symBinAddr: 0x3C770, symSize: 0x1A0 }
+  - { offsetInCU: 0x4CAD, offset: 0x1FE3E8, size: 0x8, addend: 0x0, symName: ___swift_instantiateConcreteTypeFromMangledName, symObjAddr: 0x7E80, symBinAddr: 0x3CD50, symSize: 0x40 }
+  - { offsetInCU: 0x4D0E, offset: 0x1FE449, size: 0x8, addend: 0x0, symName: '_$s8GLTFKit220GLTFRealityKitLoaderC4load4from07RealityC06EntityC10Foundation3URLV_tYaKFZAHyXEfU_TA', symObjAddr: 0x7FA0, symBinAddr: 0x3CE70, symSize: 0x50 }
+  - { offsetInCU: 0x4D8E, offset: 0x1FE4C9, size: 0x8, addend: 0x0, symName: '_$s8GLTFKit220GLTFRealityKitLoaderCMa', symObjAddr: 0x7FF0, symBinAddr: 0x3CEC0, symSize: 0x20 }
+  - { offsetInCU: 0x4DA2, offset: 0x1FE4DD, size: 0x8, addend: 0x0, symName: '_$s8GLTFKit229GLTFRealityKitResourceContextCMa', symObjAddr: 0x8010, symBinAddr: 0x3CEE0, symSize: 0x20 }
+  - { offsetInCU: 0x4DB6, offset: 0x1FE4F1, size: 0x8, addend: 0x0, symName: ___swift_memcpy1_1, symObjAddr: 0x8050, symBinAddr: 0x3CF20, symSize: 0x10 }
+  - { offsetInCU: 0x4DCA, offset: 0x1FE505, size: 0x8, addend: 0x0, symName: ___swift_noop_void_return, symObjAddr: 0x8060, symBinAddr: 0x3CF30, symSize: 0x10 }
+  - { offsetInCU: 0x4DDE, offset: 0x1FE519, size: 0x8, addend: 0x0, symName: '_$s8GLTFKit229GLTFRealityKitResourceContextC9ColorMaskOwet', symObjAddr: 0x8070, symBinAddr: 0x3CF40, symSize: 0x80 }
+  - { offsetInCU: 0x4DF2, offset: 0x1FE52D, size: 0x8, addend: 0x0, symName: '_$s8GLTFKit229GLTFRealityKitResourceContextC9ColorMaskOwst', symObjAddr: 0x80F0, symBinAddr: 0x3CFC0, symSize: 0xD0 }
+  - { offsetInCU: 0x4E06, offset: 0x1FE541, size: 0x8, addend: 0x0, symName: '_$s8GLTFKit229GLTFRealityKitResourceContextC9ColorMaskOwug', symObjAddr: 0x81C0, symBinAddr: 0x3D090, symSize: 0x10 }
+  - { offsetInCU: 0x4E1A, offset: 0x1FE555, size: 0x8, addend: 0x0, symName: '_$s8GLTFKit229GLTFRealityKitResourceContextC9ColorMaskOwup', symObjAddr: 0x81D0, symBinAddr: 0x3D0A0, symSize: 0x10 }
+  - { offsetInCU: 0x4E2E, offset: 0x1FE569, size: 0x8, addend: 0x0, symName: '_$s8GLTFKit229GLTFRealityKitResourceContextC9ColorMaskOwui', symObjAddr: 0x81E0, symBinAddr: 0x3D0B0, symSize: 0x10 }
+  - { offsetInCU: 0x4E42, offset: 0x1FE57D, size: 0x8, addend: 0x0, symName: '_$s8GLTFKit229GLTFRealityKitResourceContextC9ColorMaskOMa', symObjAddr: 0x81F0, symBinAddr: 0x3D0C0, symSize: 0x10 }
+  - { offsetInCU: 0x4E56, offset: 0x1FE591, size: 0x8, addend: 0x0, symName: '_$s8GLTFKit229GLTFRealityKitResourceContextC9ColorMaskOSHAASQWb', symObjAddr: 0x8220, symBinAddr: 0x3D0F0, symSize: 0x10 }
+  - { offsetInCU: 0x4E6A, offset: 0x1FE5A5, size: 0x8, addend: 0x0, symName: '_$s8GLTFKit229GLTFRealityKitResourceContextC9ColorMaskOAESQAAWl', symObjAddr: 0x8230, symBinAddr: 0x3D100, symSize: 0x30 }
+  - { offsetInCU: 0x4E7E, offset: 0x1FE5B9, size: 0x8, addend: 0x0, symName: ___swift_allocate_boxed_opaque_existential_1, symObjAddr: 0x8260, symBinAddr: 0x3D130, symSize: 0x30 }
+  - { offsetInCU: 0x4E9D, offset: 0x1FE5D8, size: 0x8, addend: 0x0, symName: '_$ss22_ContiguousArrayBufferV19_uninitializedCount15minimumCapacityAByxGSi_SitcfCs6UInt32V_Tg5Tf4nnd_n', symObjAddr: 0x8290, symBinAddr: 0x3D160, symSize: 0x80 }
+  - { offsetInCU: 0x4F6B, offset: 0x1FE6A6, size: 0x8, addend: 0x0, symName: '_$s10Foundation4DataV15_RepresentationOWOe', symObjAddr: 0x8380, symBinAddr: 0x3D250, symSize: 0x40 }
+  - { offsetInCU: 0x5087, offset: 0x1FE7C2, size: 0x8, addend: 0x0, symName: '_$s10RealityKit8Material_pWOc', symObjAddr: 0x88B0, symBinAddr: 0x3D780, symSize: 0x30 }
+  - { offsetInCU: 0x509B, offset: 0x1FE7D6, size: 0x8, addend: 0x0, symName: ___swift_destroy_boxed_opaque_existential_1, symObjAddr: 0x88E0, symBinAddr: 0x3D7B0, symSize: 0x30 }
+  - { offsetInCU: 0x50AF, offset: 0x1FE7EA, size: 0x8, addend: 0x0, symName: '_$s10RealityKit8Material_pWOb', symObjAddr: 0x8910, symBinAddr: 0x3D7E0, symSize: 0x20 }
+  - { offsetInCU: 0x50C3, offset: 0x1FE7FE, size: 0x8, addend: 0x0, symName: '_$ss29getContiguousArrayStorageType3fors01_bcD0CyxGmxm_tlF10RealityKit6EntityC_Tg5Tf4d_n', symObjAddr: 0x89F0, symBinAddr: 0x3D8C0, symSize: 0x50 }
+  - { offsetInCU: 0x50F1, offset: 0x1FE82C, size: 0x8, addend: 0x0, symName: '_$ss22_ContiguousArrayBufferV19_uninitializedCount15minimumCapacityAByxGSi_SitcfC10RealityKit6EntityC_Tg5Tf4nnd_n', symObjAddr: 0x8A40, symBinAddr: 0x3D910, symSize: 0x80 }
+  - { offsetInCU: 0x517B, offset: 0x1FE8B6, size: 0x8, addend: 0x0, symName: '_$ss12_ArrayBufferV13_copyContents8subRange12initializingSpyxGSnySiG_AFtF10RealityKit6EntityC_Tg5Tf4nng_n', symObjAddr: 0x8AC0, symBinAddr: 0x3D990, symSize: 0x110 }
+  - { offsetInCU: 0x52BB, offset: 0x1FE9F6, size: 0x8, addend: 0x0, symName: '_$sypWOb', symObjAddr: 0x8E50, symBinAddr: 0x3DD20, symSize: 0x20 }
+  - { offsetInCU: 0x52CF, offset: 0x1FEA0A, size: 0x8, addend: 0x0, symName: '_$sSo20vImage_CGImageFormatVwCP', symObjAddr: 0x8EC0, symBinAddr: 0x3DD90, symSize: 0x30 }
+  - { offsetInCU: 0x52E3, offset: 0x1FEA1E, size: 0x8, addend: 0x0, symName: ___swift_memcpy40_8, symObjAddr: 0x8EF0, symBinAddr: 0x3DDC0, symSize: 0x20 }
+  - { offsetInCU: 0x52F7, offset: 0x1FEA32, size: 0x8, addend: 0x0, symName: '_$sSo20vImage_CGImageFormatVwet', symObjAddr: 0x8F10, symBinAddr: 0x3DDE0, symSize: 0x60 }
+  - { offsetInCU: 0x530B, offset: 0x1FEA46, size: 0x8, addend: 0x0, symName: '_$sSo20vImage_CGImageFormatVwst', symObjAddr: 0x8F70, symBinAddr: 0x3DE40, symSize: 0x50 }
+  - { offsetInCU: 0x531F, offset: 0x1FEA5A, size: 0x8, addend: 0x0, symName: '_$sSo22GLTFAssetLoadingOptionas20_SwiftNewtypeWrapperSCSYWb', symObjAddr: 0x8FE0, symBinAddr: 0x3DEB0, symSize: 0x20 }
+  - { offsetInCU: 0x5333, offset: 0x1FEA6E, size: 0x8, addend: 0x0, symName: '_$sSo22GLTFAssetLoadingOptionas20_SwiftNewtypeWrapperSCs35_HasCustomAnyHashableRepresentationPWb', symObjAddr: 0x9000, symBinAddr: 0x3DED0, symSize: 0x20 }
+  - { offsetInCU: 0x5347, offset: 0x1FEA82, size: 0x8, addend: 0x0, symName: '_$sSo22GLTFAssetLoadingOptionaSHSCSQWb', symObjAddr: 0x9020, symBinAddr: 0x3DEF0, symSize: 0x20 }
+  - { offsetInCU: 0x5499, offset: 0x1FEBD4, size: 0x8, addend: 0x0, symName: '_$s8GLTFKit229GLTFRealityKitResourceContextC9ColorMaskOSQAASQ2eeoiySbx_xtFZTW', symObjAddr: 0x810, symBinAddr: 0x356E0, symSize: 0x10 }
+  - { offsetInCU: 0x552A, offset: 0x1FEC65, size: 0x8, addend: 0x0, symName: '_$s8GLTFKit229GLTFRealityKitResourceContextC9ColorMaskOSHAASH9hashValueSivgTW', symObjAddr: 0x820, symBinAddr: 0x356F0, symSize: 0x40 }
+  - { offsetInCU: 0x55D9, offset: 0x1FED14, size: 0x8, addend: 0x0, symName: '_$s8GLTFKit229GLTFRealityKitResourceContextC9ColorMaskOSHAASH4hash4intoys6HasherVz_tFTW', symObjAddr: 0x860, symBinAddr: 0x35730, symSize: 0x20 }
+  - { offsetInCU: 0x562C, offset: 0x1FED67, size: 0x8, addend: 0x0, symName: '_$s8GLTFKit229GLTFRealityKitResourceContextC9ColorMaskOSHAASH13_rawHashValue4seedS2i_tFTW', symObjAddr: 0x880, symBinAddr: 0x35750, symSize: 0x40 }
+  - { offsetInCU: 0x59C8, offset: 0x1FF103, size: 0x8, addend: 0x0, symName: '_$sSo22GLTFAssetLoadingOptionas21_ObjectiveCBridgeableSCsACP016_forceBridgeFromD1C_6resulty01_D5CTypeQz_xSgztFZTW', symObjAddr: 0x44C0, symBinAddr: 0x39390, symSize: 0x10 }
+  - { offsetInCU: 0x5A08, offset: 0x1FF143, size: 0x8, addend: 0x0, symName: '_$sSo22GLTFAssetLoadingOptionas21_ObjectiveCBridgeableSCsACP024_conditionallyBridgeFromD1C_6resultSb01_D5CTypeQz_xSgztFZTW', symObjAddr: 0x44D0, symBinAddr: 0x393A0, symSize: 0x10 }
+  - { offsetInCU: 0x5A4F, offset: 0x1FF18A, size: 0x8, addend: 0x0, symName: '_$sSo22GLTFAssetLoadingOptionas21_ObjectiveCBridgeableSCsACP026_unconditionallyBridgeFromD1Cyx01_D5CTypeQzSgFZTW', symObjAddr: 0x44E0, symBinAddr: 0x393B0, symSize: 0x40 }
+  - { offsetInCU: 0x5ACD, offset: 0x1FF208, size: 0x8, addend: 0x0, symName: '_$sSo22GLTFAssetLoadingOptionaSHSCSH4hash4intoys6HasherVz_tFTW', symObjAddr: 0x4580, symBinAddr: 0x39450, symSize: 0x30 }
+  - { offsetInCU: 0x5B4B, offset: 0x1FF286, size: 0x8, addend: 0x0, symName: '_$sSo22GLTFAssetLoadingOptionaSHSCSH13_rawHashValue4seedS2i_tFTW', symObjAddr: 0x45B0, symBinAddr: 0x39480, symSize: 0x60 }
+  - { offsetInCU: 0x5BD6, offset: 0x1FF311, size: 0x8, addend: 0x0, symName: '_$sSo22GLTFAssetLoadingOptionaSQSCSQ2eeoiySbx_xtFZTW', symObjAddr: 0x4610, symBinAddr: 0x394E0, symSize: 0x80 }
+  - { offsetInCU: 0x5C67, offset: 0x1FF3A2, size: 0x8, addend: 0x0, symName: '_$sSo22GLTFAssetLoadingOptionas35_HasCustomAnyHashableRepresentationSCsACP03_toefG0s0fG0VSgyFTW', symObjAddr: 0x46F0, symBinAddr: 0x395C0, symSize: 0x70 }
+  - { offsetInCU: 0x5DCD, offset: 0x1FF508, size: 0x8, addend: 0x0, symName: '_$sSD17dictionaryLiteralSDyxq_Gx_q_td_tcfCSo22GLTFAssetLoadingOptiona_ypTg5Tf4gd_n', symObjAddr: 0x7DA0, symBinAddr: 0x3CC70, symSize: 0xE0 }
+  - { offsetInCU: 0x5F02, offset: 0x1FF63D, size: 0x8, addend: 0x0, symName: '_$sSD17dictionaryLiteralSDyxq_Gx_q_td_tcfCSS_ypTg5Tf4gd_n', symObjAddr: 0x7EC0, symBinAddr: 0x3CD90, symSize: 0xE0 }
+  - { offsetInCU: 0x6019, offset: 0x1FF754, size: 0x8, addend: 0x0, symName: '_$sSaySayxGqd__c7ElementQyd__RszSTRd__lufCs6UInt32V_SnyAEGTg5Tf4nd_n', symObjAddr: 0x8310, symBinAddr: 0x3D1E0, symSize: 0x70 }
+  - { offsetInCU: 0x615A, offset: 0x1FF895, size: 0x8, addend: 0x0, symName: '_$sSTsE10compactMapySayqd__Gqd__Sg7ElementQzKXEKlFSaySo13GLTFPrimitiveCG_17RealityFoundation14MeshDescriptorV_0E3Kit8Material_ptTg5024$s8GLTFKit220GLTFRealityi30LoaderC7convert4mesh7context07e76C014ModelComponentVSgSo8GLTFMeshC_AA0bC15ResourceContextCtKF0H10Foundation14gh5V_AG8j9_ptSgSo13D7CKXEfU_8GLTFKit20miN0CAO0mixY0Cs6UInt32VTf1cn_nTf4nggn_n', symObjAddr: 0x83C0, symBinAddr: 0x3D290, symSize: 0x4F0 }
+  - { offsetInCU: 0x642C, offset: 0x1FFB67, size: 0x8, addend: 0x0, symName: '_$sSTsE10compactMapySayqd__Gqd__Sg7ElementQzKXEKlFSaySo8GLTFNodeCG_10RealityKit6EntityCTg5024$s8GLTFKit220GLTFRealityf23LoaderC7convert5scene07e3C06g24CSo9GLTFSceneC_tFAHSgSo8D7CKXEfU_8GLTFKit20jfK0CAM0jF15ResourceContextCTf1cn_nTf4ngg_n', symObjAddr: 0x8BD0, symBinAddr: 0x3DAA0, symSize: 0x280 }
+  - { offsetInCU: 0x66DF, offset: 0x1FFE1A, size: 0x8, addend: 0x0, symName: '_$ss20_SwiftNewtypeWrapperPss21_ObjectiveCBridgeable8RawValueRpzrlE016_forceBridgeFromD1C_6resultyAD_01_D5CTypeQZ_xSgztFZSo22GLTFAssetLoadingOptiona_Tgq5Tf4nnd_n', symObjAddr: 0x9040, symBinAddr: 0x3DF10, symSize: 0x80 }
+  - { offsetInCU: 0x6770, offset: 0x1FFEAB, size: 0x8, addend: 0x0, symName: '_$ss20_SwiftNewtypeWrapperPss21_ObjectiveCBridgeable8RawValueRpzrlE024_conditionallyBridgeFromD1C_6resultSbAD_01_D5CTypeQZ_xSgztFZSo22GLTFAssetLoadingOptiona_Tgq5Tf4nnd_n', symObjAddr: 0x90C0, symBinAddr: 0x3DF90, symSize: 0x80 }
+  - { offsetInCU: 0x6A70, offset: 0x2001AB, size: 0x8, addend: 0x0, symName: '_$sSo9GLTFAssetC3url7optionsAB10Foundation3URLV_SDySo0A13LoadingOptionaypGtKcfCTO', symObjAddr: 0x1800, symBinAddr: 0x366D0, symSize: 0x170 }
+  - { offsetInCU: 0x6B23, offset: 0x20025E, size: 0x8, addend: 0x0, symName: '_$sSo22GLTFAssetLoadingOptionaSYSCSY8rawValuexSg03RawE0Qz_tcfCTW', symObjAddr: 0x4690, symBinAddr: 0x39560, symSize: 0x40 }
+  - { offsetInCU: 0x6B4C, offset: 0x200287, size: 0x8, addend: 0x0, symName: '_$sSo22GLTFAssetLoadingOptionaSYSCSY8rawValue03RawE0QzvgTW', symObjAddr: 0x46D0, symBinAddr: 0x395A0, symSize: 0x20 }
+...

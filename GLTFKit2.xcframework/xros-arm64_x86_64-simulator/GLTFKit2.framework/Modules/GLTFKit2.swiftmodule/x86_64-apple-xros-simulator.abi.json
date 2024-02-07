@@ -1,0 +1,643 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "TopLevel",
+    "printedName": "TopLevel",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "RealityKit",
+        "printedName": "RealityKit",
+        "declKind": "Import",
+        "moduleName": "GLTFKit2"
+      },
+      {
+        "kind": "Import",
+        "name": "Accelerate",
+        "printedName": "Accelerate",
+        "declKind": "Import",
+        "moduleName": "GLTFKit2"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "GLTFRealityKitLoader",
+        "printedName": "GLTFRealityKitLoader",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "load",
+            "printedName": "load(from:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Entity",
+                "printedName": "RealityKit.Entity",
+                "usr": "s:17RealityFoundation6EntityC"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "URL",
+                "printedName": "Foundation.URL",
+                "usr": "s:10Foundation3URLV"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:8GLTFKit220GLTFRealityKitLoaderC4load4from17RealityFoundation6EntityC0H03URLV_tYaKFZ",
+            "mangledName": "$s8GLTFKit220GLTFRealityKitLoaderC4load4from07RealityC06EntityC10Foundation3URLV_tYaKFZ",
+            "moduleName": "GLTFKit2",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "AccessControl"
+            ],
+            "throwing": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "convert",
+            "printedName": "convert(scene:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Entity",
+                "printedName": "RealityKit.Entity",
+                "usr": "s:17RealityFoundation6EntityC"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "GLTFScene",
+                "printedName": "GLTFKit2.GLTFScene",
+                "usr": "c:objc(cs)GLTFScene"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:8GLTFKit220GLTFRealityKitLoaderC7convert5scene17RealityFoundation6EntityCSo9GLTFSceneC_tFZ",
+            "mangledName": "$s8GLTFKit220GLTFRealityKitLoaderC7convert5scene07RealityC06EntityCSo9GLTFSceneC_tFZ",
+            "moduleName": "GLTFKit2",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "s:8GLTFKit220GLTFRealityKitLoaderC",
+        "mangledName": "$s8GLTFKit220GLTFRealityKitLoaderC",
+        "moduleName": "GLTFKit2",
+        "intro_Macosx": "12.0",
+        "intro_iOS": "15.0",
+        "declAttributes": [
+          "AccessControl",
+          "Available",
+          "Available"
+        ],
+        "hasMissingDesignatedInitializers": true
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": [
+    {
+      "filePath": "\/Users\/ferhatabdullahoglu\/Projects\/superbright\/client\/VorticVR\/GLTFKit2\/GLTFKit2\/GLTFKit2\/GLTFRealityKit.swift",
+      "kind": "IntegerLiteral",
+      "offset": 237,
+      "length": 3,
+      "value": "180"
+    },
+    {
+      "filePath": "\/Users\/ferhatabdullahoglu\/Projects\/superbright\/client\/VorticVR\/GLTFKit2\/GLTFKit2\/GLTFKit2\/GLTFRealityKit.swift",
+      "kind": "IntegerLiteral",
+      "offset": 783,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/ferhatabdullahoglu\/Projects\/superbright\/client\/VorticVR\/GLTFKit2\/GLTFKit2\/GLTFKit2\/GLTFRealityKit.swift",
+      "kind": "IntegerLiteral",
+      "offset": 888,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/ferhatabdullahoglu\/Projects\/superbright\/client\/VorticVR\/GLTFKit2\/GLTFKit2\/GLTFKit2\/GLTFRealityKit.swift",
+      "kind": "IntegerLiteral",
+      "offset": 959,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/ferhatabdullahoglu\/Projects\/superbright\/client\/VorticVR\/GLTFKit2\/GLTFKit2\/GLTFKit2\/GLTFRealityKit.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1028,
+      "length": 1,
+      "value": "4"
+    },
+    {
+      "filePath": "\/Users\/ferhatabdullahoglu\/Projects\/superbright\/client\/VorticVR\/GLTFKit2\/GLTFKit2\/GLTFKit2\/GLTFRealityKit.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1162,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/ferhatabdullahoglu\/Projects\/superbright\/client\/VorticVR\/GLTFKit2\/GLTFKit2\/GLTFKit2\/GLTFRealityKit.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1199,
+      "length": 1,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/ferhatabdullahoglu\/Projects\/superbright\/client\/VorticVR\/GLTFKit2\/GLTFKit2\/GLTFKit2\/GLTFRealityKit.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1236,
+      "length": 1,
+      "value": "4"
+    },
+    {
+      "filePath": "\/Users\/ferhatabdullahoglu\/Projects\/superbright\/client\/VorticVR\/GLTFKit2\/GLTFKit2\/GLTFKit2\/GLTFRealityKit.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1364,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/ferhatabdullahoglu\/Projects\/superbright\/client\/VorticVR\/GLTFKit2\/GLTFKit2\/GLTFKit2\/GLTFRealityKit.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1768,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/ferhatabdullahoglu\/Projects\/superbright\/client\/VorticVR\/GLTFKit2\/GLTFKit2\/GLTFKit2\/GLTFRealityKit.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2072,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/ferhatabdullahoglu\/Projects\/superbright\/client\/VorticVR\/GLTFKit2\/GLTFKit2\/GLTFKit2\/GLTFRealityKit.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2105,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/ferhatabdullahoglu\/Projects\/superbright\/client\/VorticVR\/GLTFKit2\/GLTFKit2\/GLTFKit2\/GLTFRealityKit.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2233,
+      "length": 1,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/ferhatabdullahoglu\/Projects\/superbright\/client\/VorticVR\/GLTFKit2\/GLTFKit2\/GLTFKit2\/GLTFRealityKit.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2281,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/ferhatabdullahoglu\/Projects\/superbright\/client\/VorticVR\/GLTFKit2\/GLTFKit2\/GLTFKit2\/GLTFRealityKit.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2302,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/ferhatabdullahoglu\/Projects\/superbright\/client\/VorticVR\/GLTFKit2\/GLTFKit2\/GLTFKit2\/GLTFRealityKit.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2317,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/ferhatabdullahoglu\/Projects\/superbright\/client\/VorticVR\/GLTFKit2\/GLTFKit2\/GLTFKit2\/GLTFRealityKit.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2333,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/ferhatabdullahoglu\/Projects\/superbright\/client\/VorticVR\/GLTFKit2\/GLTFKit2\/GLTFKit2\/GLTFRealityKit.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2916,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/ferhatabdullahoglu\/Projects\/superbright\/client\/VorticVR\/GLTFKit2\/GLTFKit2\/GLTFKit2\/GLTFRealityKit.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3220,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/ferhatabdullahoglu\/Projects\/superbright\/client\/VorticVR\/GLTFKit2\/GLTFKit2\/GLTFKit2\/GLTFRealityKit.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3253,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/ferhatabdullahoglu\/Projects\/superbright\/client\/VorticVR\/GLTFKit2\/GLTFKit2\/GLTFKit2\/GLTFRealityKit.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3381,
+      "length": 1,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/ferhatabdullahoglu\/Projects\/superbright\/client\/VorticVR\/GLTFKit2\/GLTFKit2\/GLTFKit2\/GLTFRealityKit.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3429,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/ferhatabdullahoglu\/Projects\/superbright\/client\/VorticVR\/GLTFKit2\/GLTFKit2\/GLTFKit2\/GLTFRealityKit.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3444,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/ferhatabdullahoglu\/Projects\/superbright\/client\/VorticVR\/GLTFKit2\/GLTFKit2\/GLTFKit2\/GLTFRealityKit.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3459,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/ferhatabdullahoglu\/Projects\/superbright\/client\/VorticVR\/GLTFKit2\/GLTFKit2\/GLTFKit2\/GLTFRealityKit.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4246,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/ferhatabdullahoglu\/Projects\/superbright\/client\/VorticVR\/GLTFKit2\/GLTFKit2\/GLTFKit2\/GLTFRealityKit.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4283,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/ferhatabdullahoglu\/Projects\/superbright\/client\/VorticVR\/GLTFKit2\/GLTFKit2\/GLTFKit2\/GLTFRealityKit.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4647,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/ferhatabdullahoglu\/Projects\/superbright\/client\/VorticVR\/GLTFKit2\/GLTFKit2\/GLTFKit2\/GLTFRealityKit.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4684,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/ferhatabdullahoglu\/Projects\/superbright\/client\/VorticVR\/GLTFKit2\/GLTFKit2\/GLTFKit2\/GLTFRealityKit.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4974,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/ferhatabdullahoglu\/Projects\/superbright\/client\/VorticVR\/GLTFKit2\/GLTFKit2\/GLTFKit2\/GLTFRealityKit.swift",
+      "kind": "BooleanLiteral",
+      "offset": 6346,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/ferhatabdullahoglu\/Projects\/superbright\/client\/VorticVR\/GLTFKit2\/GLTFKit2\/GLTFKit2\/GLTFRealityKit.swift",
+      "kind": "IntegerLiteral",
+      "offset": 6850,
+      "length": 5,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/ferhatabdullahoglu\/Projects\/superbright\/client\/VorticVR\/GLTFKit2\/GLTFKit2\/GLTFKit2\/GLTFRealityKit.swift",
+      "kind": "IntegerLiteral",
+      "offset": 6869,
+      "length": 4,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/ferhatabdullahoglu\/Projects\/superbright\/client\/VorticVR\/GLTFKit2\/GLTFKit2\/GLTFKit2\/GLTFRealityKit.swift",
+      "kind": "IntegerLiteral",
+      "offset": 6887,
+      "length": 3,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/ferhatabdullahoglu\/Projects\/superbright\/client\/VorticVR\/GLTFKit2\/GLTFKit2\/GLTFKit2\/GLTFRealityKit.swift",
+      "kind": "IntegerLiteral",
+      "offset": 6850,
+      "length": 5,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/ferhatabdullahoglu\/Projects\/superbright\/client\/VorticVR\/GLTFKit2\/GLTFKit2\/GLTFKit2\/GLTFRealityKit.swift",
+      "kind": "IntegerLiteral",
+      "offset": 6869,
+      "length": 4,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/ferhatabdullahoglu\/Projects\/superbright\/client\/VorticVR\/GLTFKit2\/GLTFKit2\/GLTFKit2\/GLTFRealityKit.swift",
+      "kind": "IntegerLiteral",
+      "offset": 6887,
+      "length": 3,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/ferhatabdullahoglu\/Projects\/superbright\/client\/VorticVR\/GLTFKit2\/GLTFKit2\/GLTFKit2\/GLTFRealityKit.swift",
+      "kind": "IntegerLiteral",
+      "offset": 6850,
+      "length": 5,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/ferhatabdullahoglu\/Projects\/superbright\/client\/VorticVR\/GLTFKit2\/GLTFKit2\/GLTFKit2\/GLTFRealityKit.swift",
+      "kind": "IntegerLiteral",
+      "offset": 6869,
+      "length": 4,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/ferhatabdullahoglu\/Projects\/superbright\/client\/VorticVR\/GLTFKit2\/GLTFKit2\/GLTFKit2\/GLTFRealityKit.swift",
+      "kind": "IntegerLiteral",
+      "offset": 6887,
+      "length": 3,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/ferhatabdullahoglu\/Projects\/superbright\/client\/VorticVR\/GLTFKit2\/GLTFKit2\/GLTFKit2\/GLTFRealityKit.swift",
+      "kind": "FloatLiteral",
+      "offset": 7168,
+      "length": 3,
+      "value": "0.5"
+    },
+    {
+      "filePath": "\/Users\/ferhatabdullahoglu\/Projects\/superbright\/client\/VorticVR\/GLTFKit2\/GLTFKit2\/GLTFKit2\/GLTFRealityKit.swift",
+      "kind": "FloatLiteral",
+      "offset": 7180,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/ferhatabdullahoglu\/Projects\/superbright\/client\/VorticVR\/GLTFKit2\/GLTFKit2\/GLTFKit2\/GLTFRealityKit.swift",
+      "kind": "BooleanLiteral",
+      "offset": 7198,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/ferhatabdullahoglu\/Projects\/superbright\/client\/VorticVR\/GLTFKit2\/GLTFKit2\/GLTFKit2\/GLTFRealityKit.swift",
+      "kind": "IntegerLiteral",
+      "offset": 10380,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/ferhatabdullahoglu\/Projects\/superbright\/client\/VorticVR\/GLTFKit2\/GLTFKit2\/GLTFKit2\/GLTFRealityKit.swift",
+      "kind": "IntegerLiteral",
+      "offset": 10431,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/ferhatabdullahoglu\/Projects\/superbright\/client\/VorticVR\/GLTFKit2\/GLTFKit2\/GLTFKit2\/GLTFRealityKit.swift",
+      "kind": "IntegerLiteral",
+      "offset": 10457,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/ferhatabdullahoglu\/Projects\/superbright\/client\/VorticVR\/GLTFKit2\/GLTFKit2\/GLTFKit2\/GLTFRealityKit.swift",
+      "kind": "IntegerLiteral",
+      "offset": 10482,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/ferhatabdullahoglu\/Projects\/superbright\/client\/VorticVR\/GLTFKit2\/GLTFKit2\/GLTFKit2\/GLTFRealityKit.swift",
+      "kind": "IntegerLiteral",
+      "offset": 10644,
+      "length": 1,
+      "value": "8"
+    },
+    {
+      "filePath": "\/Users\/ferhatabdullahoglu\/Projects\/superbright\/client\/VorticVR\/GLTFKit2\/GLTFKit2\/GLTFKit2\/GLTFRealityKit.swift",
+      "kind": "IntegerLiteral",
+      "offset": 10661,
+      "length": 1,
+      "value": "8"
+    },
+    {
+      "filePath": "\/Users\/ferhatabdullahoglu\/Projects\/superbright\/client\/VorticVR\/GLTFKit2\/GLTFKit2\/GLTFKit2\/GLTFRealityKit.swift",
+      "kind": "IntegerLiteral",
+      "offset": 11394,
+      "length": 1,
+      "value": "8"
+    },
+    {
+      "filePath": "\/Users\/ferhatabdullahoglu\/Projects\/superbright\/client\/VorticVR\/GLTFKit2\/GLTFKit2\/GLTFKit2\/GLTFRealityKit.swift",
+      "kind": "IntegerLiteral",
+      "offset": 11497,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/ferhatabdullahoglu\/Projects\/superbright\/client\/VorticVR\/GLTFKit2\/GLTFKit2\/GLTFKit2\/GLTFRealityKit.swift",
+      "kind": "IntegerLiteral",
+      "offset": 11501,
+      "length": 1,
+      "value": "4"
+    },
+    {
+      "filePath": "\/Users\/ferhatabdullahoglu\/Projects\/superbright\/client\/VorticVR\/GLTFKit2\/GLTFKit2\/GLTFKit2\/GLTFRealityKit.swift",
+      "kind": "IntegerLiteral",
+      "offset": 12672,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/ferhatabdullahoglu\/Projects\/superbright\/client\/VorticVR\/GLTFKit2\/GLTFKit2\/GLTFKit2\/GLTFRealityKit.swift",
+      "kind": "IntegerLiteral",
+      "offset": 12678,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/ferhatabdullahoglu\/Projects\/superbright\/client\/VorticVR\/GLTFKit2\/GLTFKit2\/GLTFKit2\/GLTFRealityKit.swift",
+      "kind": "BooleanLiteral",
+      "offset": 12722,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/ferhatabdullahoglu\/Projects\/superbright\/client\/VorticVR\/GLTFKit2\/GLTFKit2\/GLTFKit2\/GLTFRealityKit.swift",
+      "kind": "IntegerLiteral",
+      "offset": 13368,
+      "length": 4,
+      "value": "1020"
+    },
+    {
+      "filePath": "\/Users\/ferhatabdullahoglu\/Projects\/superbright\/client\/VorticVR\/GLTFKit2\/GLTFKit2\/GLTFKit2\/GLTFRealityKit.swift",
+      "kind": "StringLiteral",
+      "offset": 13440,
+      "length": 48,
+      "value": "\"The glTF asset did not specify a default scene\""
+    },
+    {
+      "filePath": "\/Users\/ferhatabdullahoglu\/Projects\/superbright\/client\/VorticVR\/GLTFKit2\/GLTFKit2\/GLTFKit2\/GLTFRealityKit.swift",
+      "kind": "StringLiteral",
+      "offset": 14087,
+      "length": 39,
+      "value": "\"Error when converting scene: \""
+    },
+    {
+      "filePath": "\/Users\/ferhatabdullahoglu\/Projects\/superbright\/client\/VorticVR\/GLTFKit2\/GLTFKit2\/GLTFKit2\/GLTFRealityKit.swift",
+      "kind": "StringLiteral",
+      "offset": 14125,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/ferhatabdullahoglu\/Projects\/superbright\/client\/VorticVR\/GLTFKit2\/GLTFKit2\/GLTFKit2\/GLTFRealityKit.swift",
+      "kind": "StringLiteral",
+      "offset": 14418,
+      "length": 16,
+      "value": "\"(unnamed node)\""
+    },
+    {
+      "filePath": "\/Users\/ferhatabdullahoglu\/Projects\/superbright\/client\/VorticVR\/GLTFKit2\/GLTFKit2\/GLTFKit2\/GLTFRealityKit.swift",
+      "kind": "IntegerLiteral",
+      "offset": 15731,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/ferhatabdullahoglu\/Projects\/superbright\/client\/VorticVR\/GLTFKit2\/GLTFKit2\/GLTFKit2\/GLTFRealityKit.swift",
+      "kind": "IntegerLiteral",
+      "offset": 16186,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/ferhatabdullahoglu\/Projects\/superbright\/client\/VorticVR\/GLTFKit2\/GLTFKit2\/GLTFKit2\/GLTFRealityKit.swift",
+      "kind": "IntegerLiteral",
+      "offset": 16427,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/ferhatabdullahoglu\/Projects\/superbright\/client\/VorticVR\/GLTFKit2\/GLTFKit2\/GLTFKit2\/GLTFRealityKit.swift",
+      "kind": "StringLiteral",
+      "offset": 17165,
+      "length": 16,
+      "value": "\"(unnamed prim)\""
+    },
+    {
+      "filePath": "\/Users\/ferhatabdullahoglu\/Projects\/superbright\/client\/VorticVR\/GLTFKit2\/GLTFKit2\/GLTFKit2\/GLTFRealityKit.swift",
+      "kind": "StringLiteral",
+      "offset": 17274,
+      "length": 10,
+      "value": "\"POSITION\""
+    },
+    {
+      "filePath": "\/Users\/ferhatabdullahoglu\/Projects\/superbright\/client\/VorticVR\/GLTFKit2\/GLTFKit2\/GLTFKit2\/GLTFRealityKit.swift",
+      "kind": "StringLiteral",
+      "offset": 17532,
+      "length": 8,
+      "value": "\"NORMAL\""
+    },
+    {
+      "filePath": "\/Users\/ferhatabdullahoglu\/Projects\/superbright\/client\/VorticVR\/GLTFKit2\/GLTFKit2\/GLTFKit2\/GLTFRealityKit.swift",
+      "kind": "StringLiteral",
+      "offset": 17779,
+      "length": 9,
+      "value": "\"TANGENT\""
+    },
+    {
+      "filePath": "\/Users\/ferhatabdullahoglu\/Projects\/superbright\/client\/VorticVR\/GLTFKit2\/GLTFKit2\/GLTFKit2\/GLTFRealityKit.swift",
+      "kind": "StringLiteral",
+      "offset": 18035,
+      "length": 12,
+      "value": "\"TEXCOORD_0\""
+    },
+    {
+      "filePath": "\/Users\/ferhatabdullahoglu\/Projects\/superbright\/client\/VorticVR\/GLTFKit2\/GLTFKit2\/GLTFKit2\/GLTFRealityKit.swift",
+      "kind": "BooleanLiteral",
+      "offset": 18151,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/ferhatabdullahoglu\/Projects\/superbright\/client\/VorticVR\/GLTFKit2\/GLTFKit2\/GLTFKit2\/GLTFRealityKit.swift",
+      "kind": "StringLiteral",
+      "offset": 18594,
+      "length": 10,
+      "value": "\"POSITION\""
+    },
+    {
+      "filePath": "\/Users\/ferhatabdullahoglu\/Projects\/superbright\/client\/VorticVR\/GLTFKit2\/GLTFKit2\/GLTFKit2\/GLTFRealityKit.swift",
+      "kind": "IntegerLiteral",
+      "offset": 18625,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/ferhatabdullahoglu\/Projects\/superbright\/client\/VorticVR\/GLTFKit2\/GLTFKit2\/GLTFKit2\/GLTFRealityKit.swift",
+      "kind": "IntegerLiteral",
+      "offset": 18669,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/ferhatabdullahoglu\/Projects\/superbright\/client\/VorticVR\/GLTFKit2\/GLTFKit2\/GLTFKit2\/GLTFRealityKit.swift",
+      "kind": "FloatLiteral",
+      "offset": 19817,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/ferhatabdullahoglu\/Projects\/superbright\/client\/VorticVR\/GLTFKit2\/GLTFKit2\/GLTFKit2\/GLTFRealityKit.swift",
+      "kind": "FloatLiteral",
+      "offset": 23252,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/ferhatabdullahoglu\/Projects\/superbright\/client\/VorticVR\/GLTFKit2\/GLTFKit2\/GLTFKit2\/GLTFRealityKit.swift",
+      "kind": "IntegerLiteral",
+      "offset": 25798,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/ferhatabdullahoglu\/Projects\/superbright\/client\/VorticVR\/GLTFKit2\/GLTFKit2\/GLTFKit2\/GLTFRealityKit.swift",
+      "kind": "IntegerLiteral",
+      "offset": 25820,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/ferhatabdullahoglu\/Projects\/superbright\/client\/VorticVR\/GLTFKit2\/GLTFKit2\/GLTFKit2\/GLTFRealityKit.swift",
+      "kind": "IntegerLiteral",
+      "offset": 25841,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/ferhatabdullahoglu\/Projects\/superbright\/client\/VorticVR\/GLTFKit2\/GLTFKit2\/GLTFKit2\/GLTFRealityKit.swift",
+      "kind": "IntegerLiteral",
+      "offset": 25863,
+      "length": 1,
+      "value": "3"
+    }
+  ]
+}

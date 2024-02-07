@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		7092DA972B73D63800A2676D /* ktx.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7092DA932B73D0E600A2676D /* ktx.xcframework */; };
 		83244B6B2ABA517F00ECA381 /* GLTFKTX2Support.h in Headers */ = {isa = PBXBuildFile; fileRef = 83244B692ABA517F00ECA381 /* GLTFKTX2Support.h */; };
 		83244B6C2ABA517F00ECA381 /* GLTFKTX2Support.m in Sources */ = {isa = PBXBuildFile; fileRef = 83244B6A2ABA517F00ECA381 /* GLTFKTX2Support.m */; };
 		834AD60A25E1A3960010608A /* GLTFSceneKit.h in Headers */ = {isa = PBXBuildFile; fileRef = 834AD60825E1A3960010608A /* GLTFSceneKit.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -30,6 +31,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		7092DA932B73D0E600A2676D /* ktx.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; name = ktx.xcframework; path = deps/libktx/ktx.xcframework; sourceTree = "<group>"; };
 		83244B692ABA517F00ECA381 /* GLTFKTX2Support.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = GLTFKTX2Support.h; sourceTree = "<group>"; };
 		83244B6A2ABA517F00ECA381 /* GLTFKTX2Support.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GLTFKTX2Support.m; sourceTree = "<group>"; };
 		834AD60825E1A3960010608A /* GLTFSceneKit.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = GLTFSceneKit.h; sourceTree = "<group>"; };
@@ -61,12 +63,21 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7092DA972B73D63800A2676D /* ktx.xcframework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		7092DA922B73D0E500A2676D /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				7092DA932B73D0E600A2676D /* ktx.xcframework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 		83244B6E2ABA8C0E00ECA381 /* libktx */ = {
 			isa = PBXGroup;
 			children = (
@@ -81,6 +92,7 @@
 				8368059C277D3F6C00F3222A /* deps */,
 				834FF1C625C27938001887C2 /* GLTFKit2 */,
 				834FF1C525C27938001887C2 /* Products */,
+				7092DA922B73D0E500A2676D /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -408,9 +420,9 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.metalbyexample.gltfkit2;
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
 				SKIP_INSTALL = YES;
-				SUPPORTED_PLATFORMS = "appletvos appletvsimulator iphoneos iphonesimulator macosx xros xrsimulator";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx xros xrsimulator";
 				SUPPORTS_MACCATALYST = YES;
-				TARGETED_DEVICE_FAMILY = "1,2,3,7";
+				TARGETED_DEVICE_FAMILY = "1,2,7";
 			};
 			name = Debug;
 		};
@@ -442,9 +454,9 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.metalbyexample.gltfkit2;
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
 				SKIP_INSTALL = YES;
-				SUPPORTED_PLATFORMS = "appletvos appletvsimulator iphoneos iphonesimulator macosx xros xrsimulator";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx xros xrsimulator";
 				SUPPORTS_MACCATALYST = YES;
-				TARGETED_DEVICE_FAMILY = "1,2,3,7";
+				TARGETED_DEVICE_FAMILY = "1,2,7";
 			};
 			name = Release;
 		};
